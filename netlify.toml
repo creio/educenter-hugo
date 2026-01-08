@@ -6,10 +6,11 @@
 [build.environment]
   NODE_VERSION = "20.19.3"
   NPM_VERSION = "10.8.2"
-  # HUGO_VERSION = "0.115.1"
+  HUGO_VERSION = "0.147.9"
+  HUGO_ENABLEGITINFO = "true"
 
 [context.production]
-  command = "npm run build || true"
+  command = "npm run build"
 
 [context.deploy-preview]
   command = "npm run build -- -b $DEPLOY_PRIME_URL || true"
@@ -19,15 +20,14 @@
 
 [context.next]
   command = "npm run build"
-
-[context.next.environment]
-  HUGO_ENV = "next"
+  [context.next.environment]
+    HUGO_ENV = "next"
 
 # [[plugins]]
 #   package = "netlify-plugin-submit-sitemap"
 
 #     [plugins.inputs]
-#     baseUrl = "https://creio.ctlos.ru"
+#     baseUrl = "https://example.ru"
 #     sitemapPath = "/sitemap.xml"
 #     ignorePeriod = 24
 #     providers = [

@@ -3,7 +3,7 @@ license = "MIT"
 description = "Educenter is an educational website template powered by Hugo. It can be used as an online teaching platform, school and university website."
 tags = ["blog",'google-analytics', 'fast', 'modern', 'minimal', 'minimalistic', 'business', 'education', 'white', 'light', 'multilingual', "bootstrap", "company", "portfolio", "projects", "responsive", "gethugothemes"]
 features = ["blog", "company", "responsive", "seo-friendly"]
-min_version = "0.115.1"
+min_version = "0.147.9"
 
 [author]
   name = "cretm"

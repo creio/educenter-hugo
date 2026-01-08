@@ -1,0 +1,37 @@
+[ru]
+languageName = "Ru"
+languageCode = "ru-ru"
+contentDir = "content/ru"
+weight = 1
+
+[ru.params]
+home = "Главная"
+# copyright
+copyright = " | by [@cretm](https://creio.ctlos.ru)"
+
+################################### English language #####################################
+[en]
+languageName = "En"
+languageCode = "en-us"
+contentDir = "content/en"
+weight = 2
+
+[en.params]
+home = "Home"
+# copyright
+copyright = " | by [@cretm](https://creio.ctlos.ru)"
+
+
+
+################################### French language #####################################
+[fr]
+languageName = "Fr"
+languageCode = "fr-fr"
+contentDir = "content/fr"
+weight = 3
+
+[fr.params]
+home = "Accueil"
+# copyright
+copyright = "Copyright &copy; 2021 a hugo theme by [Themefisher](https://themefisher.com/hugo-themes/)"
+

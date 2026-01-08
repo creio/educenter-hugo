@@ -1,0 +1,116 @@
+.popup {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.5s ease, visibility 0.5s;
+  z-index: 10000;
+}
+
+.popup.show {
+  opacity: 1;
+  visibility: visible;
+}
+
+.popup-content {
+  background: $white;
+  position: relative;
+  padding: 20px;
+  border-radius: 8px;
+  width: 90%;
+  max-width: 700px;
+  max-height: 500px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+  overflow: auto; /* ← Скролл внутри попапа, если не помещается */
+  -webkit-overflow-scrolling: touch; /* Плавный скролл на iOS */
+}
+
+.close {
+  position: absolute;
+  top: 10px;
+  right: 25px;
+  font-size: 40px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: $text-color;
+}
+
+.close:hover {
+  color: $text-color-dark;
+}
+
+#formPopup iframe {
+  width: 100%;
+  height: 500px;
+  border: none;
+  display: block;
+}
+
+.Footer_iframe {
+  display: none;
+}
+
+.icon svg {
+  color: $primary-color;
+  fill: currentColor;
+  width: 1.6rem;   /* масштабируется относительно font-size */
+  height: 1.6rem;
+  vertical-align: -0.5em; /* выравнивание по базовой линии текста */
+}
+
+
+.contact-form {
+  background: $gray;
+  // max-width: 700px;
+  padding: 30px auto;
+}
+
+
+.page-links {
+  position: sticky;
+}
+
+#TableOfContents > ul {
+  padding-left: 0;
+
+  ul {
+    padding-left: 15px;
+    margin-top: 5px;
+
+    li {
+      margin-bottom: 5px;
+    }
+  }
+}
+
+/* Все заголовки, на которые есть якорные ссылки */
+h1[id], h2[id], h3[id], h4[id], h5[id], h6[id],
+.anchor, .anchor-target {
+  scroll-margin-top: 120px; /* ← высота фиксированного header'а */
+}
+
+.toc-sticky {
+  background: $white;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 100px;
+  align-self: flex-start;
+  max-height: calc(100vh - 120px); /* не уходить за нижний край */
+  overflow-y: auto;
+  padding: 1rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  z-index: 10;
+
+  .openFormBtn {
+    width: 100%;
+  }
+}

@@ -1,0 +1,40 @@
+<!-- page title -->
+{{ $img := resources.Get "images/backgrounds/page-title.jpg" }}
+<section class="page-title-section overlay" style="background-image: url('{{ .Params.Bg_image | relURL }}'),url('{{ $img.RelPermalink }}');" >
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8">
+        <ul class="list-inline custom-breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+          {{- $data := newScratch }}
+          {{- range $index, $value := .Ancestors.Reverse }}
+          <li class="list-inline-item h2" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+            {{- $data.Set "counter" $index }}
+            {{- $data.Add "counter" 1 }}
+            <a class="text-primary font-secondary" itemprop="item" href="{{.Permalink}}">
+              <span itemprop="name">
+                {{- if .IsHome -}}
+                  {{ .Site.Params.home }}
+                {{- else -}}
+                  {{ .Title }}
+                {{- end -}}
+              </span>
+            </a>
+            {{- /* pass the counter value into schema attribute */}}
+            <meta itemprop="position" content='{{ $data.Get "counter"}}' />
+          </li>
+          <li class="list-inline-item h5"><i class="ti-angle-right text-white"></i></li>
+          {{- end }}
+          <li class="list-inline-item text-white h3 font-secondary" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+            {{- /* add 'one' one more time for the last link position */}}
+            {{- $data.Add "counter" 1 }}
+            <span itemprop="name">{{.Title}}</span>
+            {{- /* pass the counter value into schema attribute */}}
+            <meta itemprop="position" content='{{ $data.Get "counter"}}' />
+          </li>
+        </ul>
+
+        <p class="text-lighten">{{ .Params.Description | markdownify }}</p>
+      </div>
+    </div>
+  </div>
+</section>

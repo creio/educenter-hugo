@@ -1,0 +1,18 @@
+{
+  "name": "educenter",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "cretm",
+  "scripts": {
+    "dev": "exec-bin node_modules/.bin/hugo server --bind=0.0.0.0 --disableFastRender --environment development",
+    "build": "exec-bin node_modules/.bin/hugo --gc --minify --templateMetrics --templateMetricsHints --buildDrafts --buildExpired --buildFuture --forceSyncStatic",
+    "server": "exec-bin node_modules/.bin/hugo server",
+    "clean": "shx rm -rf public resources .hugo_build.lock",
+    "clean:install": "shx rm -rf package-lock.json node_modules"
+  },
+  "devDependencies": {
+    "shx": "^0.3.3",
+    "hugo-extended": "^0.147.9",
+    "exec-bin": "^1.0.0"
+  }
+}

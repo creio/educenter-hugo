@@ -1,0 +1,106 @@
+################### navigation ####################
+
+# header_top menu
+[[header_top]]
+name = "Работодателям"
+url = "about/"
+weight = 1
+
+[[header_top]]
+name = "Ученикам и родителям"
+url = "programs/"
+weight = 2
+
+[[header_top]]
+name = "Учителям"
+url = "programs/"
+weight = 3
+
+
+# main menu
+[[main]]
+name = "О нас"
+url = "about/"
+weight = 1
+
+[[main]]
+name = "Программы"
+url = "programs/"
+weight = 2
+
+[[main]]
+weight = 3
+name = "Страницы"
+hasChildren = true
+
+  [[main]]
+  parent = "Страницы"
+  name = "Университеты"
+  url = "universitety/"
+  weight = 1
+
+  [[main]]
+  parent = "Страницы"
+  name = "teacher"
+  url = "teacher/"
+
+  [[main]]
+  parent = "Страницы"
+  name = "event"
+  url = "event/"
+
+  [[main]]
+  parent = "Страницы"
+  name = "scholarship"
+  url = "scholarship/"
+
+  [[main]]
+  parent = "Страницы"
+  name = "research"
+  url = "research/"
+  
+[[main]]
+name = "блог"
+url = "blog/"
+weight = 4
+  
+[[main]]
+name = "Контакты"
+url = "contact/"
+weight = 5
+
+
+# footer menu
+[[footer]]
+name = "учителя"
+url = "teacher/"
+
+[[footer]]
+name = "уведомления"
+url = "notice/"
+
+[[footer]]
+name = "события"
+url = "event/"
+
+[[footer]]
+name = "стипендия"
+url = "scholarship/"
+
+[[footer]]
+name = "исследования"
+url = "research/"
+
+
+# footer_end
+[[footer_end]]
+name = "учителя"
+url = "teacher/"
+
+[[footer_end]]
+name = "уведомления"
+url = "notice/"
+
+[[footer_end]]
+name = "события"
+url = "event/"

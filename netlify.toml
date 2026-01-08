@@ -1,0 +1,44 @@
+[build]
+  command = "npm run build || true"
+  publish = "public"
+  functions = "functions"
+
+[build.environment]
+  NODE_VERSION = "20.19.3"
+  NPM_VERSION = "10.8.2"
+  # HUGO_VERSION = "0.115.1"
+
+[context.production]
+  command = "npm run build || true"
+
+[context.deploy-preview]
+  command = "npm run build -- -b $DEPLOY_PRIME_URL || true"
+
+[context.branch-deploy]
+  command = "npm run build -- -b $DEPLOY_PRIME_URL"
+
+[context.next]
+  command = "npm run build"
+
+[context.next.environment]
+  HUGO_ENV = "next"
+
+# [[plugins]]
+#   package = "netlify-plugin-submit-sitemap"
+
+#     [plugins.inputs]
+#     baseUrl = "https://creio.ctlos.ru"
+#     sitemapPath = "/sitemap.xml"
+#     ignorePeriod = 24
+#     providers = [
+#       "google",
+#       "yandex"
+#     ]
+
+[dev]
+  framework = "#custom"
+  command = "npm run start"
+  targetPort = 1313
+  port = 8888
+  publish = "public"
+  autoLaunch = false

@@ -1,5 +1,5 @@
 [build]
-  command = "npm run build || true"
+  command = "npm run build"
   publish = "public"
   functions = "functions"
 
@@ -22,18 +22,6 @@
   command = "npm run build"
   [context.next.environment]
     HUGO_ENV = "next"
-
-# [[plugins]]
-#   package = "netlify-plugin-submit-sitemap"
-
-#     [plugins.inputs]
-#     baseUrl = "https://example.ru"
-#     sitemapPath = "/sitemap.xml"
-#     ignorePeriod = 24
-#     providers = [
-#       "google",
-#       "yandex"
-#     ]
 
 [dev]
   framework = "#custom"

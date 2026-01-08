@@ -126,3 +126,9 @@
 
 - id: download
   translation: Скачать
+
+- id: 404_title
+  translation: Ошибка 404
+
+- id: 404_text
+  translation: Страница не найдена

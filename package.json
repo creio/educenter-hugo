@@ -4,7 +4,7 @@
   "license": "MIT",
   "author": "cretm",
   "scripts": {
-    "dev": "hugo server --bind=0.0.0.0 --disableFastRender --environment development",
+    "dev": "exec-bin node_modules/.bin/hugo server --bind=0.0.0.0 --disableFastRender --environment development",
     "build": "hugo --gc --minify --templateMetrics --templateMetricsHints --buildDrafts --buildExpired --buildFuture --forceSyncStatic",
     "server": "hugo server",
     "clean": "shx rm -rf public resources .hugo_build.lock",

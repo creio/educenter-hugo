@@ -5,8 +5,8 @@
   "author": "cretm",
   "scripts": {
     "dev": "exec-bin node_modules/.bin/hugo server --bind=0.0.0.0 --disableFastRender --environment development",
-    "build": "hugo --gc --minify --templateMetrics --templateMetricsHints --buildDrafts --buildExpired --buildFuture --forceSyncStatic",
-    "server": "hugo server",
+    "build": "exec-bin node_modules/.bin/hugo hugo --gc --minify --templateMetrics --templateMetricsHints --buildDrafts --buildExpired --buildFuture --forceSyncStatic",
+    "server": "exec-bin node_modules/.bin/hugo hugo server",
     "clean": "shx rm -rf public resources .hugo_build.lock",
     "clean:install": "shx rm -rf package-lock.json node_modules"
   },

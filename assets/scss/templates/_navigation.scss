@@ -27,7 +27,7 @@
 }
 
 .navigation {
-  background: linear-gradient(to right, transparent 50%, $primary-color 50%);
+  background: linear-gradient(to right, transparent 50%, $cyan-color 50%);
   transition: .2s ease;
 
   .navbar-brand img {
@@ -69,7 +69,7 @@
 
 .navbar-nav {
   padding-left: 50px;
-  background: $primary-color;
+  background: $cyan-color;
 
   @include desktop {
     padding-left: 0;

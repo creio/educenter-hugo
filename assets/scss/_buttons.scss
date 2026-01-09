@@ -109,3 +109,42 @@
     border: 1px solid $white !important;
   }
 }
+
+.btn-danger {
+  color: $white;
+  background-color: $cyan-color;
+
+  &::before {
+    background-color: $white;
+  }
+
+  &:active,
+  &:hover,
+  &.focus,
+  &:focus,
+  &.active {
+    color: $cyan-color !important;
+    background-color: darken($color: $cyan-color, $amount: 10) !important;
+    border-color: darken($color: $cyan-color, $amount: 10) !important;
+  }
+}
+
+.btn-outline-danger {
+  color: $cyan-color;
+  background-color: transparent;
+  border: 1px solid $cyan-color;
+
+  &::before {
+    background-color: $white;
+  }
+
+  &:active,
+  &:hover,
+  &.focus,
+  &:focus,
+  &.active {
+    color: $cyan-color !important;
+    background-color: $cyan-color !important;
+    border-color: $cyan-color !important;
+  }
+}

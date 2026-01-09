@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "exec-bin node_modules/.bin/hugo server --bind=0.0.0.0 --disableFastRender --environment development",
     "tina": "tinacms dev --noTelemetry -c \"exec-bin node_modules/.bin/hugo server --bind=0.0.0.0 --disableFastRender\"",
-    "build": "tinacms build && hugo --gc --minify",
+    "build": "hugo --gc --minify",
     "build:local": "exec-bin node_modules/.bin/hugo hugo --gc --minify",
     "server": "exec-bin node_modules/.bin/hugo hugo server",
     "clean": "shx rm -rf public resources .hugo_build.lock",

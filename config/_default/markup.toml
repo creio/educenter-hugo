@@ -1,0 +1,19 @@
+defaultMarkdownHandler = "goldmark"
+
+[goldmark]
+  [goldmark.extensions]
+    linkify = false
+  [goldmark.parser]
+    autoHeadingID = true
+    autoHeadingIDType = "github"
+    [goldmark.parser.attribute]
+      block = true
+      title = true
+      heading = true
+  [goldmark.renderer]
+    unsafe = true
+
+[tableOfContents]
+  startLevel = 2
+  endLevel = 3
+  ordered = false

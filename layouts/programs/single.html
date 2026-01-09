@@ -30,6 +30,7 @@
         <button class="openFormBtn btn btn-primary mt-4">{{ i18n "apply_now" }}</button>
       </div>
       <!-- teacher -->
+      {{ if .Params.Teacher }}
       <div class="col-12 order-3">
         <h5 class="mb-3">{{ i18n "teacher" }}</h5>
         {{ range where site.RegularPages "Title" (.Params.Teacher | title) }}
@@ -53,6 +54,7 @@
         {{ end }}
         <div class="border-bottom border-primary mt-4"></div>
       </div>
+      {{ end }}
     </div>
   </div>
 </section>

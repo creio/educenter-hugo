@@ -3,7 +3,7 @@
 <section class="page-title-section overlay" style="background-image: url('{{ .Params.Bg_image | relURL }}'),url('{{ $img.RelPermalink }}');" >
   <div class="container">
     <div class="row">
-      <div class="col-md-8">
+      <div class="col-md-10">
         <ul class="list-inline custom-breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
           {{- $data := newScratch }}
           {{- range $index, $value := .Ancestors.Reverse }}
@@ -32,7 +32,6 @@
             <meta itemprop="position" content='{{ $data.Get "counter"}}' />
           </li>
         </ul>
-
         {{/*<p class="text-lighten">{{ .Params.Description | markdownify }}</p>*/}}
       </div>
     </div>

@@ -174,11 +174,6 @@ maxAge = "720h"
 dir = ":resourceDir/_gen"
 maxAge = "720h"
 
-############################# Markup ###############################
-[markup]
-[markup.goldmark.renderer]
-unsafe = true
-
 ############################# Plugins ##############################
 
 # CSS Plugins

@@ -11,7 +11,7 @@ image: "images/courses/course-5.jpg"
 # taxonomy
 category: "Programming"
 # teacher
-teacher: "Zim Cook"
+teacher: ""
 # duration
 duration : "06 Month"
 # weekly
@@ -38,14 +38,14 @@ consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porr
 ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
 labore et dolore magnam aliquam quaerat voluptatem.</p>
 
-### Requirements
+### Requirements {#anchor4}
 
 * Lorem ipsum dolor sit amet consectetur adipisicing elit.
 * Lorem ipsum dolor sit amet consectetur adipisicing elit.
 * Lorem ipsum dolor sit amet consectetur adipisicing elit.
 * Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
-## Привет мир Далеко-далеко за словесными горами в стране согласных
+## Привет мир Далеко-далеко за словесными горами в стране согласных {#1212}
 
 Далеко-далеко за словесными горами в стране гласных, и согласных живут рыбные тексты. Своих безорфографичный пояс которое, они сих продолжил прямо запятых точках текстов маленькая, до текста рот даль, обеспечивает ему эта! Предупреждал?
 

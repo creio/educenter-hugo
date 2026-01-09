@@ -4,7 +4,7 @@ body {
 }
 
 ::selection {
-  background: lighten($color: $primary-color, $amount: 10);
+  background: lighten($color: $cyan-color, $amount: 10);
   color: $white;
 }
 
@@ -56,15 +56,15 @@ select {
 }
 
 a:hover {
-  color: $primary-color;
+  color: $cyan-color;
 }
 
 a.text-primary:hover {
-  color: $primary-color!important;
+  color: $cyan-color!important;
 }
 
 a.text-light:hover {
-  color: $primary-color!important;
+  color: $cyan-color!important;
 }
 
 h4{
@@ -72,7 +72,7 @@ h4{
 }
 a h4{
   &:hover{
-    color: $primary-color;
+    color: $cyan-color;
   }
 }
 
@@ -146,7 +146,7 @@ a h4{
 }
 
 .text-primary {
-  color: $primary-color !important;
+  color: $cyan-color !important;
 }
 
 .text-color {

@@ -5,6 +5,7 @@
   "author": "cretm",
   "scripts": {
     "dev": "exec-bin node_modules/.bin/hugo server --bind=0.0.0.0 --disableFastRender --environment development",
+    "tina": "tinacms dev -c \"exec-bin node_modules/.bin/hugo server --bind=0.0.0.0 --disableFastRender\"",
     "build": "hugo --gc --minify",
     "build:local": "exec-bin node_modules/.bin/hugo hugo --gc --minify",
     "server": "exec-bin node_modules/.bin/hugo hugo server",
@@ -12,8 +13,13 @@
     "clean:install": "shx rm -rf package-lock.json node_modules"
   },
   "devDependencies": {
-    "shx": "^0.3.3",
+    "@tinacms/cli": "^2.0.7",
+    "@types/node": "^25.0.3",
+    "exec-bin": "^1.0.0",
     "hugo-extended": "^0.147.9",
-    "exec-bin": "^1.0.0"
+    "shx": "^0.3.3"
+  },
+  "dependencies": {
+    "tinacms": "^3.2.0"
   }
 }

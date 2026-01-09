@@ -6,6 +6,12 @@
   <div class="container">
     <div class="row">
       <div class="col-12">
+        <h1>{{ .Title }}</h1>
+      </div>
+      <div class="col-12 mb-4">
+        <div class="border-bottom border-primary"></div>
+      </div>
+      <div class="col-12">
         {{ with .Params.image }}
         {{ partial "image.html" (dict "Src" . "Alt" "about image" "Class" "img-fluid w-100 mb-4" ) }}
         {{ end }}

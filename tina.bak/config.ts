@@ -54,6 +54,11 @@ export default defineConfig({
             }
           },
           {
+            type: 'boolean',
+            name: 'draft',
+            label: 'Draft'
+          },
+          {
             label: 'Hero image',
             name: 'bg_image',
             type: 'image',
@@ -93,16 +98,11 @@ export default defineConfig({
             list: true,
           },*/
           {
-            type: 'boolean',
-            name: 'draft',
-            label: 'Draft'
-          },
-          /*{
             type: "rich-text",
             name: "body",
             label: "Body",
             isBody: true,
-          },*/
+          },
         ],
       },
     ],

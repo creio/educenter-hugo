@@ -3,12 +3,6 @@
 <!-- section -->
 <section class="section-sm">
   <div class="container">
-    <div class="row">
-      <div class="col-12 mb-4">
-        <!-- course thumb -->
-        {{ partial "image.html" (dict "Src" .Params.image "Alt" "Image" "Class" "img-fluid w-100" "Style" "height: 500px; width: 100%; object-fit: cover;") }}
-      </div>
-    </div>
     <!-- course info -->
     <div class="row align-items-center mb-5">
       <div class="col-6">
@@ -18,6 +12,12 @@
       <!-- border -->
       <div class="col-12 mt-4 order-4">
         <div class="border-bottom border-primary"></div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-12 mb-4">
+        <!-- course thumb -->
+        {{ partial "image.html" (dict "Src" .Params.image "Alt" "Image" "Class" "img-fluid w-100" "Style" "height: 500px; width: 100%; object-fit: cover;") }}
       </div>
     </div>
     <!-- course details -->

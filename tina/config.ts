@@ -29,14 +29,9 @@ export default defineConfig({
   schema: {
     collections: [
       {
-        name: "programs",
-        label: "Programs",
-        path: "content/ru/programs",
-        defaultItem: () => {
-          return {
-            edit: false,
-          }
-        },
+        name: "post",
+        label: "Posts",
+        path: "content/posts",
         fields: [
           {
             type: "string",
@@ -46,63 +41,11 @@ export default defineConfig({
             required: true,
           },
           {
-            label: "Description",
-            name: "description",
-            type: "string",
-            ui: {
-              component: "textarea"
-            }
-          },
-          {
-            label: 'Hero image',
-            name: 'bg_image',
-            type: 'image',
-          },
-          {
-            label: 'thumbnail image',
-            name: 'image',
-            type: 'image',
-          },
-          {
-            type: "datetime",
-            name: "date",
-            label: "Date Posted",
-            required: true,
-            initialValue: new Date().toLocaleString("en-US", {
-              month: "long",
-              day: "numeric",
-              year: "numeric",
-              hour: "2-digit",
-              minute: "2-digit",
-              hour12: false,
-            }).replace("at", "").trim(),
-            ui: {
-              timeFormat: "HH:mm"
-            },
-          },
-          {
-            type: 'string',
-            name: 'categories',
-            label: 'Categories',
-            list: true,
-          },
-          /*{
-            type: 'string',
-            name: 'teacher',
-            label: 'Teacher',
-            list: true,
-          },*/
-          {
-            type: 'boolean',
-            name: 'draft',
-            label: 'Draft'
-          },
-          /*{
             type: "rich-text",
             name: "body",
             label: "Body",
             isBody: true,
-          },*/
+          },
         ],
       },
     ],

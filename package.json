@@ -5,7 +5,7 @@
   "author": "cretm",
   "scripts": {
     "dev": "exec-bin node_modules/.bin/hugo server --bind=0.0.0.0 --disableFastRender --environment development",
-    "tina": "tinacms dev -c \"exec-bin node_modules/.bin/hugo server --bind=0.0.0.0 --disableFastRender\"",
+    "tina": "tinacms dev --noTelemetry -c \"exec-bin node_modules/.bin/hugo server --bind=0.0.0.0 --disableFastRender\"",
     "build": "hugo --gc --minify",
     "build:local": "exec-bin node_modules/.bin/hugo hugo --gc --minify",
     "server": "exec-bin node_modules/.bin/hugo hugo server",

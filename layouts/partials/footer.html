@@ -13,7 +13,7 @@
             Loading…
           </iframe>
 
-          <!-- <div id="formError" class="alert alert-danger" style="display:none;">
+          {{/*<div id="formError" class="alert alert-danger" style="display:none;">
             Пожалуйста, заполните все обязательные поля корректно.
           </div>
           <div id="formSuccess" class="alert alert-success" style="display:none;">
@@ -61,7 +61,8 @@
               </label>
             </div>
             <button type="submit" value="send" class="btn btn-primary">{{ i18n "send" }}</button>
-          </form> -->
+          </form>*/}}
+
         </div>
       </div>
     </div>
@@ -83,7 +84,7 @@
         Loading…
       </iframe>
 
-      <!-- <form id="googleForm" action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSegOQYc9OxSavdL6W67osDEBa290kaGixAVY2j4bbG02W-EsA/formResponse" method="POST" target="_blank">
+      {{/*<form id="googleForm" action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSegOQYc9OxSavdL6W67osDEBa290kaGixAVY2j4bbG02W-EsA/formResponse" method="POST" target="_blank">
         <input type="text" class="form-control mb-3" id="name" name="entry.2057118843" placeholder="Your Name">
         <input type="email" class="form-control mb-3" id="mail" name="entry.1012912389" placeholder="Your Email">
         <input type="phone" class="form-control mb-3" id="phone" name="entry.1955175642" placeholder="phone">
@@ -123,7 +124,8 @@
           </label>
         </div>
         <button type="submit" value="send" class="btn btn-primary">{{ i18n "send" }}</button>
-      </form> -->
+      </form>*/}}
+
     </div>
   </div>
   {{ end }}
@@ -282,9 +284,11 @@
 </footer>
 <!-- /footer -->
 
+{{ if site.Params.map.enable }}
 {{ "<!-- Google Map API -->" | safeHTML }}
 {{ with site.Params.map.gmap_api }}
 <script src="{{ . | safeURL }}"></script>
+{{ end }}
 {{ end }}
 
 {{ "<!-- JS Plugins -->" | safeHTML }}

@@ -172,7 +172,7 @@ document.addEventListener('keydown', (e) => {
 
 
 // google form
-document.getElementById('googleForm').addEventListener('submit', function(e) {
+/*document.getElementById('googleForm').addEventListener('submit', function(e) {
   document.querySelectorAll('.is-invalid').forEach(el => {
     el.classList.remove('is-invalid');
   });
@@ -230,6 +230,6 @@ document.getElementById('googleForm').addEventListener('submit', function(e) {
       this.reset(); // сброс полей
     }, 5000);
   }
-});
+});*/
 
 });

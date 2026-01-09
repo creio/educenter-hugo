@@ -105,13 +105,15 @@
 })(jQuery);
 
 
+document.addEventListener('DOMContentLoaded', function() {
+
 // popup form
 const openFormBtns = document.querySelectorAll('.openFormBtn');
 const formPopup = document.getElementById('formPopup');
 const formIframe = document.getElementById('formIframe');
 const closeBtn = formPopup.querySelector('.close');
 
-// Функция для блокировки скролла страницы
+/*// Функция для блокировки скролла страницы
 function disableBodyScroll() {
   // Сохраняем текущую ширину скролла (для компенсации)
   const scrollbarWidth = window.innerWidth - document.documentElement.clientWidth;
@@ -123,7 +125,7 @@ function disableBodyScroll() {
 function enableBodyScroll() {
   document.body.style.overflow = '';
   document.body.style.paddingRight = '';
-}
+}*/
 
 // Навешиваем обработчик на КАЖДУЮ кнопку
 openFormBtns.forEach(btn => {
@@ -131,7 +133,7 @@ openFormBtns.forEach(btn => {
     e.preventDefault(); // на случай, если это <a href="#">
 
     formPopup.classList.add('show');
-    disableBodyScroll();
+    // disableBodyScroll();
 
     if (!formIframe.src) {
       formIframe.src = formIframe.dataset.src;
@@ -149,7 +151,7 @@ openFormBtns.forEach(btn => {
 // Закрытие попапа
 function closePopup() {
   formPopup.classList.remove('show');
-  enableBodyScroll(); // Возвращаем скролл
+  // enableBodyScroll(); // Возвращаем скролл
 }
 
 closeBtn.addEventListener('click', closePopup);
@@ -166,4 +168,68 @@ document.addEventListener('keydown', (e) => {
   if (e.key === 'Escape' && formPopup.classList.contains('show')) {
     closePopup();
   }
+});
+
+
+// google form
+document.getElementById('googleForm').addEventListener('submit', function(e) {
+  document.querySelectorAll('.is-invalid').forEach(el => {
+    el.classList.remove('is-invalid');
+  });
+  const errorBlock = document.getElementById('formError');
+  if (errorBlock) errorBlock.style.display = 'none';
+
+  let isValid = true;
+
+  // Валидация имени
+  const name = document.getElementById('name');
+  if (!name.value.trim()) {
+    name.classList.add('is-invalid');
+    isValid = false;
+  }
+
+  // Валидация email
+  const email = document.getElementById('mail');
+  const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+  if (!email.value.trim() || !emailRegex.test(email.value)) {
+    email.classList.add('is-invalid');
+    isValid = false;
+  }
+
+  // Валидация телефона
+  const phone = document.getElementById('phone');
+  const phoneDigits = phone.value.replace(/\D/g, '');
+  if (phoneDigits.length < 10) {
+    phone.classList.add('is-invalid');
+    isValid = false;
+  }
+
+  // Валидация чекбокса согласия
+  const consent = document.getElementById('defaultCheck2');
+  if (!consent || !consent.checked) {
+    if (consent) consent.classList.add('is-invalid');
+    isValid = false;
+  }
+
+  // ❌ Если есть ошибки — ОТМЕНИТЬ отправку
+  if (!isValid) {
+    e.preventDefault(); // ← теперь e объявлена (первый аргумент функции)
+    e.stopPropagation();
+    if (errorBlock) errorBlock.style.display = 'block';
+    return false;
+  }
+
+  // ✅ Если всё ок — показать успех и сбросить форму
+  const successBlock = document.getElementById('formSuccess');
+  if (successBlock) successBlock.style.display = 'block';
+
+  // Скрыть сообщение через 5 сек
+  if (successBlock) {
+    setTimeout(() => {
+      successBlock.style.display = 'none';
+      this.reset(); // сброс полей
+    }, 5000);
+  }
+});
+
 });

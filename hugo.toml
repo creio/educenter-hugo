@@ -45,8 +45,8 @@ preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
 # forms
 [params.contact]
 enable = true
-contact_form_action = "https://forms.yandex.ru/cloud/695e27bb1f1eb5a264dfea7c?iframe=1"
-contact_form_name = "ya-form-695e27bb1f1eb5a264dfea7c"
+contact_form_action = 'https://docs.google.com/forms/d/e/1FAIpQLSegOQYc9OxSavdL6W67osDEBa290kaGixAVY2j4bbG02W-EsA/viewform?embedded=true'
+contact_form_name = "google"
 
 # Subscription
 [params.subscription]

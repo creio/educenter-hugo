@@ -28,6 +28,9 @@
 - id: subscribe
   translation: Подписаться
 
+- id: contact_head
+  translation: Свяжитесь с нами
+
 - id: contact_us
   translation: Связаться с нами
 

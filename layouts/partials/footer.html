@@ -1,6 +1,135 @@
 <!-- footer -->
 <footer>
   {{ if site.Params.contact.enable }}
+  {{ with site.Params.contact }}
+  <div class="contact-form bg-gray py-5">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-9 mx-auto">
+          <h3 class="section-title mb-4">{{ i18n "contact_head" }}</h3>
+          <iframe
+            src="{{ .contact_form_action }}"
+            frameborder="0" marginheight="0" marginwidth="0">
+            Loading…
+          </iframe>
+
+          <!-- <div id="formError" class="alert alert-danger" style="display:none;">
+            Пожалуйста, заполните все обязательные поля корректно.
+          </div>
+          <div id="formSuccess" class="alert alert-success" style="display:none;">
+            Форма заполнена.
+          </div>
+          <form id="googleForm" class="needs-validation" novalidate action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSegOQYc9OxSavdL6W67osDEBa290kaGixAVY2j4bbG02W-EsA/formResponse" method="POST" target="_blank">
+            <input type="text" class="form-control mb-3" id="name" name="entry.2057118843" placeholder="Имя">
+            <input type="email" class="form-control mb-3" id="mail" name="entry.1012912389" placeholder="Email">
+            <input type="phone" class="form-control mb-3" id="phone" name="entry.1955175642" placeholder="Телефон">
+
+            <label for="message" class="form-text">Предпочитаемый канал связи</label>
+            <select class="form-control mb-3" name="entry.1338541241" id="message">
+              <option selected>Выберите вариант</option>
+              <option value="Telegram">Telegram</option>
+              <option value="Whatsapp">Whatsapp</option>
+              <option value="MAX">MAX</option>
+            </select>
+
+            <label for="learn" class="form-text">Где вы сейчас учитесь</label>
+            <select class="form-control mb-3" name="entry.70876084" id="learn">
+              <option selected>Выберите вариант</option>
+              <option value="7 класс">7 класс</option>
+              <option value="8 класс">8 класс</option>
+              <option value="Колледж">Колледж</option>
+            </select>
+
+            <label for="cauntry" class="form-text">Приоритетная страна</label>
+            <select class="form-control mb-3" name="entry.1914344840" id="cauntry">
+              <option selected>Выберите вариант</option>
+              <option value="только Китай">только Китай</option>
+              <option value="только Россия, но рассматриваю Китай">только Россия, но рассматриваю Китай</option>
+              <option value="другие страны">другие страны</option>
+            </select>
+
+            <div class="form-check mb-3">
+              <input id="defaultCheck1" class="form-check-input" type="checkbox" name="entry.1389169031" value="Готовы ли вы платить за обучение в более сильном вузе?">
+              <label class="form-check-label" for="defaultCheck1">
+                Готовы ли вы платить за обучение в более сильном вузе?
+              </label>
+            </div>
+            <div class="form-check mb-3">
+              <input id="defaultCheck2" class="form-check-input" type="checkbox" name="entry.1580115150" value="Нажимая эту кнопку вы принимаете Положение и согласие на обработку персональных данных">
+              <label class="form-check-label" for="defaultCheck2">
+                Нажимая эту кнопку вы принимаете Положение и согласие на обработку персональных данных
+              </label>
+            </div>
+            <button type="submit" value="send" class="btn btn-primary">{{ i18n "send" }}</button>
+          </form> -->
+        </div>
+      </div>
+    </div>
+  </div>
+  {{ end }}
+  {{ end }}
+
+  {{ if site.Params.contact.enable }}
+  {{ with site.Params.contact }}
+  <div id="formPopup" class="popup">
+    <div class="popup-content">
+      <h3 class="section-title m-3">{{ i18n "contact_head" }}</h3>
+      <button class="close">&times;</button>
+      <iframe
+        src="{{ .contact_form_action }}"
+        frameborder="0"
+        marginheight="0"
+        marginwidth="0">
+        Loading…
+      </iframe>
+
+      <!-- <form id="googleForm" action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSegOQYc9OxSavdL6W67osDEBa290kaGixAVY2j4bbG02W-EsA/formResponse" method="POST" target="_blank">
+        <input type="text" class="form-control mb-3" id="name" name="entry.2057118843" placeholder="Your Name">
+        <input type="email" class="form-control mb-3" id="mail" name="entry.1012912389" placeholder="Your Email">
+        <input type="phone" class="form-control mb-3" id="phone" name="entry.1955175642" placeholder="phone">
+
+        <label for="message" class="form-text">Предпочитаемый канал связи</label>
+        <select class="form-control mb-3" name="entry.1338541241" id="message">
+          <option selected>Выберите вариант</option>
+          <option value="Telegram">Telegram</option>
+          <option value="Whatsapp">Whatsapp</option>
+          <option value="MAX">MAX</option>
+        </select>
+
+        <select class="form-control mb-3" name="entry.70876084" id="learn">
+          <option value="">Где вы сейчас учитесь</option>
+          <option value="7 класс">7 класс</option>
+          <option value="8 класс">8 класс</option>
+          <option value="Колледж">Колледж</option>
+        </select>
+
+        <select class="form-control mb-3" name="entry.1914344840" id="coutry">
+          <option value="">Приоритетная страна</option>
+          <option value="только Китай">только Китай</option>
+          <option value="только Россия, но рассматриваю Китай">только Россия, но рассматриваю Китай</option>
+          <option value="другие страны">другие страны</option>
+        </select>
+
+        <div class="form-check mb-3">
+          <input id="defaultCheck1" class="form-check-input" type="checkbox" name="entry.1389169031" value="Готовы ли вы платить за обучение в более сильном вузе?">
+          <label class="form-check-label" for="defaultCheck1">
+            Готовы ли вы платить за обучение в более сильном вузе?
+          </label>
+        </div>
+        <div class="form-check mb-3">
+          <input id="defaultCheck2" class="form-check-input" type="checkbox" name="entry.1580115150" value="Нажимая эту кнопку вы принимаете Положение и согласие на обработку персональных данных">
+          <label class="form-check-label" for="defaultCheck2">
+            Нажимая эту кнопку вы принимаете Положение и согласие на обработку персональных данных
+          </label>
+        </div>
+        <button type="submit" value="send" class="btn btn-primary">{{ i18n "send" }}</button>
+      </form> -->
+    </div>
+  </div>
+  {{ end }}
+  {{ end }}
+
+  {{/* if site.Params.contact.enable }}
   <script src="https://forms.yandex.ru/_static/embed.js"></script>
 
   {{ with site.Params.contact }}
@@ -16,7 +145,7 @@
     </div>
   </div>
   {{ end }}
-  {{ end }}
+  {{ end */}}
 
   <!-- newsletter -->
   {{ if site.Params.subscription.enable }}

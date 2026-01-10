@@ -7,6 +7,10 @@ export async function handler(event, context) {
     return { statusCode: 405, body: 'Method Not Allowed' };
   }
 
+  if (!process.env.GOOGLE_SERVICE_ACCOUNT_JSON) {
+    throw new Error('GOOGLE_SERVICE_ACCOUNT_JSON is not set');
+  }
+
   try {
     const body = JSON.parse(event.body);
     const {

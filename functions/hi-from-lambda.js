@@ -1,11 +1,9 @@
-exports.handler = (event, context, callback) => {
-  callback (null, {
+export const handler = async (event, context) => {
+  return {
     statusCode: 200,
     headers: {
       'Content-Type': 'application/json',
     },
-    body: JSON.stringify({
-      message: 'Hi from Lambda.',
-    }),
-  });
-}
+    body: JSON.stringify({ message: 'Hello from Lambda!' })
+  };
+};

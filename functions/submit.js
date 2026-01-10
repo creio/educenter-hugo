@@ -1,8 +1,8 @@
-import { google } from 'googleapis';
+const { google } = require('googleapis');
 
 const sheets = google.sheets('v4');
 
-export async function handler(event, context) {
+exports.handler = async (event, context) => {
   if (event.httpMethod !== 'POST') {
     return { statusCode: 405, body: 'Method Not Allowed' };
   }

@@ -3,7 +3,6 @@ baseURL = "https://educer.netlify.app/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
-title = "Educenter | hugo education template"
 timeZone = "Europe/Moscow"
 # post pagination
 pagination.pagerSize = 6 # see https://gohugo.io/extras/pagination/
@@ -21,6 +20,10 @@ hasCJKLanguage = false #  If hasCJKLanguage true, auto-detect Chinese/Japanese/K
 
 #################### default parameters ################################
 [params]
+## Homepage
+title = "Educenter"
+titleSeparator = "|"
+titleAddition = "education template"
 logo = "images/logo.png"
 # Meta data
 description = "This is meta description"

@@ -1,5 +1,6 @@
 ---
 title: "Scholarship"
+name: "Стипендия"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"

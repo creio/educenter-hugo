@@ -1,5 +1,6 @@
 ---
-title: "Our Courses"
+title: "Наши Учителя"
+name: "Учителя"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"

@@ -176,70 +176,54 @@ document.addEventListener('keydown', (e) => {
 const form = document.getElementById('sendForm');
 
 if (form) {
-  form.addEventListener('submit', function(e) {
+  form.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    e.stopPropagation();
+
+    // === Сброс ошибок ===
     document.querySelectorAll('.is-invalid').forEach(el => {
       el.classList.remove('is-invalid');
     });
     const errorBlock = document.getElementById('formError');
     if (errorBlock) errorBlock.style.display = 'none';
 
+    // === Валидация ===
     let isValid = true;
 
-    // Валидация имени
     const name = document.getElementById('name');
-    if (!name.value.trim()) {
+    if (!name?.value.trim()) {
       name.classList.add('is-invalid');
       isValid = false;
     }
 
-    // Валидация email
     const email = document.getElementById('mail');
     const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
-    if (!email.value.trim() || !emailRegex.test(email.value)) {
+    if (!email?.value.trim() || !emailRegex.test(email.value)) {
       email.classList.add('is-invalid');
       isValid = false;
     }
 
-    // Валидация телефона
     const phone = document.getElementById('phone');
-    const phoneDigits = phone.value.replace(/\D/g, '');
+    const phoneDigits = phone?.value.replace(/\D/g, '') || '';
     if (phoneDigits.length < 10) {
-      phone.classList.add('is-invalid');
+      phone?.classList.add('is-invalid');
       isValid = false;
     }
 
-    // Валидация чекбокса согласия
     const consent = document.getElementById('defaultCheck2');
-    if (!consent || !consent.checked) {
-      if (consent) consent.classList.add('is-invalid');
+    if (!consent?.checked) {
+      consent?.classList.add('is-invalid');
       isValid = false;
     }
 
-    // ❌ Если есть ошибки — ОТМЕНИТЬ отправку
+    // === Если есть ошибки ===
     if (!isValid) {
-      e.preventDefault(); // ← теперь e объявлена (первый аргумент функции)
-      e.stopPropagation();
       if (errorBlock) errorBlock.style.display = 'block';
-      return false;
+      return;
     }
 
-    // ✅ Если всё ок — показать успех и сбросить форму
-    const successBlock = document.getElementById('formSuccess');
-    if (successBlock) successBlock.style.display = 'block';
-
-    // Скрыть сообщение через 5 сек
-    if (successBlock) {
-      setTimeout(() => {
-        successBlock.style.display = 'none';
-        this.reset(); // сброс полей
-      }, 5000);
-    }
-  });
-
-  form.addEventListener('submit', async (e) => {
-    e.preventDefault();
-
-    const formData = new FormData(e.target);
+    // === Отправка данных ===
+    const formData = new FormData(form);
     const data = Object.fromEntries(formData.entries());
 
     try {
@@ -250,13 +234,21 @@ if (form) {
       });
 
       if (res.ok) {
-        alert('Спасибо! Ваша заявка отправлена.');
-        e.target.reset();
+        // Показать успех
+        const successBlock = document.getElementById('formSuccess');
+        if (successBlock) {
+          successBlock.style.display = 'block';
+          setTimeout(() => {
+            successBlock.style.display = 'none';
+            form.reset();
+          }, 5000);
+        }
       } else {
         alert('Ошибка отправки. Попробуйте позже.');
       }
     } catch (err) {
-      alert('Ошибка сети.');
+      console.error('Ошибка сети:', err);
+      alert('Ошибка сети. Проверьте подключение.');
     }
   });
 }

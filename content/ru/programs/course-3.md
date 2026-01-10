@@ -1,5 +1,6 @@
 ---
 title: "Artificial Intelligence"
+name: "Далеко-далеко за"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
@@ -24,6 +25,7 @@ apply_url : "#"
 type: "programs"
 ---
 
+# Далеко-далеко за словесными горами в стране.
 
 ### About Course
 

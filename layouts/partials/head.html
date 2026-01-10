@@ -1,8 +1,11 @@
 <head>
   <meta charset="utf-8">
-  <title>{{ .Title }}</title>
-  {{ "<!-- mobile responsive meta -->" | safeHTML }}
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  {{ if .IsHome -}}
+  <title>{{ .Site.Params.title }}. {{ .Site.Params.titleAddition }}</title>
+  {{ else -}}
+  <title>{{ .Title }} {{ .Site.Params.titleSeparator }} {{ .Site.Params.title }}</title>
+  {{ end -}}
   <meta name="description"
     content="{{ with .Params.Description }}{{ . }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}">
   {{ with site.Params.author }}
@@ -12,12 +15,12 @@
   <link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}">
   {{ end }}
   {{ end }}
-  {{ "<!-- plugins -->" | safeHTML }}
   {{ range site.Params.plugins.css }}
+  {{ "<!-- plugins -->" | safeHTML }}
   <link rel="stylesheet" href="{{ .link | absURL }}">
   {{ end }}
-  {{ "<!-- Main Stylesheet -->" | safeHTML }}
   {{ if eq (hugo.Environment) "development" -}}
+  {{ "<!-- Main Stylesheet -->" | safeHTML }}
   {{ $options := (dict "targetPath" "main.css" "enableSourceMap" true "includePaths" (slice "node_modules")) -}}
   {{ $styles := resources.Get "scss/main.scss" | toCSS $options -}}
   <link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}" media="screen" crossorigin="anonymous">

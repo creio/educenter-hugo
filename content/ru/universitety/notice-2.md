@@ -1,5 +1,6 @@
 ---
 title: "Teaching Materials and Testing Methods"
+name: "Teaching Materials"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
@@ -11,6 +12,8 @@ download_link : "#"
 # type
 type: "universitety"
 ---
+
+# Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque, nam.
 
 
 ### About Notice

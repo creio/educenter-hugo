@@ -50,7 +50,7 @@
           <button type="submit" value="send" class="btn btn-primary">{{ i18n "send" }}</button>
         </form>
       </div>*/}}
-      {{/* partial "main/form.html" . */}}
+      {{ partial "main/form.html" . }}
       <div class="col-lg-12 content">
         {{ .Content }}
         <a href="tel:{{ site.Params.mobile }}" class="text-color h5 d-block">{{ site.Params.mobile_text }}</a>

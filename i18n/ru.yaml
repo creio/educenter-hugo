@@ -13,11 +13,20 @@
 - id: contact_form
   translation: Форма контактов
 
+- id: send_form
+  translation: "Отправить"
+
 - id: report
   translation: Оставить заявку
 
 - id: send
   translation: отправить сообщение
+
+- id: success_form
+  translation: 'Форма заполнена.'
+
+- id: error_form
+  translation: 'Пожалуйста, заполните все обязательные поля корректно.'
 
 - id: contact_info
   translation: Контактная информация

@@ -107,6 +107,7 @@
 
 document.addEventListener('DOMContentLoaded', function() {
 
+
 // popup form
 const openFormBtns = document.querySelectorAll('.openFormBtn');
 const formPopup = document.getElementById('formPopup');
@@ -172,64 +173,93 @@ document.addEventListener('keydown', (e) => {
 
 
 // google form
-/*document.getElementById('googleForm').addEventListener('submit', function(e) {
-  document.querySelectorAll('.is-invalid').forEach(el => {
-    el.classList.remove('is-invalid');
+const form = document.getElementById('sendForm');
+
+if (form) {
+  form.addEventListener('submit', function(e) {
+    document.querySelectorAll('.is-invalid').forEach(el => {
+      el.classList.remove('is-invalid');
+    });
+    const errorBlock = document.getElementById('formError');
+    if (errorBlock) errorBlock.style.display = 'none';
+
+    let isValid = true;
+
+    // Валидация имени
+    const name = document.getElementById('name');
+    if (!name.value.trim()) {
+      name.classList.add('is-invalid');
+      isValid = false;
+    }
+
+    // Валидация email
+    const email = document.getElementById('mail');
+    const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+    if (!email.value.trim() || !emailRegex.test(email.value)) {
+      email.classList.add('is-invalid');
+      isValid = false;
+    }
+
+    // Валидация телефона
+    const phone = document.getElementById('phone');
+    const phoneDigits = phone.value.replace(/\D/g, '');
+    if (phoneDigits.length < 10) {
+      phone.classList.add('is-invalid');
+      isValid = false;
+    }
+
+    // Валидация чекбокса согласия
+    const consent = document.getElementById('defaultCheck2');
+    if (!consent || !consent.checked) {
+      if (consent) consent.classList.add('is-invalid');
+      isValid = false;
+    }
+
+    // ❌ Если есть ошибки — ОТМЕНИТЬ отправку
+    if (!isValid) {
+      e.preventDefault(); // ← теперь e объявлена (первый аргумент функции)
+      e.stopPropagation();
+      if (errorBlock) errorBlock.style.display = 'block';
+      return false;
+    }
+
+    // ✅ Если всё ок — показать успех и сбросить форму
+    const successBlock = document.getElementById('formSuccess');
+    if (successBlock) successBlock.style.display = 'block';
+
+    // Скрыть сообщение через 5 сек
+    if (successBlock) {
+      setTimeout(() => {
+        successBlock.style.display = 'none';
+        this.reset(); // сброс полей
+      }, 5000);
+    }
   });
-  const errorBlock = document.getElementById('formError');
-  if (errorBlock) errorBlock.style.display = 'none';
 
-  let isValid = true;
+  form.addEventListener('submit', async (e) => {
+    e.preventDefault();
 
-  // Валидация имени
-  const name = document.getElementById('name');
-  if (!name.value.trim()) {
-    name.classList.add('is-invalid');
-    isValid = false;
-  }
+    const formData = new FormData(e.target);
+    const data = Object.fromEntries(formData.entries());
 
-  // Валидация email
-  const email = document.getElementById('mail');
-  const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
-  if (!email.value.trim() || !emailRegex.test(email.value)) {
-    email.classList.add('is-invalid');
-    isValid = false;
-  }
+    try {
+      const res = await fetch('/.netlify/functions/submit', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(data)
+      });
 
-  // Валидация телефона
-  const phone = document.getElementById('phone');
-  const phoneDigits = phone.value.replace(/\D/g, '');
-  if (phoneDigits.length < 10) {
-    phone.classList.add('is-invalid');
-    isValid = false;
-  }
+      if (res.ok) {
+        alert('Спасибо! Ваша заявка отправлена.');
+        e.target.reset();
+      } else {
+        alert('Ошибка отправки. Попробуйте позже.');
+      }
+    } catch (err) {
+      alert('Ошибка сети.');
+    }
+  });
+}
 
-  // Валидация чекбокса согласия
-  const consent = document.getElementById('defaultCheck2');
-  if (!consent || !consent.checked) {
-    if (consent) consent.classList.add('is-invalid');
-    isValid = false;
-  }
 
-  // ❌ Если есть ошибки — ОТМЕНИТЬ отправку
-  if (!isValid) {
-    e.preventDefault(); // ← теперь e объявлена (первый аргумент функции)
-    e.stopPropagation();
-    if (errorBlock) errorBlock.style.display = 'block';
-    return false;
-  }
-
-  // ✅ Если всё ок — показать успех и сбросить форму
-  const successBlock = document.getElementById('formSuccess');
-  if (successBlock) successBlock.style.display = 'block';
-
-  // Скрыть сообщение через 5 сек
-  if (successBlock) {
-    setTimeout(() => {
-      successBlock.style.display = 'none';
-      this.reset(); // сброс полей
-    }, 5000);
-  }
-});*/
-
-});
+}); // end DOMContentLoaded

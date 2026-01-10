@@ -16,3 +16,5 @@ hugo_stats.json
 go.sum
 yarn.lock
 .env
+# Local Netlify folder
+.netlify

@@ -2,9 +2,9 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   {{ if .IsHome -}}
-  <title>{{ .Site.Params.title }}. {{ .Site.Params.titleAddition }}</title>
+  <title>{{ .Site.Params.title }} {{ .Site.Params.titleSeparator }} {{ .Site.Params.titleAddition }}</title>
   {{ else -}}
-  <title>{{ .Title }} {{ .Site.Params.titleSeparator }} {{ .Site.Params.title }}</title>
+  <title>{{ .Title }} {{ .Site.Params.titleSeparator }} {{ .Site.Params.titleAddition }}</title>
   {{ end -}}
   <meta name="description"
     content="{{ with .Params.Description }}{{ . }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}">

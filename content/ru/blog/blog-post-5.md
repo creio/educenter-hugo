@@ -14,7 +14,7 @@ author: "John Doe"
 categories: ["English Learning"]
 tags: ["Advice", "English"]
 # type
-type: "post"
+type: "blog"
 ---
 
 ### The standard Lorem Ipsum passage, used since the 1500s

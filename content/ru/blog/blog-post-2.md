@@ -14,7 +14,7 @@ author: "John Doe"
 categories: ["Education System"]
 tags: ["Education", "Automation"]
 # type
-type: "post"
+type: "blog"
 ---
 
 ### The standard Lorem Ipsum passage, used since the 1500s

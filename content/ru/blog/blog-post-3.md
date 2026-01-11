@@ -14,7 +14,7 @@ author: "Mark Dinn"
 categories: ["Eco System"]
 tags: ["Advice", "Eco"]
 # type
-type: "post"
+type: "blog"
 ---
 
 ### The standard Lorem Ipsum passage, used since the 1500s

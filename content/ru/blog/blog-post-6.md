@@ -15,7 +15,7 @@ author: "John Doe"
 categories: ["Deep Learning"]
 tags: ["AI", "Automation"]
 # type
-type: "post"
+type: "blog"
 ---
 
 # Lorem ipsum dolor sit, amet consectetur adipisicing elit. Harum, aliquid.

@@ -3,7 +3,7 @@
 # header_top menu
 [[header_top]]
 name = "Работодателям"
-url = "about/"
+url = "employers/"
 weight = 1
 
 [[header_top]]

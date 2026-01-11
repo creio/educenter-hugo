@@ -2,55 +2,57 @@
 {{ $form := index site.Data $lang "form" }}
 
 {{ if $form }}
-<div id="formError" class="alert alert-danger" style="display:none;">
-  {{ i18n "error_form" }}
-</div>
-<div id="formSuccess" class="alert alert-success" style="display:none;">
-  {{ i18n "success_form" }}
-</div>
-<form id="sendForm" class="needs-validation" novalidate>
-  {{ range $field := $form.fields }}
-    {{ if eq $field.type "select" }}
-      {{ with $field.label }}
-        <label for="{{ $field.id }}" class="form-text">{{ . }}</label>
-      {{ end }}
-      <select class="form-control mb-3" name="{{ $field.name }}" id="{{ $field.id }}" {{ if $field.required }}required{{ end }}>
-        {{ range $opt := $field.options }}
-          <option value="{{ $opt.value }}" {{ if $opt.selected }}selected{{ end }}>{{ $opt.text }}</option>
+<div class="sendFormWrap">
+  <div id="formError" class="alert alert-danger" style="display:none;">
+    {{ i18n "error_form" }}
+  </div>
+  <div id="formSuccess" class="alert alert-success" style="display:none;">
+    {{ i18n "success_form" }}
+  </div>
+  <form class="sendForm needs-validation" novalidate>
+    {{ range $field := $form.fields }}
+      {{ if eq $field.type "select" }}
+        {{ with $field.label }}
+          <label for="{{ $field.id }}" class="form-text">{{ . }}{{ if $field.required }} *{{ end }}</label>
         {{ end }}
-      </select>
-    {{ else }}
-      <input
-        type="{{ $field.type }}"
-        class="form-control mb-3"
-        id="{{ $field.id }}"
-        name="{{ $field.name }}"
-        placeholder="{{ $field.placeholder }}"
-        {{ if $field.required }}required{{ end }}
-      >
+        <select class="form-control form-select mb-3" name="{{ $field.name }}" id="{{ $field.id }}" {{ if $field.required }}required{{ end }}>
+          {{ range $opt := $field.options }}
+            <option value="{{ $opt.value }}"{{ if $opt.selected }} selected disabled{{ end }}>{{ $opt.text }}</option>
+          {{ end }}
+        </select>
+      {{ else }}
+        <input
+          type="{{ $field.type }}"
+          class="form-control mb-3"
+          id="{{ $field.id }}"
+          name="{{ $field.name }}"
+          placeholder="{{ $field.placeholder }}{{ if $field.required }} *{{ end }}"
+          aria-describedby="inputGroupPrepend"
+          {{ if $field.required }}required{{ end }}
+        >
+      {{ end }}
     {{ end }}
-  {{ end }}
 
-  {{ range $cb := $form.checkboxes }}
-    <div class="form-check mb-3">
-      <input
-        id="{{ $cb.id }}"
-        class="form-check-input"
-        type="checkbox"
-        name="{{ $cb.name }}"
-        value="{{ $cb.value }}"
-        {{ if $cb.required }}required{{ end }}
-      >
-      <label class="form-check-label" for="{{ $cb.id }}">
-        {{ $cb.label }}
-      </label>
-    </div>
-  {{ end }}
+    {{ range $cb := $form.checkboxes }}
+      <div class="form-check mb-3">
+        <input
+          class="form-check-input"
+          type="checkbox"
+          name="{{ $cb.name }}"
+          value="{{ $cb.value }}"
+          {{ if $cb.required }}required{{ end }}
+        >
+        <label class="form-check-label" for="{{ $cb.id }}">
+          {{ $cb.label }}
+        </label>
+      </div>
+    {{ end }}
 
-  <button type="submit" value="send" class="btn btn-primary">
-    {{ i18n $form.submit.text_key }}
-  </button>
-</form>
+    <button type="submit" value="send" class="btn btn-primary">
+      {{ i18n $form.submit.text_key }}
+    </button>
+  </form>
+</div>
 {{ else }}
   {{ errorf "File data/%s/form.yml not found" $lang }}
 {{ end }}

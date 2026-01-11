@@ -4,56 +4,8 @@
 <section class="section bg-gray">
   <div class="container">
     <div class="row">
-      {{/*<div class="col-lg-7 mb-4 mb-lg-0">
-        <form id="googleForm" action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSegOQYc9OxSavdL6W67osDEBa290kaGixAVY2j4bbG02W-EsA/formResponse" method="POST" target="_blank">
-          <input type="text" class="form-control mb-3" id="name" name="entry.2057118843" placeholder="Your Name" required>
-          <input type="email" class="form-control mb-3" id="mail" name="entry.1012912389" placeholder="Your Email" required>
-          <input type="phone" class="form-control mb-3" id="phone" name="entry.1955175642" placeholder="phone" required>
-
-          <label for="message" class="form-text">Предпочитаемый канал связи</label>
-          <select class="form-control mb-3" name="entry.1338541241" id="message">
-            <option selected>Выберите вариант</option>
-            <option value="Telegram">Telegram</option>
-            <option value="Whatsapp">Whatsapp</option>
-            <option value="MAX">MAX</option>
-          </select>
-
-          <select class="form-control mb-3" name="entry.70876084" id="learn">
-            <option value="">Где вы сейчас учитесь</option>
-            <option value="7 класс">7 класс</option>
-            <option value="8 класс">8 класс</option>
-            <option value="Колледж">Колледж</option>
-          </select>
-
-          <select class="form-control mb-3" name="entry.1914344840" id="coutry">
-            <option value="">Приоритетная страна</option>
-            <option value="только Китай">только Китай</option>
-            <option value="только Россия, но рассматриваю Китай">только Россия, но рассматриваю Китай</option>
-            <option value="другие страны">другие страны</option>
-          </select>
-
-          <div class="form-check mb-3">
-            <input id="defaultCheck1" class="form-check-input" type="checkbox" name="entry.1389169031" value="Готовы ли вы платить за обучение в более сильном вузе?">
-            <label class="form-check-label" for="defaultCheck1">
-              Готовы ли вы платить за обучение в более сильном вузе?
-            </label>
-          </div>
-          <div class="form-check mb-3">
-            <input id="defaultCheck2" class="form-check-input" type="checkbox" name="entry.1580115150" value="Нажимая эту кнопку вы принимаете Положение и согласие на обработку персональных данных">
-            <label class="form-check-label" for="defaultCheck2">
-              Нажимая эту кнопку вы принимаете Положение и согласие на обработку персональных данных
-            </label>
-          </div>
-
-          <!-- <input type="text" class="form-control mb-3" id="subject" name="subject" placeholder="Subject">
-          <textarea name="message" id="message" class="form-control mb-3" placeholder="Your Message"></textarea> -->
-          <button type="submit" value="send" class="btn btn-primary">{{ i18n "send" }}</button>
-        </form>
-      </div>*/}}
-      <div class="col-lg-7">
-      {{ partial "main/form.html" . }}
-      </div>
-      <div class="col-lg-12 content">
+      {{/* <!-- https://docs.google.com/forms/u/0/d/e/1FAIpQLSegOQYc9OxSavdL6W67osDEBa290kaGixAVY2j4bbG02W-EsA/formResponse --> */}}
+      <div class="col-lg-12">
         {{ .Content }}
         <a href="tel:{{ site.Params.mobile }}" class="text-color h5 d-block">{{ site.Params.mobile_text }}</a>
         <a href="mailto:{{ site.Params.email }}" class="mb-5 text-color h5 d-block">{{ site.Params.email }}</a>

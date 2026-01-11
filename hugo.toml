@@ -22,8 +22,8 @@ hasCJKLanguage = false #  If hasCJKLanguage true, auto-detect Chinese/Japanese/K
 [params]
 ## Homepage
 title = "Educenter"
-titleSeparator = "|"
-titleAddition = "education template"
+titleSeparator = "-"
+titleAddition = "PandaIQ.ru"
 logo = "images/logo.png"
 # Meta data
 description = "This is meta description"

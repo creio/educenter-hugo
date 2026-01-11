@@ -21,6 +21,7 @@ fields:
     name: channel
     id: message
     label: "Предпочитаемый канал связи"
+    required: true
     options:
       - value: ""
         text: "Выберите вариант"
@@ -65,12 +66,12 @@ fields:
 checkboxes:
   - name: pay
     id: defaultCheck1
-    value: "Готовы ли вы платить за обучение в более сильном вузе?"
+    value: ""
     label: "Готовы ли вы платить за обучение в более сильном вузе?"
 
   - name: consent
     id: defaultCheck2
-    value: "Нажимая эту кнопку вы принимаете Положение и согласие на обработку персональных данных"
+    value: ""
     label: "Нажимая эту кнопку вы принимаете Положение и согласие на обработку персональных данных"
     required: true
 

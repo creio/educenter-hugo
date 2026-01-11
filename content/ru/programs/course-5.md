@@ -14,7 +14,7 @@ category: "Programming"
 # teacher
 teacher: ""
 # duration
-duration : "06 Month"
+duration : "06 месяцев"
 # weekly
 weekly : "03 hours"
 # course fee

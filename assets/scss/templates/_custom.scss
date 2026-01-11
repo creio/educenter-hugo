@@ -27,7 +27,7 @@
   background: $white;
   position: relative;
   margin: auto;
-  // padding: 20px 0;
+  padding: 20px;
   border-radius: 8px;
   width: 100%;
   max-width: 450px;
@@ -80,6 +80,20 @@
   // max-width: 700px;
   padding: 30px auto;
 }
+
+/*#sendForm > div {
+  position: relative;
+}
+#sendForm > div >span.error {
+    display: none;
+    font-size: 0.8em;
+    position: absolute;
+    top: 0;
+}
+#sendForm > div >input:invalid:not(:focus):not(:placeholder-shown) ~ .error {
+    display: block;
+    color: red;
+}*/
 
 .contact-form iframe {
   width: 100%;

@@ -114,7 +114,7 @@ const formPopup = document.getElementById('formPopup');
 const formIframe = document.getElementById('formIframe');
 const closeBtn = formPopup.querySelector('.close');
 
-/*// Функция для блокировки скролла страницы
+// Функция для блокировки скролла страницы
 function disableBodyScroll() {
   // Сохраняем текущую ширину скролла (для компенсации)
   const scrollbarWidth = window.innerWidth - document.documentElement.clientWidth;
@@ -126,7 +126,7 @@ function disableBodyScroll() {
 function enableBodyScroll() {
   document.body.style.overflow = '';
   document.body.style.paddingRight = '';
-}*/
+}
 
 // Навешиваем обработчик на КАЖДУЮ кнопку
 openFormBtns.forEach(btn => {
@@ -134,9 +134,9 @@ openFormBtns.forEach(btn => {
     e.preventDefault(); // на случай, если это <a href="#">
 
     formPopup.classList.add('show');
-    // disableBodyScroll();
+    disableBodyScroll();
 
-    if (!formIframe.src) {
+    if (formIframe && !formIframe.src) {
       formIframe.src = formIframe.dataset.src;
     }
 
@@ -152,18 +152,15 @@ openFormBtns.forEach(btn => {
 // Закрытие попапа
 function closePopup() {
   formPopup.classList.remove('show');
-  // enableBodyScroll(); // Возвращаем скролл
+  enableBodyScroll(); // Возвращаем скролл
 }
-
 closeBtn.addEventListener('click', closePopup);
-
 // По клику вне попапа
 formPopup.addEventListener('click', (e) => {
   if (e.target === formPopup) {
     closePopup();
   }
 });
-
 // По нажатию Esc
 document.addEventListener('keydown', (e) => {
   if (e.key === 'Escape' && formPopup.classList.contains('show')) {
@@ -172,45 +169,46 @@ document.addEventListener('keydown', (e) => {
 });
 
 
-// google form
-const form = document.getElementById('sendForm');
+// forms
+// const form = document.getElementById('sendForm');
+const sendFormWraps = document.querySelectorAll('.sendFormWrap');
 
-if (form) {
+sendFormWraps.forEach(form => {
   form.addEventListener('submit', async (e) => {
     e.preventDefault();
-    e.stopPropagation();
 
-    // === Сброс ошибок ===
-    document.querySelectorAll('.is-invalid').forEach(el => {
-      el.classList.remove('is-invalid');
+    // === Сброс ошибок ТОЛЬКО в этой форме ===
+    form.querySelectorAll('.is-invalid, .is-valid').forEach(el => {
+      el.classList.remove('is-invalid', 'is-valid');
     });
-    const errorBlock = document.getElementById('formError');
+
+    const errorBlock = form.querySelector('.form-error'); // ← локальный блок ошибок
     if (errorBlock) errorBlock.style.display = 'none';
 
-    // === Валидация ===
+    // === Валидация полей в ЭТОЙ форме ===
     let isValid = true;
 
-    const name = document.getElementById('name');
+    const name = form.querySelector('[name="name"]');
     if (!name?.value.trim()) {
-      name.classList.add('is-invalid');
+      name?.classList.add('is-invalid');
       isValid = false;
     }
 
-    const email = document.getElementById('mail');
+    const email = form.querySelector('[name="email"]');
     const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
     if (!email?.value.trim() || !emailRegex.test(email.value)) {
-      email.classList.add('is-invalid');
+      email?.classList.add('is-invalid');
       isValid = false;
     }
 
-    const phone = document.getElementById('phone');
+    const phone = form.querySelector('[name="phone"]');
     const phoneDigits = phone?.value.replace(/\D/g, '') || '';
     if (phoneDigits.length < 10) {
       phone?.classList.add('is-invalid');
       isValid = false;
     }
 
-    const consent = document.getElementById('defaultCheck2');
+    const consent = form.querySelector('[name="consent"]');
     if (!consent?.checked) {
       consent?.classList.add('is-invalid');
       isValid = false;
@@ -222,7 +220,7 @@ if (form) {
       return;
     }
 
-    // === Отправка данных ===
+    // === Отправка ===
     const formData = new FormData(form);
     const data = Object.fromEntries(formData.entries());
 
@@ -234,23 +232,61 @@ if (form) {
       });
 
       if (res.ok) {
-        // Показать успех
-        const successBlock = document.getElementById('formSuccess');
+        const successBlock = form.querySelector('.form-success');
         if (successBlock) {
           successBlock.style.display = 'block';
           setTimeout(() => {
             successBlock.style.display = 'none';
             form.reset();
+            // Сброс стилей после reset
+            form.querySelectorAll('.is-valid, .is-invalid').forEach(el => {
+              el.classList.remove('is-valid', 'is-invalid');
+            });
           }, 5000);
         }
       } else {
-        alert('Ошибка отправки. Попробуйте позже.');
+        alert('Ошибка отправки');
       }
     } catch (err) {
-      console.error('Ошибка сети:', err);
-      alert('Ошибка сети. Проверьте подключение.');
+      alert('Ошибка сети');
     }
   });
+
+  // === Динамическая валидация ===
+  form.querySelectorAll('input, select, textarea').forEach(el => {
+    const event = el.tagName === 'SELECT' ? 'change' : 'input';
+    el.addEventListener(event, () => validateField(el));
+  });
+
+  form.querySelectorAll('input[type="checkbox"]').forEach(el => {
+    el.addEventListener('change', () => validateField(el));
+  });
+});
+
+// === Универсальная валидация ===
+function validateField(field) {
+  let isValid = false;
+
+  if (field.type === 'checkbox') {
+    isValid = field.hasAttribute('required') ? field.checked : true;
+  } else if (field.tagName === 'SELECT') {
+    isValid = field.value !== '';
+  } else {
+    // Для input/textarea
+    if (field.hasAttribute('required')) {
+      if (field.type === 'email') {
+        const re = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+        isValid = re.test(field.value);
+      } else {
+        isValid = field.value.trim() !== '';
+      }
+    } else {
+      isValid = true; // не обязательное поле — всегда валидно
+    }
+  }
+
+  field.classList.toggle('is-valid', isValid);
+  field.classList.toggle('is-invalid', !isValid);
 }
 
 

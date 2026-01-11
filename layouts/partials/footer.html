@@ -8,10 +8,12 @@
         <div class="col-md-9 mx-auto">
           <h3 class="section-title mb-4">{{ i18n "contact_head" }}</h3>
           <iframe
+            id="formIframe"
             src="{{ .contact_form_action }}"
             frameborder="0" marginheight="0" marginwidth="0">
             Loading…
           </iframe>
+          {{/* partial "main/form.html" . */}}
         </div>
       </div>
     </div>
@@ -25,13 +27,10 @@
     <div class="popup-content">
       <h3 class="section-title m-3">{{ i18n "contact_head" }}</h3>
       <button class="close">&times;</button>
-      <iframe
-        src="{{ .contact_form_action }}"
-        frameborder="0"
-        marginheight="0"
-        marginwidth="0">
+      <iframe src="{{ .contact_form_action }}" frameborder="0" marginheight="0" marginwidth="0">
         Loading…
       </iframe>
+      {{/*<div class="popup-content-form">{{ partial "main/form.html" . }}</div>*/}}
     </div>
   </div>
   {{ end }}
@@ -209,11 +208,15 @@
 {{ end }}
 
 {{ "<!-- Main Script -->" | safeHTML }}
-{{ $script := resources.Get "js/script.js" | minify}}
+{{ if eq (hugo.Environment) "development" -}}
+{{ $script := resources.Get "js/script.js"}}
 <script src="{{ $script.Permalink }}"></script>
+{{ else -}}
+<script src="{{ $script.Permalink | minify }}"></script>
+{{ end -}}
 
-{{ "<!-- google analitycs -->" | safeHTML }}
 {{ with site.Params.google_analitycs_id}}
+{{ "<!-- google analitycs -->" | safeHTML }}
 <script>
   (function (i, s, o, g, r, a, m) {
     i['GoogleAnalyticsObject'] = r;
@@ -232,8 +235,8 @@
 {{ end }}
 
 
-<!-- cookie -->
 {{ if site.Params.cookies.enable }}
+<!-- cookie -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.1/js.cookie.min.js"></script>
 <div id="js-cookie-box" class="cookie-box cookie-box-hide">
 	This site uses cookies. By continuing to use this website, you agree to their use. <span id="js-cookie-button" class="btn btn-sm btn-outline-primary ml-2">I Accept</span>

@@ -13,7 +13,7 @@
             frameborder="0" marginheight="0" marginwidth="0">
             Loading…
           </iframe>
-          {{/* partial "main/form.html" . */}}
+          {{/* partial "main/form.html" (dict "context" . "formId" "contact") */}}
         </div>
       </div>
     </div>
@@ -30,7 +30,7 @@
       <iframe src="{{ .contact_form_action }}" frameborder="0" marginheight="0" marginwidth="0">
         Loading…
       </iframe>
-      {{/*<div class="popup-content-form">{{ partial "main/form.html" . }}</div>*/}}
+      {{/*<div class="popup-content-form">{{ partial "main/form.html" (dict "context" . "formId" "popup") }}</div>*/}}
     </div>
   </div>
   {{ end }}

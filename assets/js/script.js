@@ -178,8 +178,8 @@ sendFormWraps.forEach(form => {
     e.preventDefault();
 
     // === Сброс ошибок ТОЛЬКО в этой форме ===
-    form.querySelectorAll('.is-invalid, .is-valid').forEach(el => {
-      el.classList.remove('is-invalid', 'is-valid');
+    form.querySelectorAll('.is-invalid').forEach(el => {
+      el.classList.remove('is-invalid');
     });
 
     const errorBlock = form.querySelector('.form-error'); // ← локальный блок ошибок
@@ -213,6 +213,22 @@ sendFormWraps.forEach(form => {
       consent?.classList.add('is-invalid');
       isValid = false;
     }
+
+    // Проверка всех обязательных полей
+    form.querySelectorAll('[required]').forEach(field => {
+      let isEmpty = false;
+      if (field.type === 'checkbox') {
+        isEmpty = !field.checked;
+      } else if (field.tagName === 'SELECT') {
+        isEmpty = field.value === '';
+      } else {
+        // input, textarea
+        isEmpty = !field.value.trim();
+      }
+      if (isEmpty) {
+        field.classList.add('is-invalid');
+      }
+    });
 
     // === Если есть ошибки ===
     if (!isValid) {
@@ -269,6 +285,13 @@ function validateField(field) {
 
   if (field.type === 'checkbox') {
     isValid = field.hasAttribute('required') ? field.checked : true;
+    if (field.checked) {
+      field.value = 'Y';
+      field.classList.add('is-valid');
+    } else if (!field.checked) {
+      field.value = '';
+      field.classList.remove('is-valid');
+    }
   } else if (field.tagName === 'SELECT') {
     isValid = field.value !== '';
   } else {
@@ -280,12 +303,13 @@ function validateField(field) {
       } else {
         isValid = field.value.trim() !== '';
       }
+      // field.classList.add('is-invalid');
     } else {
       isValid = true; // не обязательное поле — всегда валидно
     }
   }
 
-  field.classList.toggle('is-valid', isValid);
+  // field.classList.toggle('is-valid', isValid);
   field.classList.toggle('is-invalid', !isValid);
 }
 

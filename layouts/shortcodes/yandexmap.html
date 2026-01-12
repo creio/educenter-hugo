@@ -1,0 +1,29 @@
+{{ $lat := .Get "lat" | default "55.751244" }}
+{{ $lon := .Get "lon" | default "37.618423" }}
+{{ $zoom := .Get "zoom" | default "14" }}
+{{ $width := .Get "width" | default "100%" }}
+{{ $height := .Get "height" | default "400px" }}
+{{ $staticOnly := .Get "static" | default false }}
+
+{{ if and (not $staticOnly) (site.Params.yamap_api) }}
+  <!-- Интерактивная карта (требует API-ключ) -->
+  <div class="mb-4" id="yandex-map-{{ $lat }}-{{ $lon }}" style="width: {{ $width }}; height: {{ $height }};"></div>
+  <script>
+    document.addEventListener("DOMContentLoaded", function() {
+      ymaps.ready(function () {
+        var map = new ymaps.Map("yandex-map-{{ $lat }}-{{ $lon }}", {
+          center: [{{ $lat }}, {{ $lon }}],
+          zoom: {{ $zoom }},
+          controls: []
+        });
+        map.geoObjects.add(new ymaps.Placemark([{{ $lat }}, {{ $lon }}]));
+      });
+    });
+  </script>
+{{ else }}
+  <!-- Статическая карта (без API-ключа) -->
+  <a href="https://yandex.ru/maps/?ll={{ $lon }},{{ $lat }}&z={{ $zoom }}&pt={{ $lon }},{{ $lat }}" target="_blank">
+    <img class="mb-4" src="https://static-maps.yandex.ru/1.x/?ll={{ $lon }},{{ $lat }}&z={{ $zoom }}&l=map&size=600,400&pt={{ $lon }},{{ $lat }},pm2blm"
+         alt="Карта" style="width: {{ $width }}; height: auto;">
+  </a>
+{{ end }}

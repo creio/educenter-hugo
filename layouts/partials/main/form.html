@@ -1,21 +1,24 @@
 {{ $lang := site.Language.Lang | default "ru" }}
 {{ $form := index site.Data $lang "form" }}
 
+{{ $ := .context }}
+{{ $formId := .formId }}
+
 {{ if $form }}
 <div class="sendFormWrap">
-  <div id="formError" class="alert alert-danger" style="display:none;">
+  <div id="formError" class="form-error alert alert-danger" style="display:none;">
     {{ i18n "error_form" }}
   </div>
-  <div id="formSuccess" class="alert alert-success" style="display:none;">
+  <div id="formSuccess" class="form-success alert alert-success" style="display:none;">
     {{ i18n "success_form" }}
   </div>
-  <form class="sendForm needs-validation" novalidate>
+  <form id="{{ $formId }}" class="sendForm needs-validation" novalidate>
     {{ range $field := $form.fields }}
       {{ if eq $field.type "select" }}
         {{ with $field.label }}
-          <label for="{{ $field.id }}" class="form-text">{{ . }}{{ if $field.required }} *{{ end }}</label>
+          <label for="{{ $formId }}_{{ $field.id }}" class="form-text">{{ . }}{{ if $field.required }} *{{ end }}</label>
         {{ end }}
-        <select class="form-control form-select mb-3" name="{{ $field.name }}" id="{{ $field.id }}" {{ if $field.required }}required{{ end }}>
+        <select class="form-control form-select mb-3" name="{{ $field.name }}" id="{{ $formId }}_{{ $field.id }}" {{ if $field.required }}required{{ end }}>
           {{ range $opt := $field.options }}
             <option value="{{ $opt.value }}"{{ if $opt.selected }} selected disabled{{ end }}>{{ $opt.text }}</option>
           {{ end }}
@@ -24,7 +27,7 @@
         <input
           type="{{ $field.type }}"
           class="form-control mb-3"
-          id="{{ $field.id }}"
+          id="{{ $formId }}_{{ $field.id }}"
           name="{{ $field.name }}"
           placeholder="{{ $field.placeholder }}{{ if $field.required }} *{{ end }}"
           aria-describedby="inputGroupPrepend"
@@ -36,13 +39,14 @@
     {{ range $cb := $form.checkboxes }}
       <div class="form-check mb-3">
         <input
+          id="{{ $formId }}_{{ $cb.id }}"
           class="form-check-input"
           type="checkbox"
           name="{{ $cb.name }}"
           value="{{ $cb.value }}"
           {{ if $cb.required }}required{{ end }}
         >
-        <label class="form-check-label" for="{{ $cb.id }}">
+        <label class="form-check-label" for="{{ $formId }}_{{ $cb.id }}">
           {{ $cb.label }}
         </label>
       </div>

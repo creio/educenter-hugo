@@ -208,11 +208,12 @@
 {{ end }}
 
 {{ "<!-- Main Script -->" | safeHTML }}
-{{ if eq (hugo.Environment) "development" -}}
 {{ $script := resources.Get "js/script.js"}}
+{{ if eq (hugo.Environment) "development" -}}
 <script src="{{ $script.Permalink }}"></script>
 {{ else -}}
-<script src="{{ $script.Permalink | minify }}"></script>
+{{ $script := $script | minify }}
+<script src="{{ $script.Permalink }}"></script>
 {{ end -}}
 
 {{ with site.Params.google_analitycs_id}}

@@ -1,17 +1,28 @@
 {{ define "main" }}
 
-<section class="section">
+<!-- section -->
+<section class="section-sm">
   <div class="container">
+    {{ if .Params.image }}
     <div class="row">
-      <div class="col-12">
-        <div class="d-flex">
-          <div class="content">
-            {{ .Content }}
-          </div>
-        </div>
+      <div class="col-12 mb-4">
+        <!-- thumb -->
+        {{ partial "image.html" (dict "Src" .Params.image "Alt" "Image" "Class" "img-fluid w-100" "Style" "height: 500px; width: 100%; object-fit: cover;") }}
+      </div>
+    </div>
+    {{ end }}
+    <!-- details -->
+    <div class="row">
+      <div class="col-lg-9 order-2 order-md-1 mb-4 content">
+        {{ .Content }}
+      </div>
+      <div class="toc-sticky col-lg-3 order-1 order-md-2 d-none d-lg-block shadow pt-4">
+        {{ partial "toc.html" . }}
+        <button class="openFormBtn btn btn-primary mt-4">{{ i18n "apply_now" }}</button>
       </div>
     </div>
   </div>
 </section>
+<!-- /section -->
 
 {{ end }}

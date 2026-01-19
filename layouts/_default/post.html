@@ -4,7 +4,7 @@
     <!-- post meta -->
     <ul class="list-inline mb-3">
       <!-- post date -->
-      <li class="list-inline-item mr-3 ml-0"><i class="ti-calendar"></i> {{ .PublishDate.Format "02 Jan, 2006" }}</li>
+      <li class="list-inline-item mr-3 ml-0"><i class="ti-calendar"></i> {{ .Date.Format "02.01.2006" }}</li>
       <!-- author -->
       <li class="list-inline-item mr-3 ml-0"><i class="ti-user"></i> <a
         href="{{ `author/` | relLangURL }}{{ .Params.Author | urlize }}">{{ .Params.Author | title }}</a></li>
@@ -13,6 +13,6 @@
         {{ with .Params.name }}{{ . | truncate 50 }}{{ else }}{{ .Title | truncate 50 }}{{ end }}
       </a></h4>
     {{/*<p class="card-text">{{ .Summary | truncate 100 }}</p>*/}}
-    <a href="{{ .Permalink }}" class="btn btn-primary btn-sm">{{ i18n "read_more" }}</a>
+    <a href="{{ .Permalink }}" class="btn btn-primary btn-sm">Читать далее</a>
   </div>
 </article>

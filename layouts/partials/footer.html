@@ -6,14 +6,14 @@
     <div class="container">
       <div class="row">
         <div class="col-md-9 mx-auto">
-          <h3 class="section-title mb-4">{{ i18n "contact_head" }}</h3>
-          <iframe
+          <h3 class="section-title mb-4">Свяжитесь с нами</h3>
+          {{/* <iframe
             id="formIframe"
             src="{{ .contact_form_action }}"
             frameborder="0" marginheight="0" marginwidth="0">
             Loading…
-          </iframe>
-          {{/* partial "main/form.html" (dict "context" . "formId" "contact") */}}
+          </iframe> */}}
+          {{ partial "main/form.html" (dict "context" . "formId" "contact") }}
         </div>
       </div>
     </div>
@@ -25,34 +25,16 @@
   {{ with site.Params.contact }}
   <div id="formPopup" class="popup">
     <div class="popup-content">
-      <h3 class="section-title m-3">{{ i18n "contact_head" }}</h3>
+      <h3 class="section-title my-3">Свяжитесь с нами</h3>
       <button class="close">&times;</button>
-      <iframe src="{{ .contact_form_action }}" frameborder="0" marginheight="0" marginwidth="0">
+      {{/*<iframe src="{{ .contact_form_action }}" frameborder="0" marginheight="0" marginwidth="0">
         Loading…
-      </iframe>
-      {{/*<div class="popup-content-form">{{ partial "main/form.html" (dict "context" . "formId" "popup") }}</div>*/}}
+      </iframe>*/}}
+      <div class="popup-content-form">{{ partial "main/form.html" (dict "context" . "formId" "popup") }}</div>
     </div>
   </div>
   {{ end }}
   {{ end }}
-
-  {{/* if site.Params.contact.enable }}
-  <script src="https://forms.yandex.ru/_static/embed.js"></script>
-
-  {{ with site.Params.contact }}
-  <div class="contact-form bg-gray text-center py-5">
-    <h3 class="section-title mb-4">{{ i18n "contact_us" }}</h3>
-    <iframe src="{{ .contact_form_action }}" frameborder="0" name="{{ .contact_form_name }}" width="650"></iframe>
-  </div>
-
-  <div id="formPopup" class="popup">
-    <div class="popup-content">
-      <button class="close">&times;</button>
-      <iframe id="formIframe" data-src="{{ .contact_form_action }}" frameborder="0" name="{{ .contact_form_name }}" width="650"></iframe>
-    </div>
-  </div>
-  {{ end }}
-  {{ end */}}
 
   <!-- newsletter -->
   {{ if site.Params.subscription.enable }}
@@ -61,11 +43,11 @@
     <div class="container">
       <div class="row">
         <div class="col-md-9 ml-auto bg-primary py-5 newsletter-block">
-          <h3 class="text-white mb-4">{{ i18n "subscribe_newsletter" }}</h3>
+          <h3 class="text-white mb-4">Подписка на рассылку</h3>
           <form action="{{ .mailchimp_form_action }}" method="post" name="mc-embedded-subscribe-form" target="_blank">
             <div class="input-wrapper">
               <input type="email" class="form-control border-0" id="newsletter" name="newsletter" placeholder="{{ i18n "enter_email" }}">
-              <button type="submit" name="subscribe" class="btn btn-primary">{{ i18n "join" }}</button>
+              <button type="submit" name="subscribe" class="btn btn-primary">Присоединиться</button>
               <div style="position: absolute; left: -5000px;" aria-hidden="true">
                 <input type="text" name="{{ .mailchimp_form_name }}" tabindex="-1">
               </div>
@@ -82,7 +64,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-3 col-sm-4 col-6 mb-5 mb-lg-0">
-          <h4 class="text-white mb-5 text-uppercase">{{ i18n "contacts" }}</h4>
+          <h4 class="text-white mb-5 text-uppercase">Контакты</h4>
           <ul class="list-unstyled">
             {{/*<li class="mb-4">{{ site.Params.address | markdownify }}</li>
             <li class="mb-4">{{ site.Params.email | markdownify }}</li>*/}}
@@ -100,7 +82,7 @@
         </div>
         <!-- company -->
         {{/*<div class="col-lg-2 col-sm-4 col-6 mb-5 mb-md-0">
-          <h4 class="text-white mb-5 text-uppercase">{{ i18n "company" }}</h4>
+          <h4 class="text-white mb-5 text-uppercase">компания</h4>
           <ul class="list-unstyled">
             {{ range site.Menus.main }}
             {{ if not .HasChildren }}
@@ -111,7 +93,7 @@
         </div>*/}}
         <!-- footer_menu -->
         <div class="col-lg-2 col-sm-4 col-6 mb-5 mb-md-0">
-          <h4 class="text-white mb-5 text-uppercase">{{ i18n "menu" }}</h4>
+          <h4 class="text-white mb-5 text-uppercase">Меню</h4>
           <ul class="list-unstyled">
             {{ range site.Menus.footer }}
             <li class="mb-3"><a class="text-color" href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
@@ -120,7 +102,7 @@
         </div>
         <!-- programs -->
         <div class="col-lg-2 col-sm-4 col-6 mb-5 mb-md-0">
-          <h4 class="text-white mb-5 text-uppercase">{{ i18n "programs" }}</h4>
+          <h4 class="text-white mb-5 text-uppercase">Программы</h4>
           <ul class="list-unstyled">
             {{ range first 5 (where site.RegularPages "Type" "programs")}}
             <li class="mb-3"><a class="text-color" href="{{ .Permalink }}">
@@ -131,7 +113,7 @@
         </div>
         <!-- ifp -->
         <div class="col-lg-3 col-sm-4 col-6 mb-5 mb-md-0">
-          <h4 class="text-white mb-5 text-uppercase">{{ i18n "ifp" }}</h4>
+          <h4 class="text-white mb-5 text-uppercase">IFP центры</h4>
           <ul class="list-unstyled">
             {{ range first 5 (where site.RegularPages "Type" "universitety")}}
             <li class="mb-3"><a class="text-color" href="{{ .Permalink }}">
@@ -142,7 +124,7 @@
         </div>
         <!-- footer_end -->
         <div class="col-lg-2 col-sm-4 col-6 mb-5 mb-md-0">
-          <h4 class="text-white mb-5 text-uppercase">{{ i18n "new_notice" }}</h4>
+          <h4 class="text-white mb-5 text-uppercase">Полезная информация</h4>
           <ul class="list-unstyled">
             {{ range site.Menus.footer_end }}
             <li class="mb-3"><a class="text-color" href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
@@ -151,7 +133,7 @@
         </div>
         {{/*<!-- support -->
         <div class="col-lg-2 col-sm-4 col-6 mb-5 mb-md-0">
-          <h4 class="text-white mb-5 text-uppercase">{{ i18n "new_notice" }}</h4>
+          <h4 class="text-white mb-5 text-uppercase">Полезная информация</h4>
           <ul class="list-unstyled">
             {{ range first 3 (where site.RegularPages "Type" "notice")}}
             <li class="mb-3"><a class="text-color" href="{{ .Permalink }}">

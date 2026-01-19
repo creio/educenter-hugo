@@ -3,6 +3,13 @@
 <!-- section -->
 <section class="section-sm">
   <div class="container">
+    {{ if .Params.h1 }}
+    <div class="row">
+      <h1 class="col-12 mb-4">
+        {{ .Params.h1 }}
+      </h1>
+    </div>
+    {{ end }}
     {{ if .Params.image }}
     <div class="row">
       <div class="col-12 mb-4">
@@ -18,7 +25,7 @@
       </div>
       <div class="toc-sticky col-lg-3 order-1 order-md-2 d-none d-lg-block shadow pt-4">
         {{ partial "toc.html" . }}
-        <button class="openFormBtn btn btn-primary mt-4">{{ i18n "apply_now" }}</button>
+        <button class="openFormBtn btn btn-primary mt-4">отправить</button>
       </div>
     </div>
   </div>

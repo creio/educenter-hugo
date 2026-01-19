@@ -1,5 +1,4 @@
-{{ $lang := site.Language.Lang | default "ru" }}
-{{ $form := index site.Data $lang "form" }}
+{{ $form := index site.Data "form" }}
 
 {{ $ := .context }}
 {{ $formId := .formId }}
@@ -7,10 +6,10 @@
 {{ if $form }}
 <div class="sendFormWrap">
   <div id="formError" class="form-error alert alert-danger" style="display:none;">
-    {{ i18n "error_form" }}
+    Пожалуйста, заполните все обязательные поля.
   </div>
   <div id="formSuccess" class="form-success alert alert-success" style="display:none;">
-    {{ i18n "success_form" }}
+    Форма заполнена.
   </div>
   <form id="{{ $formId }}" class="sendForm needs-validation" novalidate>
     {{ range $field := $form.fields }}
@@ -53,10 +52,8 @@
     {{ end }}
 
     <button type="submit" value="send" class="btn btn-primary">
-      {{ i18n $form.submit.text_key }}
+      {{ $form.submit.text_key }}
     </button>
   </form>
 </div>
-{{ else }}
-  {{ errorf "File data/%s/form.yml not found" $lang }}
 {{ end }}

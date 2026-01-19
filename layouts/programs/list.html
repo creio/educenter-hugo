@@ -1,20 +1,20 @@
 {{ define "main" }}
 
-<!-- courses -->
+<!-- programs -->
 <section class="section">
   <div class="container">
-    <!-- course list -->
+    <!-- programs list -->
     <div class="row justify-content-center">
-      <!-- course item -->
+      <!-- programs item -->
       {{ range .Data.Pages }}
       <div class="col-lg-4 col-sm-6 mb-5">
-        {{ partial "course-card.html" . }}
+        {{ partial "programs-card.html" . }}
       </div>
       {{ end }}
     </div>
-    <!-- /course list -->
+    <!-- /programs list -->
   </div>
 </section>
-<!-- /courses -->
+<!-- /programs -->
 
 {{ end }}

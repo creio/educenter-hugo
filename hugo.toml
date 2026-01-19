@@ -10,10 +10,6 @@ pagination.pagerSize = 6 # see https://gohugo.io/extras/pagination/
 summaryLength = 10 # see https://gohugo.io/content-management/excerpts/
 # google analytics
 googleAnalytics = "" # example: UA-123456-78, for more info, read the article https://support.google.com/analytics/answer/1008080?hl=en
-# disable language
-defaultContentLanguage = "ru"
-disableLanguages = ["en", "fr"]
-hasCJKLanguage = false #  If hasCJKLanguage true, auto-detect Chinese/Japanese/Korean Languages in the content. see: https://gohugo.io/getting-started/configuration/#hascjklanguage
 
 # [services.disqus]
 # shortname = 'template'

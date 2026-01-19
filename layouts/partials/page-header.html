@@ -15,7 +15,7 @@
                 {{- if .IsHome -}}
                   {{ .Site.Params.home }}
                 {{- else -}}
-                  {{ with .Params.name }}{{ . }}{{ else }}{{ .Title }}{{ end }}
+                  {{ with .Params.h1 }}{{ . }}{{ else }}{{ .Title }}{{ end }}
                 {{- end -}}
               </span>
             </a>
@@ -28,7 +28,7 @@
             {{- /* add 'one' one more time for the last link position */}}
             {{- $data.Add "counter" 1 }}
             <span itemprop="name">
-              {{ with .Params.name }}{{ . }}{{ else }}{{ .Title }}{{ end }}
+              {{ with .Params.h1 }}{{ . }}{{ else }}{{ .Title }}{{ end }}
             </span>
             {{- /* pass the counter value into schema attribute */}}
             <meta itemprop="position" content='{{ $data.Get "counter"}}' />

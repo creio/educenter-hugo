@@ -46,7 +46,7 @@
         </ul>
       </div>
       <div class="col-xl-3 text-sm-right text-left order-sm-2 order-3 order-xl-3 col-sm-6 mb-4 mb-xl-0">
-        <a href="{{ .Params.Apply_url | safeURL }}" class="openFormBtn btn btn-primary">{{ i18n "apply_now" }}</a>
+        <a href="{{ .Params.Apply_url | safeURL }}" class="openFormBtn btn btn-primary">Подать заявку</a>
       </div>
       <!-- border -->
       <div class="col-12 mt-4 order-4">
@@ -60,12 +60,12 @@
       </div>
       <div class="toc-sticky col-lg-3 order-1 order-md-2 d-none d-lg-block shadow pt-4">
         {{ partial "toc.html" . }}
-        <button class="openFormBtn btn btn-primary mt-4">{{ i18n "apply_now" }}</button>
+        <button class="openFormBtn btn btn-primary mt-4">Подать заявку</button>
       </div>
       <!-- teacher -->
       {{ if .Params.Teacher }}
       <div class="col-12 order-3">
-        <h5 class="mb-3">{{ i18n "teacher" }}</h5>
+        <h5 class="mb-3">Преподователи</h5>
         {{ range where site.RegularPages "Title" (.Params.Teacher | title) }}
         <div class="d-flex justify-content-between align-items-center flex-wrap">
           <div class="media mb-2 mb-sm-0 align-items-center">
@@ -106,7 +106,7 @@
       {{ $related := (where site.RegularPages "Type" "programs") | intersect (where site.Pages ".Title" "!=" .Title) | union (site.RegularPages.Related . ) | shuffle | first 3}}
       {{ range first 3 $related }}
       <div class="col-lg-4 col-sm-6 mb-5">
-        {{ partial "course-card.html" . }}
+        {{ partial "programs-card.html" . }}
       </div>
       {{ end }}
     </div>

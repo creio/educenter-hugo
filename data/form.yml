@@ -1,3 +1,9 @@
+submit:
+  action: '/.netlify/functions/submit'
+  error_text: "Пожалуйста, заполните все обязательные поля."
+  success_text: "Форма отправлена."
+  btn_text: "отправить"
+
 fields:
   - type: text
     name: name
@@ -74,6 +80,3 @@ checkboxes:
     value: ""
     label: "Нажимая эту кнопку вы принимаете Положение и согласие на обработку персональных данных"
     required: true
-
-submit:
-  text_key: "отправить"

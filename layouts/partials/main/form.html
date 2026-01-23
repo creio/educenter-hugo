@@ -6,12 +6,12 @@
 {{ if $form }}
 <div class="sendFormWrap">
   <div id="formError" class="form-error alert alert-danger" style="display:none;">
-    Пожалуйста, заполните все обязательные поля.
+    {{ $form.submit.error_text }}
   </div>
   <div id="formSuccess" class="form-success alert alert-success" style="display:none;">
-    Форма заполнена.
+    {{ $form.submit.success_text }}
   </div>
-  <form id="{{ $formId }}" class="sendForm needs-validation" data-action="/.netlify/functions/submit" novalidate>
+  <form id="{{ $formId }}" class="sendForm needs-validation" data-action="{{ $form.submit.action }}" novalidate>
     {{ range $field := $form.fields }}
       {{ if eq $field.type "select" }}
         {{ with $field.label }}
@@ -52,7 +52,7 @@
     {{ end }}
 
     <button type="submit" value="send" class="btn btn-primary">
-      {{ $form.submit.text_key }}
+      {{ $form.submit.btn_text }}
     </button>
   </form>
 </div>

@@ -171,16 +171,15 @@ document.addEventListener('keydown', (e) => {
 
 // forms
 // const form = document.getElementById('sendForm');
-const sendFormWraps = document.querySelectorAll('.sendFormWrap');
+const forms = document.querySelectorAll('.sendFormWrap form');
 
-sendFormWraps.forEach(form => {
+forms.forEach(form => {
   form.addEventListener('submit', async (e) => {
     e.preventDefault();
 
-    const formData = new FormData(e.target);
+    const formData = new FormData(e.currentTarget);
     const data = Object.fromEntries(formData.entries());
-    const action = e.target.dataset.action;
-    const form = e.currentTarget; // ← гарантированно элемент формы
+    const action = e.currentTarget.dataset.action;
     // console.log(action);
 
     // === Сброс ошибок ТОЛЬКО в этой форме ===

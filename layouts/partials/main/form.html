@@ -6,12 +6,6 @@
 {{ if $form }}
 <div class="sendFormWrap">
   <form id="{{ $formId }}" class="sendForm needs-validation" data-action="{{ $form.submit.action }}" novalidate>
-    <div id="formError" class="form-error alert alert-danger" style="display:none;">
-      {{ $form.submit.error_text }}
-    </div>
-    <div id="formSuccess" class="form-success alert alert-success" style="display:none;">
-      {{ $form.submit.success_text }}
-    </div>
     {{ range $field := $form.fields }}
       {{ if eq $field.type "select" }}
         {{ with $field.label }}
@@ -50,6 +44,12 @@
         </label>
       </div>
     {{ end }}
+    <div id="formError" class="form-error alert alert-danger" style="display:none;">
+      {{ $form.submit.error_text }}
+    </div>
+    <div id="formSuccess" class="form-success alert alert-success" style="display:none;">
+      {{ $form.submit.success_text }}
+    </div>
 
     <button type="submit" value="send" class="btn btn-primary">
       {{ $form.submit.btn_text }}

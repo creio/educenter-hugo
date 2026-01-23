@@ -261,7 +261,7 @@ forms.forEach(form => {
             form.querySelectorAll('.is-valid, .is-invalid').forEach(el => {
               el.classList.remove('is-valid', 'is-invalid');
             });
-          }, 5000);
+          }, 3000);
         }
       } else {
         alert('Ошибка отправки');

@@ -33,13 +33,10 @@ labore et dolore magnam aliquam quaerat voluptatem.</p>
 
 ### Requirements
 
-
-
 * Lorem ipsum dolor sit amet consectetur adipisicing elit.
 * Lorem ipsum dolor sit amet consectetur adipisicing elit.
 * Lorem ipsum dolor sit amet consectetur adipisicing elit.
 * Lorem ipsum dolor sit amet consectetur adipisicing elit.
-
 
 ### How to Apply
 
@@ -48,7 +45,6 @@ labore et dolore magnam aliquam quaerat voluptatem.</p>
 * Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
 * Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
 * Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-
 
 ### Fees and Funding
 

@@ -1,6 +1,6 @@
 ---
 title: "Это title"
-name: "Работодателям"
+h1: "Сотрудничество с работодателями"
 draft: false
 # page title background image
 # bg_image: "images/backgrounds/page-title.jpg"
@@ -9,7 +9,6 @@ draft: false
 # meta description
 description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
 ---
-# Сотрудничество с работодателями
 
 ## Обращение к работодателям
 

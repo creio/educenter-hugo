@@ -1,6 +1,6 @@
 ---
 title: "Artificial Intelligence"
-name: "Далеко-далеко за"
+h1: "Тяньцзиньский градостроительный университет"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
@@ -9,23 +9,14 @@ bg_image: "images/backgrounds/page-title.jpg"
 description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
 # course thumbnail
 image: "images/courses/course-3.jpg"
-# taxonomy
-category: "Artificial Intelligence"
-# teacher
-teacher: "Alex Rook"
-# duration
-duration : "06 Month"
-# weekly
-weekly : "03 hours"
-# course fee
-fee : "From: $699"
-# apply url
-apply_url : "#"
 # type
 type: "programs"
 ---
 
-# Далеко-далеко за словесными горами в стране.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+nulla pariatur.
 
 ### About Course
 

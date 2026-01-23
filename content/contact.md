@@ -1,5 +1,5 @@
 ---
-title: "Контактные данные - PandaIQ.ru"
+title: "Контактные данные"
 h1: "Контактная информация"
 draft: false
 # page title background image

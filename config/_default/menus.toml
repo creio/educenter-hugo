@@ -24,41 +24,41 @@ url = "about/"
 weight = 1
 
 [[main]]
-name = "Программы"
+name = "Выбор вуза"
 url = "programs/"
 weight = 2
 
-[[main]]
-weight = 3
-name = "Страницы"
-hasChildren = true
+# [[main]]
+# weight = 3
+# name = "Страницы"
+# hasChildren = true
 
-  [[main]]
-  parent = "Страницы"
-  name = "Университеты"
-  url = "universitety/"
-  weight = 1
+#   [[main]]
+#   parent = "Страницы"
+#   name = "Университеты"
+#   url = "universitety/"
+#   weight = 1
 
-  [[main]]
-  parent = "Страницы"
-  name = "teacher"
-  url = "teacher/"
+#   [[main]]
+#   parent = "Страницы"
+#   name = "teacher"
+#   url = "teacher/"
 
-  [[main]]
-  parent = "Страницы"
-  name = "event"
-  url = "event/"
+#   [[main]]
+#   parent = "Страницы"
+#   name = "event"
+#   url = "event/"
 
-  [[main]]
-  parent = "Страницы"
-  name = "scholarship"
-  url = "scholarship/"
+#   [[main]]
+#   parent = "Страницы"
+#   name = "scholarship"
+#   url = "scholarship/"
 
-  [[main]]
-  parent = "Страницы"
-  name = "research"
-  url = "research/"
-  
+#   [[main]]
+#   parent = "Страницы"
+#   name = "research"
+#   url = "research/"
+
 [[main]]
 name = "блог"
 url = "blog/"

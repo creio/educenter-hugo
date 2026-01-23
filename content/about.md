@@ -17,7 +17,8 @@ description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do 
 - E-mail: info@chinacampus.ru
 
 Время работы:
-• Пн – Пт – 10:00-19:00
-• Сб – Вс – Выходной
+
+- Пн – Пт – 10:00-19:00
+- Сб – Вс – Выходной
 
 Схема проезда: [Карта Яндекс](https://yandex.ru/maps)

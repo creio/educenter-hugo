@@ -1,6 +1,6 @@
 ---
 title: "Vlogging"
-name: "Vlogging br"
+h1: "Vlogging br"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
@@ -11,21 +11,9 @@ description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do 
 image: "images/courses/course-6.jpg"
 # taxonomy
 category: "Photography"
-# teacher
-teacher: "Duis Rio"
-# duration
-duration : "06 Month"
-# weekly
-weekly : "03 hours"
-# course fee
-fee : "From: $699"
-# apply url
-apply_url : "#"
 # type
 type: "programs"
 ---
-
-# Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime, sunt!
 
 ### About Course
 

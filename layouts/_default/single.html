@@ -3,13 +3,11 @@
 <!-- section -->
 <section class="section-sm">
   <div class="container">
-    {{ if .Params.h1 }}
     <div class="row">
       <h1 class="col-12 mb-4">
-        {{ .Params.h1 }}
+        {{ with .Params.h1 }}{{ . }}{{ else }}{{ .Title }}{{ end }}
       </h1>
     </div>
-    {{ end }}
     {{ if .Params.image }}
     <div class="row">
       <div class="col-12 mb-4">

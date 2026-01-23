@@ -251,6 +251,7 @@ forms.forEach(form => {
 
       if (res.ok) {
         const successBlock = form.querySelector('.form-success');
+        // console.log(successBlock);
         if (successBlock) {
           successBlock.style.display = 'block';
           setTimeout(() => {

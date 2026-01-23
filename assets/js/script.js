@@ -180,6 +180,7 @@ sendFormWraps.forEach(form => {
     const formData = new FormData(e.target);
     const data = Object.fromEntries(formData.entries());
     const action = e.target.dataset.action;
+    const form = e.currentTarget; // ← гарантированно элемент формы
     // console.log(action);
 
     // === Сброс ошибок ТОЛЬКО в этой форме ===

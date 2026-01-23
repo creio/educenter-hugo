@@ -9,6 +9,7 @@ home = "Главная"
 # copyright
 copyright = " | by [@cretm](https://creio.ctlos.ru)"
 
+
 # ################################### English language #####################################
 # [en]
 # languageName = "En"
@@ -20,18 +21,3 @@ copyright = " | by [@cretm](https://creio.ctlos.ru)"
 # home = "Home"
 # # copyright
 # copyright = " | by [@cretm](https://creio.ctlos.ru)"
-
-
-
-# ################################### French language #####################################
-# [fr]
-# languageName = "Fr"
-# languageCode = "fr-fr"
-# contentDir = "content/fr"
-# weight = 3
-
-# [fr.params]
-# home = "Accueil"
-# # copyright
-# copyright = "Copyright &copy; 2021 a hugo theme by [Themefisher](https://themefisher.com/hugo-themes/)"
-

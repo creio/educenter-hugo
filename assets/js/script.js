@@ -177,6 +177,11 @@ sendFormWraps.forEach(form => {
   form.addEventListener('submit', async (e) => {
     e.preventDefault();
 
+    const formData = new FormData(e.target);
+    const data = Object.fromEntries(formData.entries());
+    const action = e.target.dataset.action;
+    // console.log(action);
+
     // === Сброс ошибок ТОЛЬКО в этой форме ===
     form.querySelectorAll('.is-invalid').forEach(el => {
       el.classList.remove('is-invalid');
@@ -237,11 +242,8 @@ sendFormWraps.forEach(form => {
     }
 
     // === Отправка ===
-    const formData = new FormData(form);
-    const data = Object.fromEntries(formData.entries());
-
     try {
-      const res = await fetch('/.netlify/functions/submit', {
+      const res = await fetch(action, { // ← используем action из формы
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(data)

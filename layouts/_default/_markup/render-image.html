@@ -1,0 +1,7 @@
+{{ $image := .Page.Resources.GetMatch .Destination }}
+{{ if $image }}
+  {{ $small := $image.Resize "800x" }} <!-- или нужная вам ширина -->
+  <img src="{{ $small.Permalink }}" class="img-fluid" alt="{{ $.Text }}">
+{{ else }}
+  <img src="{{ .Destination | absURL }}" class="img-fluid" alt="{{ $.Text }}">
+{{ end }}

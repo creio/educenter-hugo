@@ -1,22 +1,22 @@
 {{ define "main" }}
-{{ $paginator := .Paginate .Data.Pages }}
 <section class="section">
   <div class="container">
-    <!-- list -->
-    <div class="row justify-content-center">
-      <!-- item -->
-      {{ range $paginator.Pages }}
-      <div class="col-lg-4 col-sm-6 mb-5">
-        {{ partial "programs-card.html" . }}
-      </div>
+    <h1>{{ with .Params.h1 }}{{ . }}{{ else }}{{ .Title }}{{ end }}</h1>
+    <div class="row">
+      {{ range .Data.Terms.ByCount }}
+        <div class="col-md-4 mb-4">
+          <div class="card">
+            <div class="card-body">
+              <h5>
+                <a href="{{ .Page.Permalink }}">
+                  {{ .Page.Title }} ({{ .Count }})
+                </a>
+              </h5>
+            </div>
+          </div>
+        </div>
       {{ end }}
     </div>
-    <!-- /list -->
-    {{ if gt $paginator.TotalPages 1 }}
-    <div class="col-12 mt-4">
-      {{ template "_internal/pagination.html" . }}
-    </div>
-    {{ end }}
   </div>
 </section>
 {{ end }}

@@ -36,6 +36,15 @@ google_analitycs_id = "" # your id
 # top header
 top_header = true
 
+[taxonomies]
+  programs = "programs"
+  categories = "categories"
+  tags = "tags"
+
+# [permalinks]
+#   categories = "/categories/:slugorcontentbasename/"
+#   tags = "/tags/:slugorcontentbasename/"
+
 # Preloader
 [params.preloader]
 enable = false
@@ -161,7 +170,7 @@ rel  = "sitemap"
 # See https://github.com/disintegration/imaging
 # Default JPEG or WebP quality setting. Default is 75.
 quality = 90
-resampleFilter = "lanczos"
+resampleFilter = "Lanczos"
 
 ############################# Caches ###############################
 [caches]

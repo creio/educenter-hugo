@@ -7,10 +7,16 @@
       <div class="col-12 mb-4">
         <h1>{{ with .Params.h1 }}{{ . }}{{ else }}{{ .Title }}{{ end }}</h1>
       </div>
-      <div class="col-12 mb-4">
-        <!-- thumb -->
-        {{ partial "image.html" (dict "Src" .Params.image "Alt" "Image" "Class" "img-fluid w-100" "Style" "height: 500px; width: 100%; object-fit: cover;") }}
-      </div>
+      {{ if .Params.image }}
+        {{ $image := .Resources.GetMatch .Params.image }}
+        <div class="col-12 mb-4">
+        {{ if $image }}
+            <img src="{{ $image.Permalink }}" alt="{{ with .Params.h1 }}{{ . }}{{ else }}{{ .Title }}{{ end }}" class="img-fluid w-100">
+        {{ else }}
+            {{ partial "image.html" (dict "Src" .Params.image "Alt" "Image" "Class" "img-fluid w-100") }}
+        {{ end }}
+        </div>
+      {{ end}}
     </div>
     <!-- details -->
     <div class="row">

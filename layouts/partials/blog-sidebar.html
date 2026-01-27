@@ -28,7 +28,7 @@
     {{- end }}
   </div>
   {{ "<!-- latest post -->" | safeHTML }}
-  <div class="bg-white">
+  <div class="old_articles bg-white">
     <h4 class="mb-4">Другие статьи</h4>
     {{ range first 3 ( where site.RegularPages "Type" "blog" )}}
     {{ "<!-- post-item -->" | safeHTML }}

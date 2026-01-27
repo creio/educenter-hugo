@@ -317,4 +317,43 @@ function validateField(field) {
 }
 
 
+const oldArticles = document.querySelector('.old_articles');
+const tocSticky = document.querySelector('.toc-sticky');
+
+if (!oldArticles || !tocSticky) return;
+
+// Получаем нижнюю координату блока .old_articles
+const getOldArticlesBottom = () => {
+  const rect = oldArticles.getBoundingClientRect();
+  return rect.top + window.scrollY + rect.height;
+};
+
+let oldArticlesBottom = getOldArticlesBottom();
+
+function handleScroll() {
+  // Нижняя граница .old_articles в документе (абсолютная координата)
+  const oldArticlesRect = oldArticles.getBoundingClientRect();
+  const oldArticlesBottom = oldArticlesRect.top + window.scrollY + oldArticlesRect.height;
+
+  if (window.scrollY >= oldArticlesBottom) {
+    // Пользователь проскроллил ниже конца .old_articles → делаем sticky
+    tocSticky.style.position = 'sticky';
+    tocSticky.style.top = '100px';
+  } else {
+    // Ещё не доскроллили до конца → обычное поведение
+    tocSticky.style.position = 'relative';
+    tocSticky.style.top = '0';
+  }
+}
+
+// Обновляем позицию при изменении размера окна (на случай адаптивности)
+window.addEventListener('resize', () => {
+  oldArticlesBottom = getOldArticlesBottom();
+  handleScroll();
+});
+
+window.addEventListener('scroll', handleScroll);
+handleScroll(); // Проверяем сразу при загрузке
+
+
 }); // end DOMContentLoaded

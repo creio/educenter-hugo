@@ -1,18 +1,16 @@
 <!-- header -->
 <header class="fixed-top header">
-  <!-- top header -->
-  {{ if site.Params.top_header }}
+  {{ if site.Params.top_header -}}
   <div class="header-top bg-pink d-none d-lg-block">
     <div class="container">
       <div class="row no-gutters align-items-center">
         <div class="col-lg-7 text-center text-lg-left">
           <ul class="list-inline">
-            {{ range site.Menus.header_top }}
+            {{- range site.Menus.header_top -}}
             <li class="list-inline-item mx-0">
               <a class="d-inline-block p-2 text-color" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
             </li>
-            {{ end }}
-
+            {{- end -}}
             {{/* range site.Params.social }}
             <li class="list-inline-item mx-0"><a class="d-inline-block p-2 text-color" href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
             {{ end */}}
@@ -32,7 +30,7 @@
       </div>
     </div>
   </div>
-  {{ end }}
+  {{ end -}}
   <!-- navbar -->
   <div class="navigation w-100{{ if site.Params.top_header }} top-hider {{ end }}">
     <div class="container">
@@ -49,7 +47,6 @@
           aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
-
         <div class="collapse navbar-collapse text-center" id="navigation">
           <ul class="navbar-nav ml-auto">
             <li class="nav-item">

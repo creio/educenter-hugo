@@ -6,8 +6,8 @@ draft: false
 bg_image: "images/backgrounds/page-title.jpg"
 description: "Обновленная информация о победителях Всероссийского конкурса CCN Contest"
 image: "https://chinacampus.ru/wp-content/uploads/2019/07/contestccn1-2.jpg"
-categories: ["Automation System"]
-tags: ["Advice", "Automation"]
+categories: ["Образование"]
+tags: ["Конкурсы", "Гранты", "Китай"]
 ---
 
 25 марта завершился финальный этап Всероссийского конкурса CCN Contest. В заключительной части приняли участие 23 участника из разных регионов России. В результате три победителя получили главные призы: Евгения Цымбалова из Санкт-Петербурга, Алина Одинцова из Саратова и Алина Некрасова из Обнинска.

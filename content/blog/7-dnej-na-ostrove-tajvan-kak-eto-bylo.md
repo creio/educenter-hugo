@@ -5,9 +5,9 @@ date: 2019-07-27T10:34:02
 draft: false
 bg_image: "images/backgrounds/page-title.jpg"
 description: "Обновленные впечатления от поездки на Тайвань"
-image: "images/blog/post-placeholder.jpg"
-categories: ["Automation System"]
-tags: ["Advice", "Automation"]
+image: ""
+categories: ["Путешествия"]
+tags: ["Тайвань", "Впечатления", "Азия"]
 ---
 
 "Этот материал не посвящен политическим вопросам. Это история о вдохновении. О коротком семидневном путешествии по острову Тайвань, воспоминания о котором вызывают у меня теплое чувство даже спустя время."

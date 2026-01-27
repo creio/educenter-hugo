@@ -5,9 +5,9 @@ date: 2019-07-27T10:24:21
 draft: false
 bg_image: "images/backgrounds/page-title.jpg"
 description: "Обновленная информация о развитии 5G технологии в Китае"
-image: "images/blog/post-placeholder.jpg"
-categories: ["Automation System"]
-tags: ["Advice", "Automation"]
+image: ""
+categories: ["Технологии"]
+tags: ["5G", "Телекоммуникации", "Инновации"]
 ---
 
 Китай традиционно находится на переднем крае технологических инноваций и сейчас активно развивает и внедряет сеть пятого поколения 5G.

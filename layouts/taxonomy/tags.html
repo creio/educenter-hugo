@@ -19,6 +19,8 @@
                 {{ else }}
                   {{ partial "image.html" (dict "Src" .Params.image "Alt" .Title "Class" "img-fluid w-100 rounded-0") }}
                 {{ end }}
+              {{ else }}
+                <img src="/images/blog/post-placeholder.jpg" alt="{{ with .Params.h1 }}{{ . }}{{ else }}{{ .Title }}{{ end }}" class="img-fluid w-100">
               {{ end}}
               <div class="card-body">
                 <!-- post meta -->

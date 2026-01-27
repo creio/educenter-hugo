@@ -34,7 +34,16 @@
     {{ "<!-- post-item -->" | safeHTML }}
     <div class="media border-bottom border-color pb-3 mb-3">
       <a href="{{ .Permalink }}">
-        {{ partial "image.html" (dict "Src" .Params.image "Alt" "Image" "Class" "mr-3 post-thumb-sm") }}
+        {{ if .Params.image }}
+          {{ $image := .Resources.GetMatch .Params.image }}
+          {{ if $image }}
+            <img src="{{ $image.Permalink }}" alt="{{ with .Params.h1 }}{{ . }}{{ else }}{{ .Title }}{{ end }}" class="mr-3 post-thumb-sm">
+          {{ else }}
+            {{ partial "image.html" (dict "Src" .Params.image "Alt" "thumb" "Class" "mr-3 post-thumb-sm") }}
+          {{ end }}
+        {{ else }}
+          <img src="/images/blog/post-placeholder.jpg" alt="{{ with .Params.h1 }}{{ . }}{{ else }}{{ .Title }}{{ end }}" class="mr-3 post-thumb-sm">
+        {{ end}}
       </a>
       <div class="media-body">
         <a href="{{ .Permalink }}">

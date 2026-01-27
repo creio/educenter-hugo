@@ -1,15 +1,13 @@
 <!DOCTYPE html>
 <html lang="{{ with site.LanguageCode }}{{ . }}{{ else }}ru-RU{{ end }}">
 {{- partial "head.html" . -}}
-
 <body>
 	{{- partial "preloader.html" . -}}
 	{{- partial "header.html" . -}}
-	{{ if not .IsHome }}
+	{{ if not .IsHome -}}
 	{{ partial "page-header.html" . }}
-	{{ end }}
+	{{ end -}}
 	{{- block "main" . }}{{- end }}
 	{{- partial "footer.html" . -}}
 </body>
-
 </html>

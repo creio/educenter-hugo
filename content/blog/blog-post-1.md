@@ -1,21 +1,17 @@
 ---
 title: "Modern Automation Systems and Innovative Solutions"
 h1: "Advanced Automation Technologies"
+# meta description
+description : "Exploring cutting-edge automation systems and their impact on modern industry and society."
 date: 2019-08-22T15:27:17+06:00
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
-# meta description
-description : "Exploring cutting-edge automation systems and their impact on modern industry and society."
 # post thumbnail
 image: "images/blog/post-1.jpg"
 # post author
 author: "John Doe"
-# taxonomy
-categories: ["Automation System"]
-tags: ["Advice", "Automation"]
-# type
-type: "blog"
+categories: ["Культура"]
 ---
 
 ### Revolution in Automation Technology {#automation-revolution}

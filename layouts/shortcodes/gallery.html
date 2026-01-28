@@ -1,0 +1,97 @@
+{{/*< gallery id="city1" >}}
+/images/cities/Guangzhou-Zhongshan-Memorial-Hall-1.jpg,Здание
+/images/cities/akademiya.jpg
+{{< /gallery >*/}}
+{{/* первый: оригинал, второй(необязательно): alt */}}
+
+{{ $id := .Get "id" | default "gallery" }}
+
+{{/* Собираем непустые строки */}}
+{{ $items := slice }}
+{{ range split .Inner "\n" }}
+  {{ $trimmed := trim . " \r\n\t" }}
+  {{ if and ($trimmed) (ne $trimmed "") }}
+    {{ $items = $items | append $trimmed }}
+  {{ end }}
+{{ end }}
+
+{{ $count := len $items }}
+
+{{ if eq $count 0 }}
+  <!-- Нет изображений -->
+{{ else if eq $count 1 }}
+  {{/* Одно изображение — без слайдера */}}
+  {{ $line := index $items 0 }}
+  {{ $parts := split $line "," }}
+  {{ $fullPath := trim (index $parts 0) " " }}
+  {{ $alt := "" }}
+  {{ if ge (len $parts) 2 }}
+    {{ $alt = trim (index $parts 1) " " }}
+  {{ else }}
+    {{ $alt = path.Base $fullPath }}
+  {{ end }}
+
+  {{ $original := resources.Get $fullPath }}
+  {{ if $original }}
+    {{ $thumb := $original.Fill "825x464 Center" }}
+    <a class="venobox-gal" data-gall="{{ $id }}" data-maxwidth="90%" href="{{ $original.RelPermalink }}">
+      <img class="img-fluid" src="{{ $thumb.RelPermalink }}" alt="{{ $alt }}">
+    </a>
+  {{ else }}
+    <a class="venobox-gal" data-gall="{{ $id }}" data-maxwidth="90%" href="{{ $fullPath | absURL }}">
+      <img class="img-fluid" src="{{ $fullPath | absURL }}" alt="{{ $alt }}">
+    </a>
+  {{ end }}
+
+{{ else }}
+  {{/* Несколько изображений — слайдеры */}}
+  <div class="gallery-wrapper" data-gallery-id="{{ $id }}">
+    <div class="slider slider-single">
+      {{ range $items }}
+        {{ $parts := split . "," }}
+        {{ $fullPath := trim (index $parts 0) " " }}
+        {{ $alt := "" }}
+        {{ if ge (len $parts) 2 }}
+          {{ $alt = trim (index $parts 1) " " }}
+        {{ else }}
+          {{ $alt = path.Base $fullPath }}
+        {{ end }}
+
+        {{ $original := resources.Get $fullPath }}
+        {{ if $original }}
+          {{ $thumb := $original.Fill "825x464 Center" }}
+          <a class="venobox-gal" data-gall="{{ $id }}" data-maxwidth="90%" href="{{ $original.RelPermalink }}">
+            <img class="img-fluid" src="{{ $thumb.RelPermalink }}" alt="{{ $alt }}">
+          </a>
+        {{ else }}
+          <a class="venobox-gal" data-gall="{{ $id }}" data-maxwidth="90%" href="{{ $fullPath | absURL }}">
+            <img class="img-fluid" src="{{ $fullPath | absURL }}" alt="{{ $alt }}">
+          </a>
+        {{ end }}
+      {{ end }}
+    </div>
+
+    <div class="slider slider-nav">
+      {{ range $items }}
+        {{ $parts := split . "," }}
+        {{ $fullPath := trim (index $parts 0) " " }}
+        {{ $alt := "" }}
+        {{ if ge (len $parts) 2 }}
+          {{ $alt = trim (index $parts 1) " " }}
+        {{ else }}
+          {{ $alt = path.Base $fullPath }}
+        {{ end }}
+
+        <div class="slide-thumb">
+          {{ $original := resources.Get $fullPath }}
+          {{ if $original }}
+            {{ $thumb := $original.Resize "150x q90" }}
+            <img src="{{ $thumb.RelPermalink }}" alt="{{ $alt }}">
+          {{ else }}
+            <img src="{{ $fullPath | absURL }}" alt="{{ $alt }}">
+          {{ end }}
+        </div>
+      {{ end }}
+    </div>
+  </div>
+{{ end }}

@@ -1,0 +1,19 @@
+{{ with .Params.video }}
+<section class="section bg-cover" {{ with $.Params.video_poster }}data-background="{{ . | absURL }}"{{ else }}style="background-color:#291b3d"{{ end }}>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-6 col-sm-4 position-relative success-video">
+        <a class="play-btn venobox" href="{{ . | safeURL }}" data-vbtype="iframe" data-autoplay="true">
+          <i class="ti-control-play"></i>
+        </a>
+      </div>
+      <div class="col-lg-6 col-sm-8">
+        <div class="bg-white p-5">
+          <h2 class="section-title">{{ $.Params.h1 }}</h2>
+          <p>{{ $.Params.description | markdownify }}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}

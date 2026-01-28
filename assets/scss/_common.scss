@@ -23,7 +23,6 @@ body {
   justify-content: center;
 }
 
-ol,
 ul {
   list-style-type: none;
   margin: 0px;
@@ -343,7 +342,7 @@ textarea.form-control{
   h4,
   h5,
   h6 {
-    margin-bottom: 10px;
+    margin: 10px 0;
   }
 
   ol {
@@ -401,6 +400,10 @@ textarea.form-control{
 
 
   blockquote {
+    background: darken($color: $light, $amount: 2);
+    border-left: 3px solid $text-color;
+    padding: 5px;
+
     p {
       margin-bottom: 0;
       color: $text-color;

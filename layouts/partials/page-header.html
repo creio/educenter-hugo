@@ -1,6 +1,21 @@
 <!-- page title -->
-{{ $img := resources.Get "images/backgrounds/page-title.jpg" }}
-<section class="page-title-section overlay" style="background-image: url('{{ .Params.bg_image | relURL }}'),url('{{ $img.RelPermalink }}');" >
+{{ $defaultBg := "" }}
+{{ if eq .Section "blog" }}
+  {{ $defaultBg = resources.Get "images/backgrounds/blog-title.jpg" }}
+{{ else }}
+  {{ $defaultBg = resources.Get "images/backgrounds/page-title.jpg" }}
+{{ end }}
+{{ $customBg := false }}
+{{ with .Params.bg_image }}
+  {{ $customBg = resources.Get . }}
+{{ end }}
+{{ $bgUrl := "" }}
+{{ if $customBg }}
+  {{ $bgUrl = $customBg.RelPermalink }}
+{{ else if $defaultBg }}
+  {{ $bgUrl = $defaultBg.RelPermalink }}
+{{ end }}
+<section class="page-title-section overlay" style="background: url('{{ $bgUrl }}') center center / cover no-repeat;" >
   <div class="container">
     <div class="row">
       <div class="col-md-10">

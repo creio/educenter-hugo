@@ -143,4 +143,10 @@
 {{ end }}
 <!-- /cta -->
 
+<!-- success story -->
+{{ if $data.homepage.success_story.enable }}
+{{ partial "success-story.html" . }}
+{{ end }}
+<!-- /success story -->
+
 {{ end }}

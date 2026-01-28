@@ -44,9 +44,12 @@
   });
   $('.hero-slider').slickAnimation();
 
+
   // venobox popup
   $(document).ready(function () {
-    $('.venobox').venobox();
+    $('.venobox').venobox({
+      autoplay: true,
+    });
   });
 
   // filter
@@ -106,6 +109,77 @@
 
 
 document.addEventListener('DOMContentLoaded', function() {
+
+// Инициализация всех галерей на странице
+document.querySelectorAll('.gallery-wrapper').forEach(function(wrapper) {
+  const $wrapper = $(wrapper);
+  const $single = $wrapper.find('.slider-single');
+  const $nav = $wrapper.find('.slider-nav');
+  // Основной слайдер
+  $single.slick({
+    slidesToShow: 1,
+    slidesToScroll: 1,
+    arrows: true,
+    fade: true,
+    infinite: true,
+    speed: 400,
+    prevArrow: '<button type=\'button\' class=\'prevArrow\'><i class=\'ti-angle-left\'></i></button>',
+    nextArrow: '<button type=\'button\' class=\'nextArrow\'><i class=\'ti-angle-right\'></i></button>',
+  });
+
+  // Навигационный слайдер
+  $nav.on('init', function(event, slick) {
+    $nav.find('.slick-slide.slick-current').addClass('is-active');
+  })
+  .slick({
+    slidesToShow: 5,
+    slidesToScroll: 5,
+    dots: false,
+    focusOnSelect: false,
+    infinite: true,
+    variableWidth: true,
+    prevArrow: '<button type=\'button\' class=\'prevArrow\'><i class=\'ti-angle-left\'></i></button>',
+    nextArrow: '<button type=\'button\' class=\'nextArrow\'><i class=\'ti-angle-right\'></i></button>',
+    responsive: [{
+      breakpoint: 1200,
+      settings: {
+        slidesToShow: 4,
+        slidesToScroll: 4,
+      }
+    },{
+      breakpoint: 768,
+      settings: {
+        slidesToShow: 3,
+        slidesToScroll: 3,
+      }
+    }, {
+      breakpoint: 480,
+      settings: {
+        slidesToShow: 2,
+        slidesToScroll: 2,
+      }
+    }]
+  });
+  // Синхронизация
+  $single.on('afterChange', function(event, slick, currentSlide) {
+    $nav.slick('slickGoTo', currentSlide);
+    $nav.find('.slick-slide.is-active').removeClass('is-active');
+    $nav.find('.slick-slide[data-slick-index="' + currentSlide + '"]').addClass('is-active');
+  });
+
+  $nav.on('click', '.slick-slide', function(event) {
+    event.preventDefault();
+    const goToSingleSlide = $(this).data('slick-index');
+    $single.slick('slickGoTo', goToSingleSlide);
+  });
+});
+
+
+new VenoBox({
+  selector: ".venobox-gal",
+  numeration: true,
+  infinigall: true
+});
 
 
 // popup form

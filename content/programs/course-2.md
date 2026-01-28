@@ -8,7 +8,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
 # course thumbnail
-image: "images/courses/course-2.jpg"
+image: "images/programs/course-2.jpg"
 # type
 type: "programs"
 ---

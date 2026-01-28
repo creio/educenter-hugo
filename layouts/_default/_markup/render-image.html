@@ -1,7 +1,24 @@
-{{ $image := .Page.Resources.GetMatch .Destination }}
-{{ if $image }}
-  {{ $small := $image.Resize "800x" }} <!-- или нужная вам ширина -->
-  <img src="{{ $small.Permalink }}" class="img-fluid" alt="{{ $.Text }}">
-{{ else }}
-  <img src="{{ .Destination | absURL }}" class="img-fluid" alt="{{ $.Text }}">
-{{ end }}
+{{- $src := .Destination -}}
+
+{{/* 1. Если путь НЕ начинается с "/" — это локальный ресурс страницы */}}
+{{- if not (hasPrefix $src "/") -}}
+  {{- $image := .Page.Resources.GetMatch $src -}}
+  {{- if $image -}}
+    {{- $resized := $image.Resize "825x" -}}
+    <img src="{{ $resized.RelPermalink }}" alt="{{ .Text }}" class="img-fluid">
+  {{- else -}}
+    <!-- Fallback: если не найдено рядом -->
+    <img src="{{ $src | relURL }}" alt="{{ .Text }}" class="img-fluid">
+  {{- end -}}
+{{/* 2. Если путь начинается с "/" — это глобальный ресурс из /assets/ */}}
+{{- else -}}
+  {{- $relPath := strings.TrimPrefix "/" $src -}}
+  {{- $image := resources.Get $relPath -}}
+  {{- if $image -}}
+    {{- $resized := $image.Resize "825x" -}}
+    <img src="{{ $resized.RelPermalink }}" alt="{{ .Text }}" class="img-fluid">
+  {{- else -}}
+    <!-- Fallback: если не найдено в assets -->
+    <img src="{{ $src | absURL }}" alt="{{ .Text }}" class="img-fluid">
+  {{- end -}}
+{{- end -}}

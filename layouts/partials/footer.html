@@ -5,7 +5,7 @@
   <div class="contact-form bg-gray py-5">
     <div class="container">
       <div class="row">
-        <div class="col-md-9 mx-auto">
+        <div class="col-md-8 mx-auto">
           <h3 class="section-title mb-4">Свяжитесь с нами</h3>
           {{/* <iframe
             id="formIframe"
@@ -15,6 +15,12 @@
           </iframe> */}}
           {{ partial "main/form.html" (dict "context" . "formId" "contact") }}
         </div>
+        {{ $formBg := resources.Get "images/backgrounds/contact-form.png" }}
+        {{ if $formBg }}
+        <div class="col-md-4 mx-auto d-flex align-items-center">
+          {{ partial "image.html" (dict "Src" $formBg "Alt" "contact-form" "Class" "img-fluid w-100" ) }}
+        </div>
+        {{ end }}
       </div>
     </div>
   </div>

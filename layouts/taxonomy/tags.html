@@ -12,16 +12,39 @@
           <div class="col-sm-6 mb-5">
             <article
               class="card rounded-0 border-bottom border-primary border-top-0 border-left-0 border-right-0 hover-shadow">
-              {{ if .Params.image }}
-                {{ $image := .Resources.GetMatch .Params.image }}
-                {{ if $image }}
-                  <img src="{{ $image.Permalink }}" alt="{{ with .Params.h1 }}{{ . }}{{ else }}{{ .Title }}{{ end }}" class="img-fluid w-100">
-                {{ else }}
-                  {{ partial "image.html" (dict "Src" .Params.image "Alt" .Title "Class" "img-fluid w-100 rounded-0") }}
-                {{ end }}
+              {{ $alt := "" }}
+              {{ if .Params.h1 }}
+                {{ $alt = .Params.h1 }}
               {{ else }}
-                <img src="/images/blog/post-placeholder.jpg" alt="{{ with .Params.h1 }}{{ . }}{{ else }}{{ .Title }}{{ end }}" class="img-fluid w-100">
-              {{ end}}
+                {{ $alt = .Title }}
+              {{ end }}
+
+              {{ $imgPath := "" }}
+              {{ if .Params.image }}
+                {{ $imgPath = .Params.image }}
+              {{ else if .Params.bg_image }}
+                {{ $imgPath = .Params.bg_image }}
+              {{ else }}
+                {{ $imgPath = "images/blog/post-placeholder.jpg" }}
+              {{ end }}
+
+              {{/* Пытаемся найти как ресурс страницы */}}
+              {{ $pageImage := .Resources.GetMatch $imgPath }}
+
+              {{/* Если не найдено — ищем в глобальных assets */}}
+              {{ $image := false }}
+              {{ if not $pageImage }}
+                {{ $image = resources.Get $imgPath }}
+              {{ end }}
+
+              {{ if $pageImage }}
+                <img src="{{ $pageImage.Permalink }}" alt="{{ $alt }}" class="img-fluid w-100">
+              {{ else if $image }}
+                {{ partial "image.html" (dict "Src" $image "Alt" $alt "Class" "img-fluid w-100 rounded-0") }}
+              {{ else }}
+                <img src="{{ $imgPath | absURL }}" alt="{{ $alt }}" class="img-fluid w-100">
+              {{ end }}
+
               <div class="card-body">
                 <!-- post meta -->
                 <ul class="list-inline mb-3">

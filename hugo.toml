@@ -37,6 +37,7 @@ google_analitycs_id = "" # your id
 top_header = true
 
 [taxonomies]
+  cities = "cities"
   programs = "programs"
   categories = "categories"
   tags = "tags"

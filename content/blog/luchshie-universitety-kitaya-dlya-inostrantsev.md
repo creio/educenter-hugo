@@ -5,7 +5,7 @@ date: 2026-01-22T11:40:32
 draft: false
 bg_image: "images/backgrounds/page-title.jpg"
 description: "Статья с сайта ChinaCampus: Лучшие университеты Китая для иностранцев"
-image: "images/blog/post-placeholder.jpg"
+image: "/images/cities/Guangzhou-Opera-House.jpg"
 categories: ["Образование"]
 tags: ['Китай', 'Гранты']
 ---

@@ -1,0 +1,23 @@
+{{ define "main" }}
+{{ $cities := where .Site.RegularPages "File.Dir" "cities/" }}
+{{ $paginator := .Paginate $cities }}
+<section class="section">
+  <div class="container">
+    <!-- list -->
+    <div class="row justify-content-center">
+      <!-- item -->
+      {{ range $paginator.Pages }}
+      <div class="col-lg-4 col-sm-6 mb-5">
+        {{ partial "cities-card.html" . }}
+      </div>
+      {{ end }}
+    </div>
+    <!-- /list -->
+    {{ if gt $paginator.TotalPages 1 }}
+    <div class="col-12 mt-4">
+      {{ template "_internal/pagination.html" . }}
+    </div>
+    {{ end }}
+  </div>
+</section>
+{{ end }}

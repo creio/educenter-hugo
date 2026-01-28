@@ -1,0 +1,38 @@
+{{ define "main" }}
+
+<!-- section -->
+<section class="section-sm">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 mb-4">
+        <h1 class="h2">{{ with .Params.h1 }}{{ . }}{{ else }}{{ .Title }}{{ end }}</h1>
+      </div>
+      {{ if .Params.image }}
+        {{ $image := .Resources.GetMatch .Params.image }}
+        <div class="col-12 mb-4">
+        {{ if $image }}
+            <img src="{{ $image.Permalink }}" alt="{{ with .Params.h1 }}{{ . }}{{ else }}{{ .Title }}{{ end }}" class="img-fluid w-100">
+        {{ else }}
+            {{ partial "image.html" (dict "Src" .Params.image "Alt" "Image" "Class" "img-fluid w-100") }}
+        {{ end }}
+        </div>
+      {{ end}}
+    </div>
+    <!-- details -->
+    <div class="row">
+      <div class="col-lg-9 order-2 order-md-1 mb-4 content">
+        {{ .Content }}
+      </div>
+      <div class="toc-sticky col-lg-3 order-1 order-md-2 d-none d-lg-block shadow pt-4">
+        {{ partial "toc.html" . }}
+        <button class="openFormBtn btn btn-primary mt-4">Узнать подробнее</button>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /section -->
+{{ if .Params.video }}
+  {{ partial "sections/video.html" . }}
+{{ end }}
+
+{{ end }}

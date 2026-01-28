@@ -1,0 +1,21 @@
+{{ $video := .Get "src" }}
+{{ if not $video }}
+  {{ errorf "video shortcode: параметр src обязателен" }}
+{{ end }}
+
+{{/* Опционально: можно передать превью-изображение, но по умолчанию VenoBox использует стандартное */}}
+{{ $poster := .Get "poster" }}
+
+<div class="video-preview position-relative success-video">
+  <a class="venobox" data-vbtype="iframe" data-autoplay="true" href="{{ $video | safeURL }}">
+    {{ if $poster }}
+      <img src="{{ $poster | absURL }}" alt="Превью видео" class="img-fluid">
+    {{ else }}
+      <!-- Можно оставить пустым или использовать placeholder -->
+      <div class="video-placeholder"></div>
+    {{ end }}
+    <span class="play-btn">
+      <i class="ti-control-play"></i>
+    </span>
+  </a>
+</div>

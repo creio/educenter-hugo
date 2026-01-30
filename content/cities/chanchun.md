@@ -5,7 +5,7 @@ description: "Куда сходить в городе Чанчун в Китае
 date: 2026-01-28T10:00:00.000000
 draft: false
 bg_image: "/images/cities/nacionalnyj-park-v-chanchune.jpg"
-image: "/images/cities/chanchun.jpg"
+# image: "/images/cities/chanchun.jpg"
 ---
 
 > Changchun

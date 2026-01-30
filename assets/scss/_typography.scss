@@ -20,6 +20,10 @@ p, .paragraph {
   font-family: $primary-font;
 }
 
+.content {
+  font-size: 18px;
+}
+
 h1,h2,h3,h4,h5,h6 {
   color: $text-color-dark;
   font-family: $secondary-font;

@@ -110,6 +110,14 @@
 
 document.addEventListener('DOMContentLoaded', function() {
 
+// фиксирование таблицы и добавление скролла
+document.querySelectorAll('.content table').forEach(table => {
+  const wrapper = document.createElement('div');
+  wrapper.className = 'table-wrapper';
+  table.parentNode.insertBefore(wrapper, table);
+  wrapper.appendChild(table);
+});
+
 // Инициализация всех галерей на странице
 document.querySelectorAll('.gallery-wrapper').forEach(function(wrapper) {
   const $wrapper = $(wrapper);

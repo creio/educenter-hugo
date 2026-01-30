@@ -1,13 +1,12 @@
 ---
 title: "Artificial Intelligence"
 h1: "Тяньцзиньский градостроительный университет"
+description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
 date: 2019-07-06T15:27:17+06:00
 draft: false
-image: "images/programs/course-single.jpg"
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
-# meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+# bg_image: "images/backgrounds/page-title.jpg"
+# image: "images/programs/course-single.jpg"
 # type
 type: "programs"
 ---

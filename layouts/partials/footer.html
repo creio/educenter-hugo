@@ -69,8 +69,8 @@
   <div class="footer bg-footer section border-bottom py-5">
     <div class="container">
       <div class="row">
-        <div class="col-lg-3 col-sm-4 col-6 mb-5 mb-lg-0">
-          <h4 class="text-white mb-5 text-uppercase">Контакты</h4>
+        <div class="col-lg-2 col-sm-4 col-6 mb-5 mb-lg-0">
+          <h4 class="text-white mb-4 text-uppercase">Контакты</h4>
           <ul class="list-unstyled">
             {{/*<li class="mb-4">{{ site.Params.address | markdownify }}</li>
             <li class="mb-4">{{ site.Params.email | markdownify }}</li>*/}}
@@ -88,7 +88,7 @@
         </div>
         <!-- company -->
         {{/*<div class="col-lg-2 col-sm-4 col-6 mb-5 mb-md-0">
-          <h4 class="text-white mb-5 text-uppercase">компания</h4>
+          <h4 class="text-white mb-4 text-uppercase">компания</h4>
           <ul class="list-unstyled">
             {{ range site.Menus.main }}
             {{ if not .HasChildren }}
@@ -99,7 +99,7 @@
         </div>*/}}
         <!-- footer_menu -->
         <div class="col-lg-2 col-sm-4 col-6 mb-5 mb-md-0">
-          <h4 class="text-white mb-5 text-uppercase">Меню</h4>
+          <h4 class="text-white mb-4 text-uppercase">Меню</h4>
           <ul class="list-unstyled">
             {{ range site.Menus.footer }}
             <li class="mb-3"><a class="text-color" href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
@@ -108,29 +108,29 @@
         </div>
         <!-- programs -->
         <div class="col-lg-2 col-sm-4 col-6 mb-5 mb-md-0">
-          <h4 class="text-white mb-5 text-uppercase">Программы</h4>
+          <h4 class="text-white mb-4 text-uppercase">Программы</h4>
           <ul class="list-unstyled">
             {{ range first 5 (where site.RegularPages "Type" "programs")}}
             <li class="mb-3"><a class="text-color" href="{{ .Permalink }}">
-              {{ with .Params.name }}{{ . | truncate 50 }}{{ else }}{{ .Title | truncate 50 }}{{ end }}
+              {{ with .Params.h1 }}{{ . | truncate 50 }}{{ else }}{{ .Title | truncate 50 }}{{ end }}
             </a></li>
             {{ end }}
           </ul>
         </div>
         <!-- ifp -->
-        <div class="col-lg-3 col-sm-4 col-6 mb-5 mb-md-0">
-          <h4 class="text-white mb-5 text-uppercase">IFP центры</h4>
+        <div class="col-lg-3 col-sm-6 col-6 mb-5 mb-md-0">
+          <h4 class="text-white mb-4 text-uppercase">IFP центры</h4>
           <ul class="list-unstyled">
-            {{ range first 5 (where site.RegularPages "Type" "universitety")}}
+            {{ range first 5 (where site.RegularPages "Type" "universities")}}
             <li class="mb-3"><a class="text-color" href="{{ .Permalink }}">
-              {{ with .Params.name }}{{ . | truncate 50 }}{{ else }}{{ .Title | truncate 50 }}{{ end }}
+              {{ with .Params.h1 }}{{ . | truncate 50 }}{{ else }}{{ .Title | truncate 50 }}{{ end }}
             </a></li>
             {{ end }}
           </ul>
         </div>
         <!-- footer_end -->
-        <div class="col-lg-2 col-sm-4 col-6 mb-5 mb-md-0">
-          <h4 class="text-white mb-5 text-uppercase">Полезная информация</h4>
+        <div class="col-lg-3 col-sm-6 col-6 mb-5 mb-md-0">
+          <h4 class="text-white mb-4 text-uppercase">Полезная информация</h4>
           <ul class="list-unstyled">
             {{ range site.Menus.footer_end }}
             <li class="mb-3"><a class="text-color" href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
@@ -138,8 +138,8 @@
           </ul>
         </div>
         {{/*<!-- support -->
-        <div class="col-lg-2 col-sm-4 col-6 mb-5 mb-md-0">
-          <h4 class="text-white mb-5 text-uppercase">Полезная информация</h4>
+        <div class="col-lg-3 col-sm-4 col-6 mb-5 mb-md-0">
+          <h4 class="text-white mb-4 text-uppercase">Полезная информация</h4>
           <ul class="list-unstyled">
             {{ range first 3 (where site.RegularPages "Type" "notice")}}
             <li class="mb-3"><a class="text-color" href="{{ .Permalink }}">

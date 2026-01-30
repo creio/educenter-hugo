@@ -1,0 +1,81 @@
+{{ define "main" }}
+{{ $alt := "" }}
+{{ if .Params.h1 }}
+  {{ $alt = .Params.h1 }}
+{{ else }}
+  {{ $alt = .Title }}
+{{ end }}
+
+{{ $imgPath := "" }}
+{{ if .Params.image }}
+  {{ $imgPath = .Params.image }}
+{{ end }}
+
+{{/* Пытаемся найти как ресурс страницы */}}
+{{ $pageImage := .Resources.GetMatch $imgPath }}
+
+{{/* Если не найдено — ищем в глобальных assets */}}
+{{ $globalImage := false }}
+{{ if not $pageImage }}
+  {{ $globalImage = resources.Get $imgPath }}
+{{ end }}
+
+<!-- section -->
+<section class="section-sm">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 mb-4">
+        <h1 class="h2">{{ with .Params.h1 }}{{ . }}{{ else }}{{ .Title }}{{ end }}</h1>
+      </div>
+      {{ if $imgPath }}
+        <div class="col-12 mb-4">
+          {{ if $pageImage }}
+            <img src="{{ $pageImage.Permalink }}" alt="{{ $alt }}" class="img-fluid w-100">
+          {{ else if $globalImage }}
+            {{ partial "image.html" (dict "Src" $globalImage "Alt" $alt "Class" "img-fluid w-100") }}
+          {{ else }}
+          {{/* Fallback: прямой путь (на случай, если файл в static/) */}}
+            <img src="{{ $imgPath | absURL }}" alt="{{ $alt }}" class="img-fluid w-100">
+          {{ end }}
+        </div>
+      {{ end }}
+    </div>
+    <!-- details -->
+    <div class="row">
+      <div class="col-lg-9 mb-4 content">
+        {{ .Content }}
+        {{ partial "sections/videos.html" .Params.iframe_video }}
+      </div>
+      <aside class="col-lg-3 d-none d-lg-block">
+        <div class="toc-sticky shadow pt-4">
+          {{ partial "toc.html" . }}
+          <button class="openFormBtn btn btn-primary mt-4">Подать заявку</button>
+        </div>
+      </aside>
+    </div>
+  </div>
+</section>
+<!-- /section -->
+
+<!-- related course -->
+<section class="section pt-0">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <h2 class="section-title">Вам может быть интересно</h2>
+      </div>
+    </div>
+    <div class="row">
+      <!-- course item -->
+      {{ $related := (where site.RegularPages "Type" "blog") | intersect (where site.Pages ".Title" "!=" .Title) | union (site.RegularPages.Related . ) | shuffle | first 3}}
+      {{ range first 3 $related }}
+      <div class="col-lg-4 col-sm-6 mb-5">
+        {{ partial "blog-card.html" . }}
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+<!-- /related course -->
+
+{{ end }}

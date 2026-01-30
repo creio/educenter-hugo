@@ -5,7 +5,7 @@ disableAliases = true
 disableHugoGeneratorInject = true
 timeZone = "Europe/Moscow"
 # post pagination
-pagination.pagerSize = 6 # see https://gohugo.io/extras/pagination/
+pagination.pagerSize = 9 # see https://gohugo.io/extras/pagination/
 # post excerpt
 summaryLength = 10 # see https://gohugo.io/content-management/excerpts/
 # google analytics
@@ -43,8 +43,8 @@ top_header = true
   tags = "tags"
 
 # [permalinks]
-#   categories = "/categories/:slugorcontentbasename/"
-#   tags = "/tags/:slugorcontentbasename/"
+#   categories = "/blog/categories/:slugorcontentbasename/"
+#   tags = "/blog/tags/:slugorcontentbasename/"
 
 # Preloader
 [params.preloader]

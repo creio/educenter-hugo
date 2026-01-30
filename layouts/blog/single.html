@@ -1,4 +1,24 @@
 {{ define "main" }}
+{{ $alt := "" }}
+{{ if .Params.h1 }}
+  {{ $alt = .Params.h1 }}
+{{ else }}
+  {{ $alt = .Title }}
+{{ end }}
+
+{{ $imgPath := "" }}
+{{ if .Params.image }}
+  {{ $imgPath = .Params.image }}
+{{ end }}
+
+{{/* Пытаемся найти как ресурс страницы */}}
+{{ $pageImage := .Resources.GetMatch $imgPath }}
+
+{{/* Если не найдено — ищем в глобальных assets */}}
+{{ $globalImage := false }}
+{{ if not $pageImage }}
+  {{ $globalImage = resources.Get $imgPath }}
+{{ end }}
 
 <!-- blog details -->
 <section class="section-sm">
@@ -9,26 +29,41 @@
           <div class="col-12 mb-4">
             <h1 class="h2">{{ with .Params.h1 }}{{ . }}{{ else }}{{ .Title }}{{ end }}</h1>
           </div>
-          {{ if .Params.image }}
-            {{ $image := .Resources.GetMatch .Params.image }}
-            {{ if $image }}
-              <div class="col-12 mb-4">
-                <img src="{{ $image.Permalink }}" alt="{{ with .Params.h1 }}{{ . }}{{ else }}{{ .Title }}{{ end }}" class="img-fluid w-100">
-              </div>
+          {{ if $imgPath }}
+          <div class="col-12 mb-4">
+            {{ if $pageImage }}
+              <img src="{{ $pageImage.Permalink }}" alt="{{ $alt }}" class="img-fluid w-100">
+            {{ else if $globalImage }}
+              {{ partial "image.html" (dict "Src" $globalImage "Alt" $alt "Class" "img-fluid w-100") }}
             {{ else }}
-              <div class="col-12 mb-4">
-                {{ partial "image.html" (dict "Src" .Params.image "Alt" "blog-thumb" "Class" "img-fluid w-100" ) }}
-              </div>
+            {{/* Fallback: прямой путь (на случай, если файл в static/) */}}
+              <img src="{{ $imgPath | absURL }}" alt="{{ $alt }}" class="img-fluid w-100">
             {{ end }}
-          {{ end}}
+          </div>
+          {{ end }}
           <div class="col-12">
             <ul class="list-inline">
               {{/*<li class="list-inline-item mr-4 mb-3 mb-md-0 text-light"><span class="font-weight-bold mr-2">Автор: </span><a
                   href="{{ `author/` | relLangURL }}{{ .Params.Author | urlize }}">{{ .Params.Author | title }}</a></li>*/}}
               <li class="list-inline-item mr-4 mb-3 mb-md-0 text-light"><span class="font-weight-bold mr-2">Дата: </span>{{ .PublishDate.Format "02.01.2006" }}</li>
-              <li class="list-inline-item mr-4 mb-3 mb-md-0 text-light"><span class="font-weight-bold mr-2">Категории: </span>{{ range $index, $elements:= .Params.Categories }}<a
-                  href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}"> {{ if ne $index 0 }}, {{ end }}
-                  {{ . | title }}</a> {{ end}}</li>
+              <li class="list-inline-item mr-4 mb-3 mb-md-0 text-light">
+                <span class="font-weight-bold mr-2">Категория(и):</span>
+                {{ range $index, $elements:= .Params.Categories }}
+                <a href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}">
+                  {{ . | title }}
+                </a>
+                {{ if ne $index (sub (len $.Params.Categories) 1) }} | {{ end }}
+                {{ end }}
+              </li>
+              <li class="list-inline-item mr-4 mb-3 mb-md-0 text-light">
+                <span class="font-weight-bold mr-2">Теги:</span>
+                {{ range $index, $elements:= .Params.Tags }}
+                <a href="{{ `tags/` | relLangURL }}{{ . | urlize | lower }}">
+                  {{ . | title }}
+                </a>
+                {{ if ne $index (sub (len $.Params.Tags) 1) }} | {{ end }}
+                {{ end }}
+              </li>
             </ul>
           </div>
           <!-- border -->

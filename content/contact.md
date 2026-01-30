@@ -1,11 +1,11 @@
 ---
 title: "Контактные данные"
 h1: "Контактная информация"
+description : "Мы работает с 10 до 19 все дни недели. С нами можно связаться по телефону горячей линии или в мессенджерах"
 draft: false
 # page title background image
-# bg_image: "images/backgrounds/page-title.jpg"
-# meta description
-description : "Мы работает с 10 до 19 все дни недели. С нами можно связаться по телефону горячей линии или в мессенджерах"
+bg_image: "images/backgrounds/page-title.jpg"
+image: "images/backgrounds/blog-title.jpg"
 ---
 
 ## Казань

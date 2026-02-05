@@ -1,25 +1,26 @@
 {{ with . }}
-<div class="university-videos">
+<section class="university-videos">
   <h3>Видео о университете</h3>
-  {{ range . }}
-    {{ $imgPath := "" }}
-    {{ if .iframe_img }}
-      {{ $imgPath = trim .iframe_img " " }}
-    {{ end }}
-    {{ $imageResource := false }}
-    {{ if $imgPath }}
-      {{ $imageResource = resources.Get $imgPath }}
-    {{ end }}
-    <div class="video-item">
-      <a href="{{ trim .iframe_link " " }}" data-fancybox data-type="iframe" data-width="720" data-height="405">
-        {{ if $imageResource }}
-          <img src="{{ $imageResource.RelPermalink }}" alt="{{ .iframe_title }}" loading="lazy">
-        {{ else }}
-          <div class="video-placeholder">{{ .iframe_title }}</div>
+    <div class="video-grid">
+      {{ range . }}
+        {{ $imgPath := "" }}
+        {{ if .iframe_img }}
+          {{ $imgPath = trim .iframe_img " " }}
         {{ end }}
-      </a>
-      <p class="video-title">{{ .iframe_title }}</p>
+        {{ $imageResource := false }}
+        {{ if $imgPath }}
+          {{ $imageResource = resources.Get $imgPath }}
+        {{ end }}
+        <div class="video-card">
+          <a class="video-link venobox position-relative" href="{{ trim .iframe_link ' ' }}" data-vbtype="iframe" data-autoplay="true">
+            <img src="{{ $imageResource.RelPermalink }}" alt="{{ .iframe_title }}">
+            <span class="play-btn"><i class="ti-control-play"></i></span>
+          </a>
+          <div class="section-title h4 mt-3">
+            {{ .iframe_title }}
+          </div>
+        </div>
+      {{ end }}
     </div>
-  {{ end }}
-</div>
+</section>
 {{ end }}

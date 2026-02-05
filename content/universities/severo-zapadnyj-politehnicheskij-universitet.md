@@ -9,13 +9,13 @@ image: "/images/universities/3qqsjgnra7.jpg"
 iframe_video:
   - iframe_link: "https://rutube.ru/play/embed/f4d08b3015f924968c0299b1d5c13f0d/?p=F8TwwqYz_DlfpO-ho8tF1A"
     iframe_title: "Видео-тур по Северо-западному Политехническому университету"
-    iframe_img: "/images/universities/O7jFtvzrRAI.jpg"
+    iframe_img: "images/universities/video_preview_def38300.jpg"
   - iframe_link: "https://rutube.ru/play/embed/6d93db58fbed4db9a15843bd9357dbff"
     iframe_title: "Как выглядит китайский вуз?"
-    iframe_img: "/images/universities/voprosi.jpg"
+    iframe_img: "images/universities/video_preview_262344ad.jpg"
   - iframe_link: "https://rutube.ru/play/embed/20d7117c3a257b10f45802c1af4c4728"
     iframe_title: "START GLOBAL, START WITH CHINA"
-    iframe_img: "/images/universities/start.jpg"
+    iframe_img: "images/universities/video_preview_1d0ce94b.jpg"
 ---
 
 **Northwestern Polytechnic University**
@@ -306,10 +306,3 @@ X Услуги уборки
 Тысячелетняя большая пагода диких гусей отражает буддийскую историю и культуру Китая.  
 Сегодня это очень романтичное место, ведь перед пагодой расположен самый большой в Азии музыкальный фонтан.
 
-## Документы
-
-[Открыть письмо об эксклюзивных правах зачисления студентов из России](https://chinacampus.ru/wp-content/uploads/2019/05/CCN-Statement-for-Russian-Office_20190625.pdf)
-[Посмотреть сертификат о сотрудничестве NPU с CCN](https://chinacampus.ru/wp-content/uploads/2019/05/CCN-Russia-NPU.pdf)
-[Открыть разрешение NPU на зачисление и прием оплаты](https://chinacampus.ru/wp-content/uploads/2019/05/NPU-Fee-Collection-Confirmation.pdf)
-[Скачать пример учебного плана](https://chinacampus.ru/wp-content/uploads/2018/12/study-plan-HIT.xlsx)
-[Скачать пример мотивационного письма](https://chinacampus.ru/wp-content/uploads/2018/02/Motivatsionnoe_pismo_rekomendatsii_po_napisaniyu.pdf)

@@ -9,10 +9,10 @@ image: "/images/universities/Beijing_Normal_University_Library-1-1-e155801484767
 iframe_video:
   - iframe_link: "https://rutube.ru/play/embed/6d93db58fbed4db9a15843bd9357dbff/"
     iframe_title: "Как выглядит китайский вуз?"
-    iframe_img: "/images/universities/voprosi.jpg"
+    iframe_img: "images/universities/video_preview_262344ad.jpg"
   - iframe_link: "https://rutube.ru/play/embed/20d7117c3a257b10f45802c1af4c4728"
     iframe_title: "START GLOBAL, START WITH CHINA"
-    iframe_img: "/images/universities/start.jpg"
+    iframe_img: "images/universities/video_preview_1d0ce94b.jpg"
 ---
 
 **Beijing Normal University**
@@ -504,8 +504,3 @@ iframe_video:
 
 Можно устроить ночную прогулку по улице Гуйцзе (для расширения гастрономического кругозора), посетить Арт-зону 798 (модное пространство на территории заброшенного промышленного завода) с художественными галлереями, выставочными павильонами, кафешками и ресторанчиками. А если любите велопрогулки и устали от туристических местечек, то советуем отправиться на прогулку по хутунам, чтобы испытать, каково это – быть настоящим жителем столицы Китая. А на рынке антикварных вещей Панцзяюань в большом количестве можно посмотреть или даже приобрести антиквариат и произведения искусства, изделия из бронзы, камня и яшмы.
 
-## Документы
-
-[Открыть письмо об эксклюзивных правах зачисления студентов из России](https://chinacampus.ru/wp-content/uploads/2019/05/CCN-Statement-for-Russian-Office_20190625.pdf)
-[Скачать пример мотивационного письма](https://chinacampus.ru/wp-content/uploads/2018/02/Motivatsionnoe_pismo_rekomendatsii_po_napisaniyu.pdf)
-[Скачать пример учебного плана](https://chinacampus.ru/wp-content/uploads/2018/12/study-plan-HIT.xlsx)

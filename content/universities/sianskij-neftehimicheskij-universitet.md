@@ -9,13 +9,13 @@ image: "/images/universities/QQ-20160426150437.png"
 iframe_video:
   - iframe_link: "https://rutube.ru/play/embed/f76825fa7ae57bd08c529c356f4043e5/"
     iframe_title: "Видео-тур по Сианьскому нефтехимическому университету"
-    iframe_img: "/images/universities/160426150437-e1555496149466.png"
+    iframe_img: "images/universities/video_preview_bb207221.png"
   - iframe_link: "https://rutube.ru/play/embed/6d93db58fbed4db9a15843bd9357dbff"
     iframe_title: "Как выглядит китайский вуз?"
-    iframe_img: "/images/universities/voprosi.jpg"
+    iframe_img: "images/universities/video_preview_262344ad.jpg"
   - iframe_link: "https://rutube.ru/play/embed/20d7117c3a257b10f45802c1af4c4728"
     iframe_title: "START GLOBAL, START WITH CHINA"
-    iframe_img: "/images/universities/start.jpg"
+    iframe_img: "images/universities/video_preview_1d0ce94b.jpg"
 ---
 
 **Xi'an Shiyou University**
@@ -236,11 +236,3 @@ iframe_video:
 Тысячелетняя большая пагода диких гусей отражает буддийскую историю и культуру Китая.  
 Сегодня это очень романтичное место, ведь перед пагодой расположен самый большой в Азии музыкальный фонтан.
 
-## Документы
-
-[Открыть письмо об эксклюзивных правах зачисления студентов из России](https://chinacampus.ru/wp-content/uploads/2019/05/CCN-Statement-for-Russian-Office_20190625.pdf)
-[Скачать пример мотивационного письма](https://chinacampus.ru/wp-content/uploads/2018/02/Motivatsionnoe_pismo_rekomendatsii_po_napisaniyu.pdf)
-[Открыть разрешение XSYU на зачисление и прием оплаты](https://chinacampus.ru/wp-content/uploads/2019/04/XSYU-.pdf)
-[Посмотреть сертификат о сотрудничестве XSYU с CCN](https://chinacampus.ru/wp-content/uploads/2019/04/CCN-Russia-XSYU.pdf)
-[Открыть соглашение о создании IFP и выдаче грантов](https://chinacampus.ru/wp-content/uploads/2019/04/CCN-IFP-Xian-Shiyou.pdf)
-[Скачать пример учебного плана](https://chinacampus.ru/wp-content/uploads/2018/12/study-plan-HIT.xlsx)

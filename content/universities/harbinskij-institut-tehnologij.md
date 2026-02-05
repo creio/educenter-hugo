@@ -9,13 +9,13 @@ image: "/images/universities/6355676356901009482030425-1.jpg"
 iframe_video:
   - iframe_link: "https://rutube.ru/play/embed/121bdac9c2780c91639e2ae1c2449b3e"
     iframe_title: "Как проходит обучение в Харбине? российский студент CCN в Харбинском Институте Технологий"
-    iframe_img: "/images/universities/harbin.png"
+    iframe_img: "images/universities/video_preview_4ed22df0.png"
   - iframe_link: "https://rutube.ru/play/embed/3e0c11248ce898f4b37d84eb1eb6bb83"
     iframe_title: "Анастасия об обучении в Китае на IFP CCN в Харбине - Наука и Инженерия"
-    iframe_img: "/images/universities/Screenshot_1.jpg"
+    iframe_img: "images/universities/video_preview_bd66e2f3.jpg"
   - iframe_link: "https://rutube.ru/play/embed/8ac407bddd797d53e8f342fc053b7599"
     iframe_title: "Студенты в Харбине (hit) harbin institute of technology china campus network (ccn)"
-    iframe_img: "/images/universities/Screenshot_2.jpg"
+    iframe_img: "images/universities/video_preview_1ff9a245.jpg"
 ---
 
 **Harbin Institute of Technology**
@@ -270,11 +270,3 @@ X Услуги уборки
 
 Из-за самых холодных зим, среди крупных китайских городов, Харбин известен как «Ледовый город».
 
-## Документы
-
-[Открыть письмо об эксклюзивных правах зачисления студентов из России](https://chinacampus.ru/wp-content/uploads/2019/05/CCN-Statement-for-Russian-Office_20190625.pdf)
-[Посмотреть сертификат о сотрудничестве HIT с CCN](https://chinacampus.ru/wp-content/uploads/2018/12/CCN-Russia-HIT.pdf)
-[Открыть соглашение о создании IFP и выдаче грантов](https://chinacampus.ru/wp-content/uploads/2018/12/CCN-IFP-HIT.pdf)
-[Скачать пример учебного плана](https://chinacampus.ru/wp-content/uploads/2018/12/study-plan-HIT.xlsx)
-[Скачать пример мотивационного письма](https://chinacampus.ru/wp-content/uploads/2018/12/Primer-1-1.pdf)
-[Открыть разрешение HIT на зачисление и прием оплаты](https://chinacampus.ru/wp-content/uploads/2018/12/HIT-.pdf)

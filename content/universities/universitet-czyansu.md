@@ -9,16 +9,16 @@ image: "/images/universities/DSC_0931-2-1.jpg"
 iframe_video:
   - iframe_link: "https://rutube.ru/play/embed/9ab43203366a3c11af4de1a196ca5bf0"
     iframe_title: "Откровенный отзыв студентки CCN об обучении и жизни в Университете Цзянсу (JSU)"
-    iframe_img: "/images/universities/Screenshot_2.png"
+    iframe_img: "images/universities/video_preview_f4bf4ba1.png"
   - iframe_link: "https://rutube.ru/play/embed/dc4e6ee8952236481a120df15eee6d01/"
     iframe_title: "Jiangsu University видео-тур"
-    iframe_img: "/images/universities/DSC_0927-2-1.jpg"
+    iframe_img: "images/universities/video_preview_9c3761a6.jpg"
   - iframe_link: "https://rutube.ru/play/embed/506ef6ed04a6b5a1eb1ff87dde6578c7/"
     iframe_title: "Jiangsu University отзывы от сотрудников"
-    iframe_img: "/images/universities/Screenshot_1.jpg"
+    iframe_img: "images/universities/video_preview_6ae859a9.jpg"
   - iframe_link: "https://rutube.ru/play/embed/20d7117c3a257b10f45802c1af4c4728/"
     iframe_title: "START GLOBAL, START WITH CHINA"
-    iframe_img: "/images/universities/start.jpg"
+    iframe_img: "images/universities/video_preview_1d0ce94b.jpg"
 ---
 
 **Jiangsu University**
@@ -144,10 +144,3 @@ X Услуги уборки
 
 Город Чжэньцзян – коммуникационный узел между Севером и Югом Китая. Город славится удобным транспортом: студенты могут путешествовать на поезде, корабле, самолете или автобусе. До соседнего города Нанкина можно добраться по автостраде за 30 минут, а до Шанхая за 2 часа.
 
-## Документы
-
-[Открыть письмо об эксклюзивных правах зачисления студентов из России](https://chinacampus.ru/wp-content/uploads/2019/05/CCN-Statement-for-Russian-Office_20190625.pdf)
-[Посмотреть сертификат о сотрудничестве университета Цзянсу с CCN](https://chinacampus.ru/wp-content/uploads/2019/03/CCN-Russia-JSU-new.pdf)
-[Открыть соглашение о создании IFP и выдаче грантов](https://chinacampus.ru/wp-content/uploads/2019/03/CCN-IFP-JSU-new.pdf)
-[Скачать пример мотивационного письма](https://chinacampus.ru/wp-content/uploads/2018/02/Motivatsionnoe_pismo_rekomendatsii_po_napisaniyu.pdf)
-[Открыть разрешение университета Цзянсу на зачисление и прием оплаты](https://chinacampus.ru/wp-content/uploads/2019/03/JSU-Fee-Collection-Confirmation.jpg)

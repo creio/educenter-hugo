@@ -9,10 +9,10 @@ image: "/images/universities/1686922351_happylove-top-p-luchshie-universiteti-ki
 iframe_video:
   - iframe_link: "https://rutube.ru/play/embed/6d93db58fbed4db9a15843bd9357dbff/"
     iframe_title: "Как выглядит китайский вуз?"
-    iframe_img: "/images/universities/voprosi.jpg"
+    iframe_img: "images/universities/video_preview_262344ad.jpg"
   - iframe_link: "https://rutube.ru/play/embed/20d7117c3a257b10f45802c1af4c4728"
     iframe_title: "START GLOBAL, START WITH CHINA"
-    iframe_img: "/images/universities/start.jpg"
+    iframe_img: "images/universities/video_preview_1d0ce94b.jpg"
 ---
 
 **Sichuan University**

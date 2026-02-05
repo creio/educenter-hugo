@@ -9,13 +9,13 @@ image: "/images/universities/Pekinskij-Transportnyj-oblozhka-2.jpg"
 iframe_video:
   - iframe_link: "https://rutube.ru/play/embed/f5a772f316fe9feb2d1cf9bbf93c34b0"
     iframe_title: "Общага, иероглифы, конфуз и безопасность"
-    iframe_img: "/images/universities/Screenshot_1.png"
+    iframe_img: "images/universities/video_preview_d5cace9b.png"
   - iframe_link: "https://rutube.ru/play/embed/35e8967bd3ec7208adbac05be93987bf"
     iframe_title: "Видео-тур по Пекинскому транспортному университету"
-    iframe_img: "/images/universities/Screenshot_1-1.jpg"
+    iframe_img: "images/universities/video_preview_7cccd6c9.jpg"
   - iframe_link: "https://rutube.ru/play/embed/6d93db58fbed4db9a15843bd9357dbff/"
     iframe_title: "Как выглядит китайский вуз?"
-    iframe_img: "/images/universities/voprosi.jpg"
+    iframe_img: "images/universities/video_preview_262344ad.jpg"
 ---
 
 **Beijing Jiaotong University**
@@ -276,11 +276,3 @@ X Постельное белье
 
 Можно устроить ночную прогулку по улице Гуйцзе (для расширения гастрономического кругозора), посетить Арт-зону 798 (модное пространство на территории заброшенного промышленного завода) с художественными галлереями, выставочными павильонами, кафешками и ресторанчиками. А если любите велопрогулки и устали от туристических местечек, то советуем отправиться на прогулку по хутунам, чтобы испытать, каково это – быть настоящим жителем столицы Китая. А на рынке антикварных вещей Панцзяюань в большом количестве можно посмотреть или даже приобрести антиквариат и произведения искусства, изделия из бронзы, камня и яшмы.
 
-## Документы
-
-[Открыть письмо об эксклюзивных правах зачисления студентов из России](https://chinacampus.ru/wp-content/uploads/2019/05/CCN-Statement-for-Russian-Office_20190625.pdf)
-[Посмотреть сертификат о сотрудничестве BJTU с CCN](https://chinacampus.ru/wp-content/uploads/2019/04/CCN-Russia-BJTU.pdf)
-[Открыть соглашение о создании IFP и выдаче грантов](https://chinacampus.ru/wp-content/uploads/2019/04/CCN-IFP-BJTU.pdf)
-[Скачать пример учебного плана](https://chinacampus.ru/wp-content/uploads/2018/12/study-plan-HIT.xlsx)
-[Скачать пример мотивационного письма](https://chinacampus.ru/wp-content/uploads/2018/02/Motivatsionnoe_pismo_rekomendatsii_po_napisaniyu.pdf)
-[Открыть разрешение BJTU на зачисление и прием оплаты](https://chinacampus.ru/wp-content/uploads/2019/04/BJTU-Weihai-.pdf)

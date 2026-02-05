@@ -9,13 +9,13 @@ image: "/images/universities/tju6-1.jpg"
 iframe_video:
   - iframe_link: "https://rutube.ru/play/embed/95eed8c9e3fa4902161a0328516d38ad/"
     iframe_title: "Видео-тур по Таньцзиньскому Университету"
-    iframe_img: "/images/universities/Bezymyannyj.jpg"
+    iframe_img: "images/universities/video_preview_077cf4b6.jpg"
   - iframe_link: "https://rutube.ru/play/embed/6d93db58fbed4db9a15843bd9357dbff/"
     iframe_title: "Как выглядит китайский вуз?"
-    iframe_img: "/images/universities/voprosi.jpg"
+    iframe_img: "images/universities/video_preview_262344ad.jpg"
   - iframe_link: "https://rutube.ru/play/embed/20d7117c3a257b10f45802c1af4c4728"
     iframe_title: "START GLOBAL, START WITH CHINA"
-    iframe_img: "/images/universities/start.jpg"
+    iframe_img: "images/universities/video_preview_1d0ce94b.jpg"
 ---
 
 **Tianjin University**
@@ -386,8 +386,3 @@ X Постельное белье
 
 Отличительная черта Тяньцзиня – большое культурное и историческое наследие. В городе множество достопримечательностей и музеев. Здесь расположены крепости Дагу, Тянцзиньская телебашня, огромный зоопарк, Горы Паньшань и т.д.
 
-## Документы
-
-[Открыть письмо об эксклюзивных правах зачисления студентов из России](https://chinacampus.ru/wp-content/uploads/2019/05/CCN-Statement-for-Russian-Office_20190625.pdf)
-[Скачать пример мотивационного письма](https://chinacampus.ru/wp-content/uploads/2018/02/Motivatsionnoe_pismo_rekomendatsii_po_napisaniyu.pdf)
-[Открыть разрешение Тяньцзиньского университета на зачисление и прием оплаты](https://chinacampus.ru/wp-content/uploads/2019/02/TJU-.pdf)

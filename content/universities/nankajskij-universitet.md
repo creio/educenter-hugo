@@ -9,13 +9,13 @@ image: "/images/universities/Screenshot_11-1.jpg"
 iframe_video:
   - iframe_link: "https://rutube.ru/play/embed/afb36cd5b9ce2ac5f1b7460aec9da9e9/"
     iframe_title: "Видео-тур по Нанькайскому университету"
-    iframe_img: "/images/universities/3-6.jpg"
+    iframe_img: "images/universities/video_preview_a8577ed2.jpg"
   - iframe_link: "https://rutube.ru/play/embed/6d93db58fbed4db9a15843bd9357dbff"
     iframe_title: "Как выглядит китайский вуз?"
-    iframe_img: "/images/universities/voprosi.jpg"
+    iframe_img: "images/universities/video_preview_262344ad.jpg"
   - iframe_link: "https://rutube.ru/play/embed/20d7117c3a257b10f45802c1af4c4728"
     iframe_title: "START GLOBAL, START WITH CHINA"
-    iframe_img: "/images/universities/start.jpg"
+    iframe_img: "images/universities/video_preview_1d0ce94b.jpg"
 ---
 
 **Nankai University**
@@ -374,9 +374,3 @@ iframe_video:
 
 Отличительная черта Тяньцзиня – большое культурное и историческое наследие. В городе множество достопримечательностей и музеев. Здесь расположены крепости Дагу, Тянцзиньская телебашня, огромный зоопарк, Горы Паньшань и т.д.
 
-## Документы
-
-[Открыть письмо об эксклюзивных правах зачисления студентов из России](https://chinacampus.ru/wp-content/uploads/2019/05/CCN-Statement-for-Russian-Office_20190625.pdf)
-[Скачать пример мотивационного письма](https://chinacampus.ru/wp-content/uploads/2018/02/Motivatsionnoe_pismo_rekomendatsii_po_napisaniyu.pdf)
-[Посмотреть сертификат о сотрудничестве NKU с CCN](https://chinacampus.ru/wp-content/uploads/2019/05/CCN-Russia-Nankai.pdf)
-[Скачать пример учебного плана](https://chinacampus.ru/wp-content/uploads/2018/12/study-plan-HIT.xlsx)

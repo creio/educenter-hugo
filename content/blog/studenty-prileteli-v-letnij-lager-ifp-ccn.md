@@ -3,13 +3,12 @@ title: "Студенты прилетели в летний лагерь IFP CCN
 h1: "Студенты прилетели в летний лагерь IFP CCN"
 date: 2019-07-27T10:31:32
 draft: false
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Студенты прилетели в летний лагерь IFP CCN"
-image: "images/blog/post-placeholder.jpg"
+image: ""
 categories: ["Образование"]
 tags: ['Китай', 'CCN']
 ---
-
 
 Ура! Прилетели все 94 студента в лагерь перед IFP! Вот теперь начнется все веселье!
 
@@ -18,6 +17,6 @@ tags: ['Китай', 'CCN']
 Алена, наша сотрудница, которая сейчас с 10 классами, поприветствовала прибывших ребят и рассказала, какие приключения их ждут в лагере, пока не начнется серьезная учеба на IFP. Представитель Шанхайского университета также выразил теплый прием всем присутствующим.
 
 Да здравствуют новые знакомства и приключения! Сегодня ребята уже отправились в город, чтобы открыть для себя красоты Шанхая. Заметим: Студенты посетили храм Город Бога, Восточную жемчужную телевизионную башню и финансовую зону Луцзяцзуй. А вы знаете, что с высоты этой башни можно увидеть весь Шанхай? Кстати там прозрачные стеклянные полы, такие что кажется будто ты стоишь в воздухе!  
-Все студенты были очень рады, наслаждаясь очаровательными достопримечательностями Шанхая. И судя по фоточкам в инстаграме все подружились и нашли общий язык.
+Все студенты были очень рады, наслаждаясь очаровательными достопримечательностями Шанхая. И судя по фоточкам в инстаграме все подружились и нашли общий речь.
 
-![](https://chinacampus.ru/wp-content/uploads/2019/07/blogpost1.jpg) ![](https://chinacampus.ru/wp-content/uploads/2019/07/blogpost2.jpg) ![](https://chinacampus.ru/wp-content/uploads/2019/07/blogpost3.jpg) ![](https://chinacampus.ru/wp-content/uploads/2019/07/blogpost4.jpg) ![](https://chinacampus.ru/wp-content/uploads/2019/07/blogpost5.jpg) ![](https://chinacampus.ru/wp-content/uploads/2019/07/blogpost6.jpg) ![](https://chinacampus.ru/wp-content/uploads/2019/07/blogpost7.jpg)
+![](/images/blog/blogpost1.jpg) ![](/images/blog/blogpost2.jpg) ![](/images/blog/blogpost3.jpg) ![](/images/blog/blogpost4.jpg) ![](/images/blog/blogpost5.jpg) ![](/images/blog/blogpost6.jpg) ![](/images/blog/blogpost7.jpg)

@@ -25,19 +25,30 @@ weight = 1
 
 [[main]]
 name = "Выбор вуза"
-url = "programs/"
 weight = 2
+hasChildren = true
+
+  [[main]]
+  parent = "Выбор вуза"
+  name = "Программы"
+  url = "programs/"
+  weight = 10
+
+  [[main]]
+  parent = "Выбор вуза"
+  name = "Университеты"
+  url = "universities/"
+  weight = 20
+
+  [[main]]
+  parent = "Выбор вуза"
+  name = "Города"
+  url = "cities/"
 
 # [[main]]
 # weight = 3
 # name = "Страницы"
 # hasChildren = true
-
-#   [[main]]
-#   parent = "Страницы"
-#   name = "Университеты"
-#   url = "universitety/"
-#   weight = 1
 
 #   [[main]]
 #   parent = "Страницы"
@@ -64,11 +75,6 @@ name = "блог"
 url = "blog/"
 weight = 4
 
-[[main]]
-name = "города"
-url = "cities/"
-weight = 5
-  
 [[main]]
 name = "Контакты"
 url = "contact/"

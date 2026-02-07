@@ -25,7 +25,7 @@
 {{ else }}
   <!-- Статическая карта (без API-ключа) -->
   <a href="https://yandex.ru/maps/?ll={{ $lon }},{{ $lat }}&z={{ $zoom }}&pt={{ $lon }},{{ $lat }}" target="_blank">
-    <img class="mb-4" src="https://static-maps.yandex.ru/1.x/?ll={{ $lon }},{{ $lat }}&z={{ $zoom }}&l=map&size=600,400&pt={{ $lon }},{{ $lat }},pm2blm"
+    <img class="mb-4" src="https://static-maps.yandex.ru/1.x/?ll={{ $lon }},{{ $lat }}&z={{ $zoom }}&l=map&size=640,300&pt={{ $lon }},{{ $lat }},pm2blm"
          alt="Карта" style="width: {{ $width }}; height: auto;">
   </a>
 {{ end }}

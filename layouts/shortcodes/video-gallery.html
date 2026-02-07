@@ -1,0 +1,55 @@
+{{/*< video-gallery id="city1" >}}
+https://rutube.ru/play/embed/95eed8c9e3fa4902161a0328516d38ad/,Здание
+https://rutube.ru/play/embed/95eed8c9e3fa4902161a0328516d38ad/
+{{< /video-gallery >*/}}
+{{/* первый: оригинал, второй(необязательно): title */}}
+
+{{ $id := .Get "id" | default "gallery" }}
+
+{{/* Собираем непустые строки */}}
+{{ $items := slice }}
+{{ range split .Inner "\n" }}
+  {{ $trimmed := trim . " \r\n\t" }}
+  {{ if and ($trimmed) (ne $trimmed "") }}
+    {{ $items = $items | append $trimmed }}
+  {{ end }}
+{{ end }}
+
+{{ $count := len $items }}
+
+{{ if eq $count 0 }}
+<!-- no img -->
+{{ else }}
+<section class="gallery-wrap" data-gallery-id="{{ $id }}">
+  <div class="video-gallery">
+  {{ range $items }}
+    {{ $parts := split . "," }}
+    {{ $fullPath := trim (index $parts 0) " " }}
+    {{ $title := "" }}
+    {{ if ge (len $parts) 2 }}
+      {{ $title = trim (index $parts 1) " " }}
+    {{ end }}
+
+    {{ if $fullPath }}
+      <div class="slide">
+        <div class="video-card">
+          {{ if $title }}
+          <div class="section-title h4 mb-3">
+            {{ $title }}
+          </div>
+          {{ end }}
+          <div class="video-wrapper">
+            <iframe src="{{ trim $fullPath ' ' }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+          </div>
+        </div>
+      </div>
+    {{ end }}
+  {{ end }}
+  </div>
+  <div class="gallery-nav">
+    <button class="nav-btn prev"><i class="ti-angle-left"></i></button>
+    <div class="dots"></div>
+    <button class="nav-btn next"><i class="ti-angle-right"></i></button>
+  </div>
+</section>
+{{ end }}

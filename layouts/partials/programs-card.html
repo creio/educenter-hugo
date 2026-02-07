@@ -25,13 +25,15 @@
   {{ end }}
 
   <div class="card-img position-relative">
-    {{ if $pageImage }}
-      <img src="{{ $pageImage.Permalink }}" alt="{{ $alt }}" class="img-fluid w-100">
-    {{ else if $globalImage }}
-      {{ partial "image.html" (dict "Src" $globalImage "Alt" $alt "Class" "img-fluid w-100 rounded-0") }}
-    {{ else }}
-      {{/* Fallback: прямой путь (на случай, если файл в static/) */}}
-      <img src="{{ $imgPath | absURL }}" alt="{{ $alt }}" class="img-fluid w-100">
+    {{ if $imgPath }}
+      {{ if $pageImage }}
+        <img src="{{ $pageImage.Permalink }}" alt="{{ $alt }}" class="img-fluid w-100">
+      {{ else if $globalImage }}
+        {{ partial "image.html" (dict "Src" $globalImage "Alt" $alt "Class" "img-fluid w-100 rounded-0") }}
+      {{ else }}
+        {{/* Fallback: прямой путь (на случай, если файл в static/) */}}
+        <img src="{{ $imgPath | absURL }}" alt="{{ $alt }}" class="img-fluid w-100">
+      {{ end }}
     {{ end }}
   </div>
 

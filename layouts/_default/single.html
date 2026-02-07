@@ -46,6 +46,7 @@
     <div class="row">
       <div class="col-lg-8 mb-4 content">
         {{ .Content }}
+        {{ partial "sections/video-gallery.html" .Params.iframe_video }}
       </div>
       <aside class="col-lg-4 d-none d-lg-block">
         <div class="toc-sticky shadow pt-4">

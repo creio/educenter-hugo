@@ -8,7 +8,6 @@ bg_image: "/images/programs/bg2.jpg"
 image: "/images/programs/bg2.jpg"
 type: "programs"
 ---
-
 Программы предвузовской подготовки, бакалаврские и магистерские программы, краткосрочные стажировки и туры.
 
 [Предвузовская подготовка IFP CCN](https://chinacampus.ru/programmy-ccn/rasshirennaya-predvuzovskaya-podgotovka-ifp-ccn) 

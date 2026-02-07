@@ -1,0 +1,39 @@
+{{ with . }}
+<section class="gallery-wrap">
+  <h3 class="mb-3">Видео</h3>
+  <div class="video-gallery">
+  {{ range . }}
+    <div class="slide">
+      {{ $imgPath := "" }}
+      {{ if .iframe_img }}
+        {{ $imgPath = trim .iframe_img " " }}
+      {{ end }}
+      {{ $imageResource := false }}
+      {{ if $imgPath }}
+        {{ $imageResource = resources.Get $imgPath }}
+      {{ end }}
+      <div class="video-card">
+        {{ if .iframe_title }}
+        <div class="section-title h4 mb-3">
+          {{ .iframe_title }}
+        </div>
+        {{ end }}
+        <div class="video-wrapper">
+          <iframe src="{{ trim .iframe_link ' ' }}"
+                frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        </div>
+        {{/*<a class="video-link venobox position-relative" href="{{ trim .iframe_link ' ' }}" data-vbtype="iframe" data-autoplay="true">
+          <img src="{{ $imageResource.RelPermalink }}" alt="{{ .iframe_title }}">
+          <span class="play-btn"><i class="ti-control-play"></i></span>
+        </a>*/}}
+      </div>
+    </div>
+  {{ end }}
+  </div>
+  <div class="gallery-nav">
+    <button class="nav-btn prev"><i class="ti-angle-left"></i></button>
+    <div class="dots"></div>
+    <button class="nav-btn next"><i class="ti-angle-right"></i></button>
+  </div>
+</section>
+{{ end }}

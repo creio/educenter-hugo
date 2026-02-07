@@ -134,7 +134,6 @@ document.querySelectorAll('.gallery-wrapper').forEach(function(wrapper) {
     prevArrow: '<button type=\'button\' class=\'prevArrow\'><i class=\'ti-angle-left\'></i></button>',
     nextArrow: '<button type=\'button\' class=\'nextArrow\'><i class=\'ti-angle-right\'></i></button>',
   });
-
   // Навигационный слайдер
   $nav.on('init', function(event, slick) {
     $nav.find('.slick-slide.slick-current').addClass('is-active');
@@ -174,7 +173,6 @@ document.querySelectorAll('.gallery-wrapper').forEach(function(wrapper) {
     $nav.find('.slick-slide.is-active').removeClass('is-active');
     $nav.find('.slick-slide[data-slick-index="' + currentSlide + '"]').addClass('is-active');
   });
-
   $nav.on('click', '.slick-slide', function(event) {
     event.preventDefault();
     const goToSingleSlide = $(this).data('slick-index');
@@ -182,11 +180,69 @@ document.querySelectorAll('.gallery-wrapper').forEach(function(wrapper) {
   });
 });
 
-
 new VenoBox({
   selector: ".venobox-gal",
   numeration: true,
   infinigall: true
+});
+
+
+$(window).on('load', function() {
+  document.querySelectorAll('.gallery-wrap').forEach(function(wrapper) {
+    const $wrapper = $(wrapper);
+    const $gallery = $wrapper.find('.video-gallery');
+    const $nav = $wrapper.find('.gallery-nav');
+    const $slides = $gallery.find('.slide');
+    const slideCount = $slides.length;
+    // Если ≤1 слайда — скрываем навигацию и выходим
+    if (slideCount <= 1) {
+      $nav.hide();
+      $gallery.show(); // показываем, даже если один слайд
+      return;
+    }
+    // Инициализируем Slick
+    $gallery.slick({
+      dots: false,
+      arrows: false,
+      infinite: true,
+      slidesToShow: 1,
+      adaptiveHeight: true,
+      speed: 500,
+      fade: true,
+      cssEase: 'linear',
+      lazyLoad: 'ondemand'
+    });
+    $gallery.show();
+    // === Работаем ТОЛЬКО с элементами внутри $wrapper ===
+    const $dots = $nav.find('.dots');
+    const $prevBtn = $nav.find('.nav-btn.prev');
+    const $nextBtn = $nav.find('.nav-btn.next');
+    // Отрисовка точек
+    function renderDots() {
+      $dots.empty();
+      for (let i = 0; i < slideCount; i++) {
+        const dot = $('<span class="dot" data-index="' + i + '">');
+        if (i === 0) dot.addClass('active');
+        $dots.append(dot);
+      }
+    }
+
+    function updateDots(currentIndex) {
+      $dots.find('.dot').removeClass('active');
+      $dots.find('.dot[data-index="' + currentIndex + '"]').addClass('active');
+    }
+    renderDots();
+    // Привязка событий к ЭТОЙ галерее
+    $prevBtn.on('click', () => $gallery.slick('slickPrev'));
+    $nextBtn.on('click', () => $gallery.slick('slickNext'));
+    $dots.on('click', '.dot', function() {
+      const idx = $(this).data('index');
+      $gallery.slick('slickGoTo', idx);
+    });
+    $gallery.on('afterChange', function(event, slick, currentSlide) {
+      updateDots(currentSlide);
+    });
+  });
 });
 
 

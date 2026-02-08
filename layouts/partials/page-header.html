@@ -2,6 +2,8 @@
 {{ $defaultBg := "" }}
 {{ if eq .Section "blog" }}
   {{ $defaultBg = resources.Get "images/backgrounds/blog-title.jpg" }}
+{{ else if eq .Section "programs" }}
+  {{ $defaultBg = resources.Get "images/backgrounds/programs-title.jpg" }}
 {{ else }}
   {{ $defaultBg = resources.Get "images/backgrounds/page-title.jpg" }}
 {{ end }}

@@ -69,7 +69,7 @@
       <!-- course item -->
       {{ $related := (where site.RegularPages "Type" "blog") | intersect (where site.Pages ".Title" "!=" .Title) | union (site.RegularPages.Related . ) | shuffle | first 3}}
       {{ range first 3 $related }}
-      <div class="col-lg-4 col-sm-6 mb-5">
+      <div class="col-lg-4 col-sm-6 mb-5 d-flex flex-column">
         {{ partial "blog-card.html" . }}
       </div>
       {{ end }}

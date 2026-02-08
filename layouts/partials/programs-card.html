@@ -1,4 +1,4 @@
-<div class="card border-0 rounded-0 hover-shadow">
+<div class="card border-0 rounded-0 hover-shadow flex-grow-1">
   {{ $alt := "" }}
   {{ if .Params.h1 }}
     {{ $alt = .Params.h1 }}
@@ -25,21 +25,19 @@
   {{ end }}
 
   <div class="card-img position-relative">
-    {{ if $imgPath }}
-      {{ if $pageImage }}
-        <img src="{{ $pageImage.Permalink }}" alt="{{ $alt }}" class="img-fluid w-100">
-      {{ else if $globalImage }}
-        {{ partial "image.html" (dict "Src" $globalImage "Alt" $alt "Class" "img-fluid w-100 rounded-0") }}
-      {{ else }}
-        {{/* Fallback: прямой путь (на случай, если файл в static/) */}}
-        <img src="{{ $imgPath | absURL }}" alt="{{ $alt }}" class="img-fluid w-100">
-      {{ end }}
+    {{ if $pageImage }}
+      <img src="{{ $pageImage.Permalink }}" alt="{{ $alt }}" class="img-fluid w-100">
+    {{ else if $globalImage }}
+      {{ partial "image.html" (dict "Src" $globalImage "Alt" $alt "Class" "img-fluid w-100 rounded-0") }}
+    {{ else }}
+      {{/* Fallback: прямой путь (на случай, если файл в static/) */}}
+      <img src="{{ $imgPath | absURL }}" alt="{{ $alt }}" class="img-fluid w-100">
     {{ end }}
   </div>
 
-  <div class="card-body">
+  <div class="card-body d-flex flex-column justify-content-end">
     <h4 class="card-title"><a href="{{ .Permalink }}">
-      {{ with .Params.h1 }}{{ . | truncate 50 }}{{ else }}{{ .Title | truncate 50 }}{{ end }}
+      {{ with .Params.h1 }}{{ . | truncate 70 }}{{ else }}{{ .Title | truncate 70 }}{{ end }}
     </a></h4>
     {{/*<div class="card-text mb-4">{{ .Summary | truncate 100 }}</div>*/}}
     <a href="{{ .Permalink }}" class="btn btn-primary btn-sm">Читать далее</a>

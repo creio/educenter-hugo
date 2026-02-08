@@ -3,18 +3,18 @@
 # header_top menu
 [[header_top]]
 name = "Работодателям"
-url = "employers/"
-weight = 1
+url = "programs/russian_employers/"
+weight = 10
 
 [[header_top]]
 name = "Ученикам и родителям"
-url = "programs/"
-weight = 2
+url = "programs/uchenikam-i-roditelyam/"
+weight = 20
 
 [[header_top]]
 name = "Учителям"
-url = "programs/"
-weight = 3
+url = "programs/uchitelyam/"
+weight = 30
 
 
 # main menu
@@ -77,30 +77,65 @@ weight = 4
 
 [[main]]
 name = "Контакты"
-url = "contact/"
+url = "contacts/"
 weight = 6
 
 
 # footer menu
 [[footer]]
-name = "учителя"
-url = "teacher/"
+name = "Почему Китай"
+url = "programs/obuchenie-v-kitae/"
+weight = 10
 
 [[footer]]
-name = "уведомления"
-url = "notice/"
+name = "Выбрать вуз"
+url = "universities/"
+weight = 20
 
 [[footer]]
-name = "события"
-url = "event/"
+name = "Гранты"
+url = "programs/granty"
+weight = 30
 
 [[footer]]
-name = "стипендия"
-url = "scholarship/"
+name = "Публикации"
+url = "blog/"
+weight = 40
+
+# [[footer]]
+# name = "Отзывы"
+# url = "blog/"
+# weight = 50
 
 [[footer]]
-name = "исследования"
-url = "research/"
+name = "Контакты"
+url = "contacts/"
+weight = 60
+
+[[footer]]
+name = "Партнёры"
+url = "programs/nashi-partnery/"
+weight = 70
+
+[[footer]]
+name = "Города"
+url = "cities/"
+weight = 80
+
+[[footer]]
+name = "Сведения об образовательной организации"
+url = "programs/uchenikam-i-roditelyam/"
+weight = 90
+
+[[footer]]
+name = "Соглашения с вузами"
+url = "blog/soglasheniya-china-campus-s-kitajskimi-vuzami/"
+weight = 100
+
+[[footer]]
+name = "Стажировки"
+url = "programs/internships/"
+weight = 110
 
 
 # footer_end

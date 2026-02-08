@@ -34,8 +34,8 @@
               {{ $globalImage = resources.Get $imgPath }}
             {{ end }}
 
-          <div class="col-sm-6 mb-5">
-            <article class="card rounded-0 border-bottom border-primary border-top-0 border-left-0 border-right-0 hover-shadow">
+          <div class="col-sm-6 mb-5 d-flex flex-column">
+            <article class="card rounded-0 border-bottom border-primary border-top-0 border-left-0 border-right-0 hover-shadow flex-grow-1">
               {{ if $pageImage }}
                 <img src="{{ $pageImage.Permalink }}" alt="{{ $alt }}" class="img-fluid w-100">
               {{ else if $globalImage }}
@@ -44,7 +44,7 @@
               {{/* Fallback: прямой путь (на случай, если файл в static/) */}}
                 <img src="{{ $imgPath | absURL }}" alt="{{ $alt }}" class="img-fluid w-100">
               {{ end }}
-              <div class="card-body">
+              <div class="card-body d-flex flex-column justify-content-end">
                 <!-- post meta -->
                 <ul class="list-inline mb-3">
                   <!-- post date -->

@@ -7,7 +7,7 @@ bg_image: "/images/blog/Depositphotos_239870690_s-2019.jpg"
 description: "Статья с сайта ChinaCampus: Наши студенты на предвузовской подготовке в Китае"
 image: "/images/blog/Depositphotos_239870690_s-2019.jpg"
 categories: ["Образование"]
-tags: ['Китай', 'CCN']
+tags: ['Китай', 'PandaIQ.ru']
 ---
 
 Уже прошёл месяц с тех пор, как наши студенты приступили к процесс получения знаний [на предвузовской подготовке (IFP)](/programmy-ccn/rasshirennaya-predvuzovskaya-podgotovka-ifp-ccn) в КНР! Рады поделиться с вами фотографиями.

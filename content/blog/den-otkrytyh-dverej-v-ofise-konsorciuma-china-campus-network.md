@@ -1,10 +1,10 @@
 ---
-title: "День открытых дверей в офисе консорциума China Campus Network"
-h1: "День открытых дверей в офисе консорциума China Campus Network"
+title: "День открытых дверей в офисе консорциума "
+h1: "День открытых дверей в офисе консорциума PandaIQ.ru"
 date: 2019-07-27T10:25:01
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
-description: "Статья с сайта ChinaCampus: День открытых дверей в офисе консорциума China Campus Network"
+description: "Статья с сайта ChinaCampus: День открытых дверей в офисе консорциума PandaIQ.ru"
 image: ""
 categories: ["Образование"]
 tags: ['Китай', 'Гранты']

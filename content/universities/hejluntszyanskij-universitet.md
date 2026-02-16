@@ -8,7 +8,7 @@ bg_image: "/images/universities/73J_6hrwFIg.jpg"
 image: "/images/universities/73J_6hrwFIg.jpg"
 iframe_video:
   - iframe_link: "https://rutube.ru/play/embed/a1f67d0c50ec7cf50691dfb6ca92da25"
-    iframe_title: "Студенты из России рассказали ПРО ОБУЧЕНИЕ в КИТАЕ гуманитарное направление CCN"
+    iframe_title: "Студенты из России рассказали ПРО ОБУЧЕНИЕ в КИТАЕ гуманитарное направление PandaIQ.ru"
     iframe_img: "images/universities/video_preview_20647a53.jpg"
   - iframe_link: "https://rutube.ru/play/embed/46f5ed0ba491849a0a8cc674c434b8f0"
     iframe_title: "Видео-тур по Хэйлунцзянскому университету"
@@ -57,7 +57,7 @@ HLJU уделяет особое внимание лингвистическим
 | № 86 | по экономике |
 | № 112 | в Китае |
 
-## Гранты CCN в HLJU
+## Гранты PandaIQ.ru в HLJU
 
 | Категория | Условия |
 |-----------|--------|

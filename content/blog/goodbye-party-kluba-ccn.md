@@ -1,13 +1,13 @@
 ---
-title: "GOODBYE PARTY клуба CCN"
-h1: "GOODBYE PARTY клуба CCN"
+title: "GOODBYE PARTY клуба "
+h1: "GOODBYE PARTY клуба PandaIQ.ru"
 date: 2019-07-27T10:31:28
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
-description: "Статья с сайта ChinaCampus: GOODBYE PARTY клуба CCN"
+description: "Статья с сайта ChinaCampus: GOODBYE PARTY клуба PandaIQ.ru"
 image: ""
 categories: ["Образование"]
-tags: ['Китай', 'CCN']
+tags: ['Китай', 'PandaIQ.ru']
 ---
 
 Кто это у нас тут такие красивые? Это наши ребята, которые в этом году едут учиться в страна восходящего солнца, далеко не все, конечно, но мы собрали всех, кого могли в Москве.

@@ -1,16 +1,16 @@
 ---
-title: "Олимпиада CCN Olympics"
-h1: "Олимпиада CCN Olympics"
+title: "Олимпиада  Olympics"
+h1: "Олимпиада PandaIQ.ru Olympics"
 date: 2019-07-27T10:45:28
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
-description: "Статья с сайта ChinaCampus: Олимпиада CCN Olympics"
+description: "Статья с сайта ChinaCampus: Олимпиада PandaIQ.ru Olympics"
 image: ""
 categories: ["Образование"]
 tags: ['Китай', 'Гранты']
 ---
 
-У нас супер новость! Мы запускаем олимпиаду **CCN Olympics для девятиклассников Москвы и Казани**!
+У нас супер новость! Мы запускаем олимпиаду **PandaIQ.ru Olympics для девятиклассников Москвы и Казани**!
 
 Хочешь учиться в одном из топовых вузов Китая по полному гранту? Овладеть английским и китайским? Путешествовать и заводить друзей со всех уголков планеты? приобрести интересную высокооплачиваемую специальность? Тогда этот конкурс для тебя – **<https://goo.gl/MqiKEt>**
 

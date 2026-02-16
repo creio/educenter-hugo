@@ -1,0 +1,52 @@
+Лог переименования файлов с "ccn" в названии
+
+Дата: понедельник, 16 февраля 2026 г.
+
+Переименованные файлы в content/blog/:
+
+1. ccn-i-niu-vshe-sozdayut-sovmestnuyu-programmu.md -> i-niu-vshe-sozdayut-sovmestnuyu-programmu.md
+2. ccn-privetstvuet-studentov-programmy-ifp.md -> privetstvuet-studentov-programmy-ifp.md
+3. ccn-stal-oficialnym-provajderom-alibaba-get.md -> stal-oficialnym-provajderom-alibaba-get.md
+4. ccn-v-studii-ria-novosti.md -> v-studii-ria-novosti.md
+5. 100-i-1-uchebnoe-zavedenie-sotrudnichayut-s-ccn-russia.md -> 100-i-1-uchebnoe-zavedenie-sotrudnichayut-s-russia.md
+6. 16-sentyabrya-prihodite-na-vystavki-po-obrazovaniyu-v-moskve-s-uchastiem-ccn.md -> 16-sentyabrya-prihodite-na-vystavki-po-obrazovaniyu-v-moskve.md
+7. 3-pobeditelya-vserossijskogo-konkursa-ccn-contest-poluchili-polnye-granty-na-obuchenie-v-universitetah-kitaya.md -> 3-pobeditelya-vserossijskogo-konkursa-contest-poluchili-polnye-granty-na-obuchenie-v-universitetah-kitaya.md
+8. best-vlog-contest-ccn-provodit-konkurs-na-luchshij-vlog-sredi-svoih-studentov.md -> best-vlog-contest-provodit-konkurs-na-luchshij-vlog-sredi-svoih-studentov.md
+9. chernaya-pyatnitsa-v-ccn.md -> chernaya-pyatnitsa.md
+10. goodbye-party-dlya-budushih-studentov-ccn.md -> goodbye-party-dlya-budushih-studentov.md
+11. goodbye-party-kluba-ccn.md -> goodbye-party-kluba.md
+12. gorodskaya-olimpiada-ccn-zavershena-pozdravlyaem-pobeditelej.md -> gorodskaya-olimpiada-zavershena-pozdravlyaem-pobeditelej.md
+13. intervyu-generalnogo-direktora-rossijskogo-predstavitelstva-ccn.md -> intervyu-generalnogo-direktora-rossijskogo-predstavitelstva.md
+14. konkurs-ot-youtube-kanala-nenovosti-i-ccn.md -> konkurs-ot-youtube-kanala-nenovosti.md
+15. konsorcium-ccn-rossiya-stal-partnerom-programmy-globalnoe-obrazovanie.md -> konsorcium-rossiya-stal-partnerom-programmy-globalnoe-obrazovanie.md
+16. letnij-lager-ccn.md -> letnij-lager.md
+17. literaturnyj-vecher-stran-shos-dlya-uchenikov-profilnogo-klassa-ccn.md -> literaturnyj-vecher-stran-shos-dlya-uchenikov-profilnogo-klassa.md
+18. nabran-pervyj-klass-predvuzovskoj-podgotovki-ccn-v-moskve.md -> nabran-pervyj-klass-predvuzovskoj-podgotovki-v-moskve.md
+19. nedelya-sotrudnichestva-ccn.md -> nedelya-sotrudnichestva.md
+20. obrashenie-k-komande-ccn-rossiya.md -> obrashenie-k-komande-rossiya.md
+21. olimpiada-ccn-olympics.md -> olimpiada-olympics.md
+22. pervye-lastochki-ccn-v-shanhae.md -> pervye-lastochki-v-shanhae.md
+23. pervyj-profilnyj-klass-ccn-nachal-svoe-obuchenie.md -> pervyj-profilnyj-klass-nachal-svoe-obuchenie.md
+24. probnyj-ege-v-profilnom-klasse-ccn.md -> probnyj-ege-v-profilnom-klasse.md
+25. rezultaty-zachisleniya-2018-2019-ccn.md -> rezultaty-zachisleniya-2018-2019.md
+26. rezultaty-zachisleniya-potoka-2017-2018-ccn.md -> rezultaty-zachisleniya-potoka-2017-2018.md
+27. roditelskoe-sobranie-s-ccn.md -> roditelskoe-sobranie.md
+28. startuet-nabor-na-vserossijskuyu-olimpiadu-ccn-i-instituta-konfutsiya-rggu.md -> startuet-nabor-na-vserossijskuyu-olimpiadu-i-instituta-konfutsiya-rggu.md
+29. studenty-ccn-poedut-v-kitaj-uzhe-v-blizhajshee-vremya.md -> studenty-poedut-v-kitaj-uzhe-v-blizhajshee-vremya.md
+30. studenty-prileteli-v-letnij-lager-ifp-ccn.md -> studenty-prileteli-v-letnij-lager-ifp.md
+31. uzhe-4-moskovskie-shkoly-oficialnye-partnery-ccn-rossiya.md -> uzhe-4-moskovskie-shkoly-oficialnye-partnery-rossiya.md
+32. vizit-predstavitelej-kitajskih-vuzov-v-moskovskij-ofis-ccn.md -> vizit-predstavitelej-kitajskih-vuzov-v-moskovskij-ofis.md
+33. vysokij-srednij-ball-uspehi-na-olimpiade-i-drugie-itogi-goda-v-profilnom-klasse-ccn.md -> vysokij-srednij-ball-uspehi-na-olimpiade-i-drugie-itogi-goda-v-profilnom-klasse.md
+
+Переименованные директории:
+1. content/blog/10-j-profilnyj-klass-ot-ccn/ -> content/blog/10-j-profilnyj-klass/
+
+Переименованные файлы изображений:
+1. content/blog/10-j-profilnyj-klass/10-j-profilnyj-klass-ot-ccn.jpg -> content/blog/10-j-profilnyj-klass/10-j-profilnyj-klass.jpg
+
+Обновленные ссылки в файлах:
+1. content/blog/index.md - обновлена ссылка на изображение
+2. content/blog/10-j-profilnyj-klass/index.md - обновлена ссылка на изображение
+
+Всего переименовано файлов: 33
+Всего переименовано директорий: 1

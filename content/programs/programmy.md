@@ -10,7 +10,7 @@ bg_image: ""
 
 Программы предвузовской подготовки, бакалаврские и магистерские программы, краткосрочные стажировки и туры.
 
-- [Предвузовская подготовка IFP PandaIQ.ru](/programs/rasshirennaya-predvuzovskaya-podgotovka-ifp-ccn)
+- [Предвузовская подготовка IFP PandaIQ.ru](/programs/rasshirennaya-predvuzovskaya-podgotovka-ifp)
 
 Предвузовская подготовка после 11 класса
 

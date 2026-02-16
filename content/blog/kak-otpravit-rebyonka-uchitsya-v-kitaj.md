@@ -52,7 +52,7 @@ tags: ['Китай', 'Гранты']
 
 ЕГЭ — чисто наша страна история, и при подаче заявления в зарубежный высшее учебное заведение придётся сдавать испытания, предусмотренные программой университета. Лучше заранее узнать механизм их проведения, например, пообщаться с родителями студентов, которые уже учатся в выбранном университете.
 
-Некоторые вузы дают возможность сдавать экзамены дистанционно, что в психологическом плане существенно упрощает ребёнку задачу. Но при наличии очного этапа лучше отправиться в новую страну вместе с ним, чтобы снизить уровень напряжения и помочь в случае необходимости. Например, вузы-партнеры PandaIQ.ru Russia — **[Beijing Normal University](/universitety/pekinskij-pedagogicheskij-universitet), [Fudan University](/universitety/universitet-fudan), [Shanghai Jiaotong University](/universitety/shanhajskij-transportnyj-universitet), [Zhejiang University](/universitety/chzhetszyanskij-universitet)** — требуют прохождения дополнительных испытаний, а вот остальные принимают результаты предвузовских курсов IFP и не требуют вступительных экзаменов.
+Некоторые вузы дают возможность сдавать экзамены дистанционно, что в психологическом плане существенно упрощает ребёнку задачу. Но при наличии очного этапа лучше отправиться в новую страну вместе с ним, чтобы снизить уровень напряжения и помочь в случае необходимости. Например, вузы-партнеры PandaIQ.ru Russia — **[Beijing Normal University](/universities/pekinskij-pedagogicheskij-universitet), [Fudan University](/universities/universitet-fudan), [Shanghai Jiaotong University](/universities/shanhajskij-transportnyj-universitet), [Zhejiang University](/universities/chzhetszyanskij-universitet)** — требуют прохождения дополнительных испытаний, а вот остальные принимают результаты предвузовских курсов IFP и не требуют вступительных экзаменов.
 
 После этого останется лишь дождаться заключения экзаменационной комиссии. В письме будет указано, поступил ли ребёнок в выбранный высшее учебное заведение или нет.
 
@@ -80,12 +80,12 @@ tags: ['Китай', 'Гранты']
 
 Учтите, что бронирование мест в кампусе имеет срок окончания. Не пропустите дедлайн подачи заявки, иначе ребёнку придётся снимать жильё отдельно, а это, как правило, дороже. Университеты-партнеры PandaIQ.ru Russia уже предоставили данные о местах на 2019/2020 учебный год:
 
-* [Северо-западный политехнический высшее учебное заведение](/universitety/severo-zapadnyj-politehnicheskij-universitet) — нет мест;
-* [Тяньцзиньский высшее учебное заведение](/universitety/tyanczinskij-universitet) — есть места;
-* [Харбинский институт технологий](/) — есть места;
-* [Хэйлунцзянский высшее учебное заведение](/universitety/hejluntszyanskij-universitet) — есть места;
-* [Сианьский нефтехимический высшее учебное заведение](/universitety/sianskij-neftehimicheskij-universitet) — нет мест;
+* [Северо-западный политехнический высшее учебное заведение](/universities/severo-zapadnyj-politehnicheskij-universitet) — нет мест;
+* [Тяньцзиньский высшее учебное заведение](/universities/tyanczinskij-universitet) — есть места;
+* [Харбинский институт технологий](/universities/harbinskij-institut-tehnologij) — есть места;
+* [Хэйлунцзянский высшее учебное заведение](/universities/hejluntszyanskij-universitet) — есть места;
+* [Сианьский нефтехимический высшее учебное заведение](/universities/sianskij-neftehimicheskij-universitet) — нет мест;
 * [высшее учебное заведение Цзянсу](/universities/universitet-czyansu)— есть места;
-* [Шанхайский флагманский центр IFP PandaIQ.ru](/universitety/shanhajskij-flagmanskij-centr-ifp-ccn) — нет мест.
+* [Шанхайский флагманский центр IFP PandaIQ.ru](/universities/shanhajskij-flagmanskij-centr-ifp) — нет мест.
 
 А в аэропорту пожелайте студенту отличной учёбы и помните, что вы довольно скоро увидитесь с ним на каникулах. Зимние каникулы, кстати, длятся почти полтора месяца.

@@ -20,6 +20,6 @@ tags: ['Китай', 'PandaIQ.ru']
 
 А если ты еще не с нами, то скорее оставляй заявку.
 
-**[УЗНАТЬ ПОДРОБНЕЕ](/programmy-ccn/letnij-lager-2-nedeli-v-shanhae)**
+**[УЗНАТЬ ПОДРОБНЕЕ](/programs/letnij-lager-2-nedeli-v-shanhae)**
 
 страна восходящего солнца ждет тебя!

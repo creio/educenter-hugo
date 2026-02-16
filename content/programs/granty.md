@@ -202,7 +202,7 @@ https://rutube.ru/play/embed/b737bcbb71bef97568afe83e0006612e/
 
 Однако если ваша цель – получить качественное высшее образование, то гораздо целесообразнее пройти специальную предвузовскую подготовку (IFP), выбрав курс в соответствии с вашим уровнем китайского языка, и получить гранты в рейтинговые вузы консорциума.
 
-[IFP перед бакалавриатом](/programs/rasshirennaya-predvuzovskaya-podgotovka-ifp-ccn)  
+[IFP перед бакалавриатом](/programs/rasshirennaya-predvuzovskaya-podgotovka-ifp)  
 [IFP перед магистратурой](/programs/predmagisterskaya-podgotovka-ifp-pg)
 
 ## Обучение в Китае вместе с PandaIQ.ru

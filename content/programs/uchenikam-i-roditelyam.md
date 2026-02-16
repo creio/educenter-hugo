@@ -25,5 +25,5 @@ image: "/images/programs/g-shh--e1545210563151.jpg"
 
 ## Программы обучения
 
-- [Профильные классы PandaIQ.ru](/programs/profilnye_klassy_ccn_ifp_russia)
+- [Профильные классы PandaIQ.ru](/programs/profilnye_klassy_ifp_russia)
 - [Китайский язык в 5-7 классах - ICP Teens](https://rocketchinese.ru/programs/dlya-shkolnikov-5-7-klass/)

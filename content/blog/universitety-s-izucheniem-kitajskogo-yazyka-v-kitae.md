@@ -26,10 +26,10 @@ tags: ['Китай', 'Гранты']
 
 Например, вы можете рассматривать для поступления эти вузы:
 
-* [Нанькайский высшее учебное заведение](https://chinacampus.ru/universitety/nankajskij-universitet) (город Тяньцзинь)
-* [Харбинский институт технологий](https://chinacampus.ru/universitety/harbinskij-institut-tehnologij) (город Харбин)
-* [Пекинский транспортный высшее учебное заведение](https://chinacampus.ru/universitety/pekinskij-transportnyj-universitet) (город Пекин, Вэйхай)
-* [Хэйлунцзянский высшее учебное заведение](https://chinacampus.ru/universitety/hejluntszyanskij-universitet) (город Харбин)
-* [Северо-западный политехнический высшее учебное заведение](https://chinacampus.ru/universitety/severo-zapadnyj-politehnicheskij-universitet) (город Сиань)
-* [Сианьский нефтехимический высшее учебное заведение](https://chinacampus.ru/universitety/sianskij-neftehimicheskij-universitet) (город Сиань)
-* [высшее учебное заведение Бэйхуа](https://chinacampus.ru/universitety/universitet-bejhua) (город Цзилинь)
+* [Нанькайский высшее учебное заведение](/universities/nankajskij-universitet) (город Тяньцзинь)
+* [Харбинский институт технологий](/universities/harbinskij-institut-tehnologij) (город Харбин)
+* [Пекинский транспортный высшее учебное заведение](/universities/pekinskij-transportnyj-universitet) (город Пекин, Вэйхай)
+* [Хэйлунцзянский высшее учебное заведение](/universities/hejluntszyanskij-universitet) (город Харбин)
+* [Северо-западный политехнический высшее учебное заведение](/universities/severo-zapadnyj-politehnicheskij-universitet) (город Сиань)
+* [Сианьский нефтехимический высшее учебное заведение](/universities/sianskij-neftehimicheskij-universitet) (город Сиань)
+* [высшее учебное заведение Бэйхуа](/universities/universitet-bejhua) (город Цзилинь)

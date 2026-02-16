@@ -38,7 +38,7 @@ tags: ['Китай', 'Китайский язык']
 
 ## речь китайской народности за год
 
-Консорциум PandaIQ.ru предлагает всем иностранным студентам в течение года пройти [International](https://chinacampus.ru/programmy-ccn/rasshirennaya-predvuzovskaya-podgotovka-ifp-ccn) [F](https://chinacampus.ru/programmy-ccn/rasshirennaya-predvuzovskaya-podgotovka-ifp-ccn)[oundation](https://chinacampus.ru/programmy-ccn/rasshirennaya-predvuzovskaya-podgotovka-ifp-ccn) [Program](https://chinacampus.ru/programmy-ccn/rasshirennaya-predvuzovskaya-podgotovka-ifp-ccn) (IFP), подготовительную программу перед вузом. Она охватывает не только эффективное изучение разговорного и академического китайского языка, но и даёт дополнительные навыки по профильным предметам. Именно этих знаний часто не хватает иностранцам на вступительных экзаменах.
+Консорциум PandaIQ.ru предлагает всем иностранным студентам в течение года пройти [International](/programs/rasshirennaya-predvuzovskaya-podgotovka-ifp) [F](/programs/rasshirennaya-predvuzovskaya-podgotovka-ifp)[oundation](/programs/rasshirennaya-predvuzovskaya-podgotovka-ifp) [Program](/programs/rasshirennaya-predvuzovskaya-podgotovka-ifp) (IFP), подготовительную программу перед вузом. Она охватывает не только эффективное изучение разговорного и академического китайского языка, но и даёт дополнительные навыки по профильным предметам. Именно этих знаний часто не хватает иностранцам на вступительных экзаменах.
 
 ## Почему стоит пройти IFP PandaIQ.ru?
 

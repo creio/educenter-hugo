@@ -79,14 +79,14 @@ image: "/images/programs/1-2q.jpg"
 
 ## Результаты обучения
 
-![](https://chinacampus.ru/wp-content/uploads/2017/12/campicon4.png)
+![](/images/icons/campicon4.png)
 
 Языковой прогресс
 
 - До 2400 слов (в конце обучения)
 - Hsk 4-5 (в конце обучения)
 
-![](https://chinacampus.ru/wp-content/uploads/2018/04/icpicon1.png)
+![](/images/icons/icpicon1.png)
 
 Навыки
 
@@ -94,20 +94,20 @@ image: "/images/programs/1-2q.jpg"
 - Написание текстов на китайском
 - Чтение художественной и академической литературы
 
-![](https://chinacampus.ru/wp-content/uploads/2017/12/campicon3.png)
+![](/images/icons/campicon3.png)
 
 Двойная сертификация
 
 - Сертификат PandaIQ.ru с финальными баллами
 - Аттестат о среднем образовании
 
-![](https://chinacampus.ru/wp-content/uploads/2017/12/campicon1.png)
+![](/images/icons/campicon1.png)
 
 Гранты
 
 - Возможность получения грантов для дальнейшего обучения в Китае в вузах консорциума
 
-![](https://chinacampus.ru/wp-content/uploads/2017/12/campicon5.png)
+![](/images/icons/campicon5.png)
 
 Чайнадавинг
 
@@ -117,13 +117,13 @@ image: "/images/programs/1-2q.jpg"
 - Посещение музеев
 - Киновечера и др.
 
-![](https://chinacampus.ru/wp-content/uploads/2018/04/icpicon3.png)
+![](/images/icons/icpicon3.png)
 
 Карьера
 
 - Знакомство с ведущими китайскими компаниями (экскурсии и лекции от специалистов)
 
-![](https://chinacampus.ru/wp-content/uploads/2018/04/icpicon2.png)
+![](/images/icons/icpicon2.png)
 
 PandaIQ.ru Community
 
@@ -198,12 +198,12 @@ https://rutube.ru/play/embed/38316c532cdf4fce3cd60ce16a0a74d0/
 
 ## Примеры вузов, куда Вы сможете поступить
 
-- [Северо-западный политехнический университет](https://chinacampus.ru/universitety/severo-zapadnyj-politehnicheskij-universitet)
-- [Тяньцзиньский университет](https://chinacampus.ru/universitety/tyanczinskij-universitet)
-- [Харбинский институт технологий](https://chinacampus.ru/universitety/harbinskij-institut-tehnologij)
-- [Университет Цзянсу](https://chinacampus.ru/universitety/universitet-czyansu)
-- [Сианьский нефтехимический университет](https://chinacampus.ru/universitety/sianskij-neftehimicheskij-universitet)
-- [Хэйлунцзянский университет](https://chinacampus.ru/universitety/hejluntszyanskij-universitet)
+- [Северо-западный политехнический университет](/universities/severo-zapadnyj-politehnicheskij-universitet)
+- [Тяньцзиньский университет](/universities/tyanczinskij-universitet)
+- [Харбинский институт технологий](/universities/harbinskij-institut-tehnologij)
+- [Университет Цзянсу](/universities/universitet-czyansu)
+- [Сианьский нефтехимический университет](/universities/sianskij-neftehimicheskij-universitet)
+- [Хэйлунцзянский университет](/universities/hejluntszyanskij-universitet)
 
 ## Преподаватели и методисты
 

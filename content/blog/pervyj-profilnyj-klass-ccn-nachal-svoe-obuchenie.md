@@ -34,4 +34,4 @@ tags: ['Китай', 'Гранты']
 
 Если вы хотите на следующий год поступить в 10 класс PandaIQ.ru в Москве, то оставляйте свою заявку на нашем сайте .
 
-[УЗНАТЬ ПОДРОБНЕЕ](https://chinacampus.ru/programmy-ccn/profilnye_klassy_ccn_ifp_russia)
+[УЗНАТЬ ПОДРОБНЕЕ](/programs/profilnye_klassy_ccn_ifp_russia)

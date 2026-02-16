@@ -32,37 +32,37 @@ tags: ['Китай', 'Гранты']
 
 ## На какие вузы нужно обратить внимание?
 
-1. [Пекинский педагогический высшее учебное заведение](https://chinacampus.ru/universitety/pekinskij-pedagogicheskij-universitet)
+1. [Пекинский педагогический высшее учебное заведение](/universities/pekinskij-pedagogicheskij-universitet)
 
 ![](/images/blog/Beijing_Normal_University_Library-e1577291258500.jpg)
 
 Это старейший профильный высшее учебное заведение Китая, основанный в 1902 году. Он занимает первое место в китайском рейтинге вузов, специализирующихся на педагогике, психологии и китайской литературе. высшее учебное заведение включает в себя семь ключевых научно-исследовательских баз в области гуманитарных и социальных наук. Здесь можно приобрести специальность в сфере науки и инженерии, бизнеса, искусства и гуманитарных наук.
 
-[Подробнее о вузе](https://chinacampus.ru/universitety/pekinskij-pedagogicheskij-universitet)
+[Подробнее о вузе](/universities/pekinskij-pedagogicheskij-universitet)
 
-2. [Нанькайский высшее учебное заведение](https://chinacampus.ru/universitety/nankajskij-universitet)
+2. [Нанькайский высшее учебное заведение](/universities/nankajskij-universitet)
 
 ![](/images/blog/nankin-e1577291282838.jpg)
 
 Это национальный многопрофильный высшее учебное заведение, ориентированный на научные исследования.  Входит в топ-15 лучших вузов Китая.
 
-[Подробнее о вузе](https://chinacampus.ru/universitety/nankajskij-universitet)
+[Подробнее о вузе](/universities/nankajskij-universitet)
 
-3. [Пекинский высшее учебное заведение иностранных языков](https://chinacampus.ru/universitety/pekinskij-universitet-inostrannyh-yazykov/rejtingi-i-otsenki)
+3. [Пекинский высшее учебное заведение иностранных языков](/universities/pekinskij-universitet-inostrannyh-yazykov/rejtingi-i-otsenki)
 
 ![](/images/blog/1414848.1.1510210214-e1577291469825.jpg)
 
 Одно из лучших учебных заведений для иностранных студентов, которые приехали в страна восходящего солнца. Помимо изучения языков, в вузе предусмотрены такие направления обучения как экономика, право, бизнес и менеджмент. Кроме того, он входит в топ-100 лучших вузов мира по лингвистике.
 
-[Подробнее о вузе](https://chinacampus.ru/universitety/pekinskij-universitet-inostrannyh-yazykov/rejtingi-i-otsenki)
+[Подробнее о вузе](/universities/pekinskij-universitet-inostrannyh-yazykov/rejtingi-i-otsenki)
 
-4. [Шанхайский высшее учебное заведение](https://chinacampus.ru/universitety/shanhajskij-universitet)
+4. [Шанхайский высшее учебное заведение](/universities/shanhajskij-universitet)
 
 ![](/images/blog/Stipendialnaya-programma-universiteta-Shanghai-University-min-e1577291494829.jpg)
 
 Крупнейший многопрофильный высшее учебное заведение, который включает в себя более 100 исследовательских институтов и высокотехнологичных парков. Ключевыми дисциплинами являются: математика, физика, химия, биология и биохимия, инженерия, клиническая медицина, материаловедение и компьютерная наука. Здесь же можно выучиться на преподавателей китайского, японского и английского языков.
 
-[Подробнее о вузе](https://chinacampus.ru/universitety/shanhajskij-universitet)
+[Подробнее о вузе](/universities/shanhajskij-universitet)
 
 ## Сколько стоит процесс получения знаний?
 

@@ -152,6 +152,6 @@ tags: ['Китай', 'Китайский язык']
 
 ## Вам может пригодиться
 
-[Презентация PandaIQ.ru Business Training](https://chinacampus.ru/wp-content/uploads/2019/03/PandaIQ.ru-korporativnoe-obuchenie.pdf)
+[Презентация PandaIQ.ru Business Training](/wp-content/uploads/2019/03/PandaIQ.ru-korporativnoe-obuchenie.pdf)
 
-[Лицензия на осуществление образовательной деятельности](https://chinacampus.ru/wp-content/uploads/2018/04/litsenziya_OOO__SiSiN__.pdf)
+[Лицензия на осуществление образовательной деятельности](/wp-content/uploads/2018/04/litsenziya_OOO__SiSiN__.pdf)

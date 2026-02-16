@@ -26,11 +26,11 @@ tags: ['Китай', 'Китайский язык']
 
 ### **Скидка 30% по акции предоставляется по следующим программам:**
 
-[— Курсы китайского языка и/или разговорный клуб для школьников (5-7 кл)](https://chinacampus.ru/programmy-ccn/obuchenie-kitajskomu-yazyku-5-7-kl)
+[— Курсы китайского языка и/или разговорный клуб для школьников (5-7 кл)](/programs/obuchenie-kitajskomu-yazyku-5-7-kl)
 
-[— Курсы китайского языка и/или разговорный клуб для школьников (8-11 кл)](https://chinacampus.ru/programmy-ccn/obuchenie-kitajskomu-yazyku-8-11-kl)
+[— Курсы китайского языка и/или разговорный клуб для школьников (8-11 кл)](/programs/obuchenie-kitajskomu-yazyku-8-11-kl)
 
-[— Курсы китайского языка и/или разговорный клуб для взрослых (от 18 лет)](https://chinacampus.ru/programmy-ccn/obuchenie-kitajskomu-yazyku-dlya-vzroslyh)
+[— Курсы китайского языка и/или разговорный клуб для взрослых (от 18 лет)](/programs/obuchenie-kitajskomu-yazyku-dlya-vzroslyh)
 
 ![](/images/blog/original-300x175.jpg)
 
@@ -41,11 +41,11 @@ tags: ['Китай', 'Китайский язык']
 
 Для уточнения подробностей, оставьте заявку по ссылке, интересующих курсов китайского, и наши эксперты вам перезвонят:
 
-[Курсы для 5-7 кл.](https://chinacampus.ru/programmy-ccn/obuchenie-kitajskomu-yazyku-5-7-kl)
+[Курсы для 5-7 кл.](/programs/obuchenie-kitajskomu-yazyku-5-7-kl)
 
-[Курсы для 8-11 кл.](https://chinacampus.ru/programmy-ccn/obuchenie-kitajskomu-yazyku-8-11-kl)
+[Курсы для 8-11 кл.](/programs/obuchenie-kitajskomu-yazyku-8-11-kl)
 
-[Курсы для взрослых](https://chinacampus.ru/programmy-ccn/obuchenie-kitajskomu-yazyku-dlya-vzroslyh)
+[Курсы для взрослых](/programs/obuchenie-kitajskomu-yazyku-dlya-vzroslyh)
 
 ## 
 

@@ -84,4 +84,4 @@ tags: ['Китай', 'Гранты']
 * финансовая поддержка PandaIQ.ru по результатам обучения.
 * Онлайн-платформа с материалами для обучения.
 
-Подробнее про наши профильные классы PandaIQ.ru вы можете узнать [здесь](https://chinacampus.ru/programmy-ccn/profilnye_klassy_ccn_ifp_russia).
+Подробнее про наши профильные классы PandaIQ.ru вы можете узнать [здесь](/programs/profilnye_klassy_ccn_ifp_russia).

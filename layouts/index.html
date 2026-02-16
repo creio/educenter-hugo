@@ -104,7 +104,7 @@
     <div class="row justify-content-center">
       <!-- programs item -->
       {{ range first 6 (where site.RegularPages "Type" "programs")}}
-      <div class="col-lg-4 col-sm-6 mb-5">
+      <div class="col-lg-4 col-sm-6 mb-5 d-flex flex-column">
         {{ partial "programs-card.html" . }}
       </div>
       {{ end }}
@@ -113,7 +113,7 @@
     <!-- mobile see all button -->
     <div class="row">
       <div class="col-12 text-center">
-        <a href="{{ `course` | relLangURL }}" class="btn btn-sm btn-outline-primary d-sm-none d-inline-block">Посмотреть все</a>
+        <a href="{{ `programs` | relLangURL }}" class="btn btn-sm btn-outline-primary d-sm-none d-inline-block">Посмотреть все</a>
       </div>
     </div>
   </div>

@@ -1,6 +1,6 @@
 ---
-title: "Контакты "
-h1: "Адреса офисовPandaIQ.ru"
+title: "Контакты"
+h1: "Адреса офисов PandaIQ.ru"
 description : "Адреса и контактные телефоны офисов консорциума Китайских университетов PandaIQ.ru в Москве, Казани, Владивостоке."
 draft: false
 # page title background image

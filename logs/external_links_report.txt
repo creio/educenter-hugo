@@ -1,0 +1,426 @@
+Отчет о внешних ссылках в MD файлах
+============================================================
+
+Ссылки по файлам:
+------------------------------------------------------------
+
+Файл: blog/1100-rossijskih-shkolnikov-prinyali-uchastie-v-olimpiade-po-yazyku-ekonomike-i-kulture-kitaya.md
+  [считают](https://wciom.ru/analytical-reviews/analiticheskii-obzor/inostrannyj-yazyk-perspektivnaya-investicziya)
+  [уверены](https://wciom.ru/analytical-reviews/analiticheskii-obzor/uchit-inostrannye-yazyki-pochemu-i-dlya-chego)
+  [занимает](https://www.timeshighereducation.com/world-university-rankings)
+
+Файл: blog/14-punktov-polnaya-instruktsiya-po-vysshemu-obrazovaniyu-v-kitae.md
+  [Ссылка на ресурс](https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%81%D1%82%D1%80%D0%B0%D0%BD_%D0%BF%D0%BE_%D0%BA%D0%BE%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D1%83_%D0%B2%D1%8B%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85_%D0%BF%D0%B0%D1%82%D0%B5%D0%BD%D1%82%D0%BE%D0%B2)
+  [рейтингов](https://www.gfmag.com/global-data/non-economic-data/worlds-safest-countries-2019)
+  [The World University Rankings 2020.](https://www.timeshighereducation.com/world-university-rankings/2020/world-ranking#!/page/0/length/25/sort_by/rank/sort_order/asc/cols/stats)
+  [бесплатным сыром в мышеловке](https://www.youtube.com/embed/zB53Gf6COV8)
+
+Файл: blog/16-sentyabrya-prihodite-na-vystavki-po-obrazovaniyu-v-moskve.md
+  [ул. Восточная, д. 4, корп. 1;](https://goo.gl/maps/jXt32zqrZTs?utm_source=internal_email&utm_medium=lenar&utm_campaign=20170810_vystavka)
+  [пл. Европы, 2](https://goo.gl/maps/rB5sThSRR6Q2?utm_source=internal_email&utm_medium=lenar&utm_campaign=20170810_vystavka)
+
+Файл: blog/akciya-sleduj-za-mnoj-v-kitaj.md
+  [“Следуй за мной в страна восходящего солнца!”](https://docs.google.com/document/d/1fNyBxbGE97qpK_n9qURJupEUl3O8F_f5TQ1q8gG46vU/edit?usp=sharing)
+
+Файл: blog/aktsiya-priglasite-druga-i-poluchite-skidku.md
+  [ссылке](https://docs.google.com/document/d/1ifmrBfCZDEYDO99kLvhPTOJLgj4sDPNNZCUHGKSu4fw/edit#)
+
+Файл: blog/china-edu-razbor.md
+  [изобретают](http://3dtoday.ru/blogs/news3dtoday/in-china-printed-a-fifteen-metre-plastic-bridge/)
+  [принял](http://uis.unesco.org/en/uis-student-flow)
+  [Smartshanghai.com](http://www.smartshanghai.com/)
+  [Ziroom.com](http://www.ziroom.com/)
+  [насчитывается](https://histant.ru/sites/default/files/inafran/Guleva_disser.pdf)
+  [является](https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%81%D1%82%D1%80%D0%B0%D0%BD_%D0%BF%D0%BE_%D0%92%D0%92%D0%9F_(%D0%BD%D0%BE%D0%BC%D0%B8%D0%BD%D0%B0%D0%BB)
+  [The World University Ranking 2019](https://www.topuniversities.com/university-rankings/world-university-rankings/2019)
+  [демонстрирует](https://www.vestifinance.ru/articles/108804)
+
+Файл: blog/csca-novyj-obyazatelnyj-ekzamen-dlya-postupleniya-v-kitaj.md
+  [**csca.cn**](http://csca.cn)
+
+Файл: blog/distancionnoe-obuchenie-v-inostrannyh-vuzah.md
+  [QS World University Rankings](https://www.educationindex.ru/articles/university-rankings/qs/)
+  [The World University Ranking 2019](https://www.topuniversities.com/university-rankings/world-university-rankings/2019)
+
+Файл: blog/gde-luhshe-uchitsya-v-kitae.md
+  [QS World University Rankings](https://www.educationindex.ru/articles/university-rankings/qs/)
+  [The World University Ranking 2019](https://www.topuniversities.com/university-rankings/world-university-rankings/2019)
+
+Файл: blog/ifp-akcja-2023.md
+  [Rocket Chinese](http://startwithchina.ru/)
+  [предвузовскую подготовку (IFP)](http://startwithchina.ru/ "Акция IFP")
+  [IFP курса](https://startwithchina.ru/)
+  [курса IFP+](https://startwithchina.ru/)
+
+Файл: blog/istochniki-dlya-izucheniya-kitajskogo-yazyka.md
+  [**http://www.ktdict.com/**](http://www.ktdict.com/)
+  [**http://www.zhonga.ru/**](http://www.zhonga.ru/)
+
+Файл: blog/itogi-konkursa-okno-v-kitaj.md
+  [Всероссийского конкурса “Окно в страна восходящего солнца” Им. И.К. Россохина](https://oknovkitai.ru/)
+
+Файл: blog/january_lager_2024.md
+  [оставьте заявку по ссылке](https://summer.chinacampus.ru/?utm_source=site&utm_medium=blog&utm_campaign=24_01_summercamp_start)
+
+Файл: blog/kak-otpravit-rebyonka-uchitsya-v-kitaj.md
+  [рейтинге](https://www.gfmag.com/global-data/non-economic-data/worlds-safest-countries-2019)
+  [University Impact Rankings](https://www.timeshighereducation.com/rankings/impact/2019/overall#!/page/0/length/25/sort_by/rank/sort_order/asc/cols/undefined)
+  [QS World University Rankings](https://www.topuniversities.com/university-rankings/world-university-rankings/2018)
+
+Файл: blog/kak-ponyat-podhodit-li-vam-izuchenie-kitajskogo-yazyka.md
+  [средняя предлагаемая работодателями зарплата](https://eaomedia.ru/news/1091009/)
+  [со вторым иностранным языком](https://hh.ru/article/12446)
+  [бесплатный пробный урок в Языковую школу при PandaIQ.ru](https://language.chinacampus.ru/)
+  [стал лидером](https://ncses.nsf.gov/pubs/nsb20206/publication-output-by-region-country-or-economy)
+  [по данным исследователей](https://www.rbc.ru/economics/18/01/2021/600503c09a79470549f19781)
+
+Файл: blog/kak-ustroitsya-na-rabotu-v-prestizhnuyu-kompaniyu.md
+  [PandaIQ.ru](https://go4a.chinacampus.ru/ "https://go4a.chinacampus.ru/")
+
+Файл: blog/kogda-nachinaetsya-ucheba-v-kitae.md
+  [https://www.studyinchina.edu.cn/.](https://www.studyinchina.edu.cn/)
+
+Файл: blog/kolledzh-kitajskogo-yazyka-v-moskve.md
+  [ПЕРЕХОЖУ](https://rutube.ru/video/a68bbe9918c9feb3545c8a5cfa93de04/?r=plwd)
+  [ПЕРЕХОЖУ](https://rutube.ru/video/d219f727b5c0422b43bceae09896cd2d/?r=plwd)
+
+Файл: blog/kursy-kitaiskogo-yazyka-dlya-detei.md
+  [отгружает](http://www.banki.ru/news/lenta/?id=10699666)
+
+Файл: blog/letnij-lager.md
+  [в нашей группе в контакте](https://vk.com/chinacampusru)
+  [*#студентыPandaIQ.ru*@chinacampusru](https://vk.com/wall-89808436?q=%23студентыPandaIQ.ru)
+
+Файл: blog/magistratura-shanghai.md
+  [Министерства образования Китая](https://studyinchina.edu.cn/)
+
+Файл: blog/magistratura-v-kitae.md
+  [ТУТ](https://rutube.ru/video/c147d5dabc10981d0301476aeabaad3d/?r=plwd)
+
+Файл: blog/mejdunarodnaya-torgovlya-v-kitae.md
+  [Байкальском государственном университете](http://bgu.ru/priem2019/bach/landing/mek-rc-p.aspx)
+  [ВВП по паритету](https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%81%D1%82%D1%80%D0%B0%D0%BD_%D0%BF%D0%BE_%D0%92%D0%92%D0%9F_(%D0%9F%D0%9F%D0%A1)
+
+Файл: blog/na-kogo-mohno-uchitsya-v-kitae.md
+  [записаться на пробный бесплатный урок](https://language.chinacampus.ru/)
+  [мировом рейтинге университетов](https://www.timeshighereducation.com/world-university-rankings/2020/world-ranking#!/page/0/length/25/sort_by/rank/sort_order/asc/cols/stats)
+
+Файл: blog/naibolee-perspektivnye-specialnosti-i-gde-imi-ovladet.md
+  [Starlink](https://hi-news.ru/internet/ilon-mask-sputnikovyj-internet-starlink-zarabotaet-uzhe-cherez-god.html)
+  [составляют](https://www.abs.gov.au/websitedbs/D3310114.nsf/home/ABS+Chief+Economist+-+Full+Paper+of+Measuring+Digital+Activities+in+the+Australian+Economy)
+  [составил](https://www150.statcan.gc.ca/n1/daily-quotidien/190503/dq190503a-eng.htm)
+
+Файл: blog/nedelya-sotrudnichestva.md
+  [PandaIQ.ru China-ASEAN Education Cooperation Week 2023](http://www.chinacampusnetwork.cn/news-and-events/news/2023-china-asean-education-cooperation-week-successful-annual-conference-of-china-campus-network-ccn/)
+
+Файл: blog/o-stipendiyah-v-kitae.md
+  [О](https://docs.google.com/spreadsheets/d/1FTOrGbPuAILNI0Vy-5K6572f7Ga9wOa8iFCwOhZGMBo/edit?usp=sharing)
+  [ткрыть справочник](https://docs.google.com/spreadsheets/d/1FTOrGbPuAILNI0Vy-5K6572f7Ga9wOa8iFCwOhZGMBo/edit?usp=sharing)
+
+Файл: blog/obuchenie-v-kitae-2023.md
+  [на паспортном контроле](https://htdecl.chinaport.gov.cn/htdeclweb/home/pages/index/index.html)
+
+Файл: blog/olimpiada-po-kitajskomu-yazyku-2022-2023.md
+  [здесь](https://mgimo.ru/upload/iblock/d12/Sbornik_testov_dlya_Olimpiady.pdf)
+  [ссылке](https://olimpiada.ru/activity/5303/tasks)
+
+Файл: blog/perspektivy-rynka-izucheniya-yazyka-v-2024-godu.md
+  [HolonIQ](https://www.holoniq.com/notes/chinese-language-learning-a-7-4b-market-powered-by-over-6-million-learners-set-to-double-in-the-next-five-years)
+
+Файл: blog/pochemu-voobshe-stoit-rassmatrivat-obrazovanie-v-kitae.md
+  [/](http://ekd.me/2017/12/v-kitae-razrabotali-zaryazhayushhijsya-za-sekundu-akkumulyator/)
+  [/](http://style.rbc.ru/items/57163a6f9a79472acdb35b29)
+  [/](http://www.oncc.ru/kitajskij-preparat-uspeshno-ispytan-v-terapii-kolorektalnogo-raka/)
+  [/](https://apparat.cc/news/crispr-china/)
+  [/](https://ekd.me/2015/12/mind-car/)
+  [/](https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%81%D1%82%D1%80%D0%B0%D0%BD_%D0%BF%D0%BE_%D0%BA%D0%BE%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D1%83_%D0%B2%D1%8B%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85_%D0%BF%D0%B0%D1%82%D0%B5%D0%BD%D1%82%D0%BE%D0%B2#%D0%9B%D1%83%D1%87%D1%88%D0%B8%D0%B5_20_%D1%81%D1%82%D1%80%D0%B0%D0%BD_%D0%B2_2010_%D0%B3%D0%BE%D0%B4%D1%83)
+
+Файл: blog/seminar-uchis-v-kitae-s-programmoj-globalnoe-obrazovanie.md
+  [“Глобальное система обучения”](http://educationglobal.ru/)
+  [**обучающий курс “Глобальное система обучения”**](http://educationglobal.ru/)
+
+Файл: blog/slojno-li-viuchit-kitaiskii-yazuk.md
+  [ПЕРЕХОЖУ](https://rutube.ru/video/349fe9d973a3a3eb534a50eade23d662/?r=plwd)
+  [ПЕРЕХОЖУ](https://rutube.ru/video/5d1a9e4252df1cf96f1a21d6f5c7eb3a/?r=plwd)
+  [ПЕРЕХОЖУ](https://rutube.ru/video/74be38c88e712b6d92de756ca630c64e/?r=plwd)
+  [The World University Rankings](https://www.timeshighereducation.com/world-university-rankings/2020/world-ranking#!/page/0/length/25/sort_by/rank/sort_order/asc/cols/stats)
+
+Файл: blog/sovety-po-izucheniyu-kitajskogo-yazyka.md
+  [Douyin](https://www.douyin.com)
+  [Xiaohongshu](https://www.xiaohongshu.com)
+
+Файл: blog/spisok-postupivshih-na-2018-godu.md
+  [Посмотреть список студентов](https://docs.google.com/spreadsheets/d/1o71Jt5rkvzt9t68_zviMINl39cBB_fm-rTjHy7RbPuU/edit?usp=sharing)
+
+Файл: blog/sravnenie-obrazovaniya-v-raznih-stranah.md
+  [официальном сайте](http://www.msmt.cz)
+  [DAAD](https://www.daad.ru/ru/)
+  [официальном сайте](https://www.gov.pl/web/nauka/)
+  [The World University Rankings](https://www.timeshighereducation.com/world-university-rankings/2020/world-ranking#!/page/0/length/25/sort_by/rank/sort_order/asc/cols/stats)
+  [QS](https://www.topuniversities.com/university-rankings/world-university-rankings/2020)
+
+Файл: blog/startuet-nabor-na-vserossijskuyu-olimpiadu-i-instituta-konfutsiya-rggu.md
+  [регистрируйтесь](https://clck.ru/TNWgA)
+  [сообщество ВК](https://vk.com/contestccn)
+
+Файл: blog/stoimost-obucheniya-v-inostranom-vuze.md
+  [мировой рейтинг](https://www.timeshighereducation.com/world-university-rankings/2020/world-ranking#!/page/0/length/25/sort_by/rank/sort_order/asc/cols/stats)
+  [рейтингу вузов](https://www.timeshighereducation.com/world-university-rankings/2020/world-ranking#!/page/0/length/25/sort_by/rank/sort_order/asc/cols/stats)
+  [рейтинг](https://www.timeshighereducation.com/world-university-rankings/2020/world-ranking#!/page/0/length/25/sort_by/rank/sort_order/asc/cols/stats)
+
+Файл: blog/studenty-ifp-lato2024.md
+  [Международной обучающие курсы Foundation (IFP)](https://mp.weixin.qq.com/s/nwURrGJ8yOoM2Dlcs-XXog)
+
+Файл: blog/trudoustrojstvo-s-kitajskim-diplomom.md
+  [*https://hh.ru/*](https://hh.ru/)
+  [*https://hh.ru/*](https://hh.ru/)
+
+Файл: blog/universitety-v-uhane.md
+  [https://www.studyinchina.edu.cn,](https://www.studyinchina.edu.cn/)
+
+Файл: blog/vishee-obrazovanie-v-azii.md
+  [The World University Rankings 2020](https://www.timeshighereducation.com/world-university-rankings/2020/world-ranking#!/page/0/length/25/sort_by/rank/sort_order/asc/cols/stats)
+  [мировой рейтинг вузов QS](https://www.topuniversities.com/)
+
+Файл: blog/viza-i-aviabilet-v-kitaj-dlya-uchastnikov-akcii-privedi-druga.md
+  [Подробнее об акции](https://docs.google.com/document/d/1qzpdFVvcepYrfkHPa6Lkmyvsr3JKviyd6VQORhNPnSk/edit)
+
+Файл: blog/vostrebovannost-specialistov-so-znaniem-kitajskogo-yazyka-na-rossijskom-rynke.md
+  [исследование](https://tatarstan.hh.ru/article/506501)
+  [https://hh.ru/article/506501](https://tatarstan.hh.ru/article/506501)
+
+Файл: blog/vyshka-v-podnebesnoj-internacionalnoe-obshezhitie-kulturnye-kontrasty-i-lekcii-na-anglijskom-i-kitajskom.md
+  [Молодёжным порталом Республики Коми](http://tvoyaparallel.ru/news/education/vyshka-v-podnebesnojj-internacionalnoe-obshhezhitie-kulturnye-kontrasty-i-lekcii-na-anglijjskom-i-kitajjskom.htm)
+
+Файл: blog/wintercamp2024.md
+  [Зимний языковой лагерь в Китайской Республике](http://winter.chinacampus.ru/?utm_source=yandex&utm_medium=banner&utm_campaign=winter_septemper)
+  [Регистрация открыта!](http://winter.chinacampus.ru/?utm_source=yandex&utm_medium=banner&utm_campaign=winter_septemper)
+
+Файл: programs/internships.md
+  [**Мы ищем студентов**](https://as-pacific.com/job-offers/)
+
+Файл: programs/obuchenie-v-kitae.md
+  [НИОКР](https://www.kommersant.ru/doc/4713803)
+
+Файл: programs/predmagisterskaya-podgotovka-ifp-pg.md
+  [Смотреть видеоотзыв](https://www.youtube.com/embed/zB53Gf6COV8)
+  [Смотреть видеоотзыв](https://www.youtube.com/embed/zB53Gf6COV8)
+
+Файл: programs/profilnye_klassy_ifp_russia.md
+  [2-я линия В.О., 43](https://2gis.ru/spb/geo/5348660212666619)
+
+Файл: programs/rasshirennaya-predvuzovskaya-podgotovka-ifp.md
+  [Смотреть видеоотзыв](https://www.youtube.com/embed/zB53Gf6COV8)
+  [Смотреть видеоотзыв](https://www.youtube.com/embed/zB53Gf6COV8)
+
+Файл: programs/stagirovka-v-kitae.md
+  [Официальный сайт стажировок campuschina](https://www.campuschina.org/)
+
+Файл: programs/uchenikam-i-roditelyam.md
+  [Китайский язык в 5-7 классах - ICP Teens](https://rocketchinese.ru/programs/dlya-shkolnikov-5-7-klass/)
+
+Файл: programs/uchitelyam.md
+  [Смотреть видеоотзыв](https://www.youtube.com/embed/zB53Gf6COV8)
+  [Смотреть видеоотзыв](https://www.youtube.com/embed/zB53Gf6COV8)
+
+Файл: universities/guangxi-normal-university.md
+  [Гуансийский педагогический вуз](https://www.google.com/search?cs=0&sca_esv=b510d2a75869389b&sxsrf=AE3TifO0oyTcuaRxZFIwhmKRTCPLbmDEfA%3A1755103998749&q=%D0%93%D1%83%D0%B0%D0%BD%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9+%D0%BF%D0%B5%D0%B4%D0%B0%D0%B3%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82&sa=X&ved=2ahUKEwiBpIzzn4iPAxUAKRAIHd4xM9cQxccNegQIARAB&mstk=AUtExfBC9VwGwe1lSpM7nicei4hE_zV-AGENjiyB4Eau_gzmtMmy8nPgGtPEtqkYIcUEAT8G1FRGZGuZo9rSy9eB2S_iCuWbXLAQG286os6gjfWviv5a0E9zOew46JiriShAs041g0BCxb2fVYSqiHQKf0X4YmahjUIvvTM4Z8n4ukCkW8Q&csui=3)
+
+Файл: universities/shanhajskij-universitet-elektrotehniki.md
+  [Шанхайский вуз инженерных наук](https://www.google.com/search?rlz=1C1GCEA_enRU1149RU1149&cs=0&sca_esv=a1754dd2adcb8a92&sxsrf=AE3TifNSL_NXO11ASBhaf2JM_pvjDdjSsA%3A1755100782495&q=%D0%A8%D0%B0%D0%BD%D1%85%D0%B0%D0%B9%D1%81%D0%BA%D0%B8%D0%B9+%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82+%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%BD%D1%8B%D1%85+%D0%BD%D0%B0%D1%83%D0%BA&sa=X&ved=2ahUKEwji0bb1k4iPAxXLHRAIHWj1C6oQxccNegQIAxAB&mstk=AUtExfDsghhtp8pQdDej4wCuFrZ3ri9dlgzMiBQ6938EQoNrOuMzNPxVZJenWaSrtUQCLUheqT4E6W6dXIA8SqQriRFmkEufvtULnVqjI-3FK73rFpPSYpKLOcioZzFlbK8O3L_UmCj7L0yF-wT82EVj49_2Vs62T1F9OvuNse14T-MN63c&csui=3)
+
+Файл: universities/shanhajskij-universitet-traditsionnoj-kitajskoj-meditsiny.md
+  [современные методы лечения](https://www.google.com/search?sca_esv=a1754dd2adcb8a92&rlz=1C1GCEA_enRU1149RU1149&cs=0&sxsrf=AE3TifOz65l7uh6MVePu1p12w81i28iv2Q%3A1755102089756&q=%D1%81%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5+%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D1%8B+%D0%BB%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D1%8F&sa=X&ved=2ahUKEwiOndTkmIiPAxU4FRAIHXwhBQ4QxccNegQIBxAB&mstk=AUtExfCR45DM3JzpbFfE439b3aNoPlrE34MIVw_GecO3kvuLfjWcuNR1SnLUTUtt7XpnP5AKhjF4fX5vLWnMiy2hYVjnWc8w4Y2Gutgma8KpPIgeLI0kGDgSBEgKRIQCFWG_AwEimr2nPhF0hCmfI8PIPX51mcKnnl37fXHZqizgjUx7Hiw9dQZFPbiCgDdswX6vSyRoiE9mYF4VKLMpahQNMlSwlVap5zLufKzaxga0CX2wCb60jKcK3VQEsbJ0nvcxKeXuIDPo3tvQsJDQ3ibLD-xC&csui=3)
+
+Файл: universities/yanshanskij-universitet.md
+  [вуз Яньшань](https://www.google.com/search?sca_esv=a1754dd2adcb8a92&rlz=1C1GCEA_enRU1149RU1149&cs=0&sxsrf=AE3TifM_WTVVItLZstC1q55BWUmnLrAXsA%3A1755101662009&q=%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82+%D0%AF%D0%BD%D1%8C%D1%88%D0%B0%D0%BD%D1%8C&sa=X&ved=2ahUKEwj3y96Yl4iPAxXpFhAIHTiHE3cQxccNegQIAhAB&mstk=AUtExfAkRKvBIYGTrrhcmO3rm7sysACNJNOR9YdXqV6AAWNdJ2PfOuNYqeIZu1sy_mL8rRNITzEIe5mtQlP0EXR5zc1HQUqluUfHClofi92quHPkshDUpLTLlThBW0E-YLm_IzSPetHniM3S8q3dIJFtgqJk3ho2zV10j2vJDDOaQjdN6i6CvYzxaIJppqLiUq2lpJ4vg1ycnwnD06F_FYf3R33W40Wqai6_a-_NRA659GR6lM_21ZuAHOZLgJwoIW_HXrwvooy5JK_jGrlk-sUdUFO1&csui=3)
+
+============================================================
+Все уникальные внешние ссылки:
+------------------------------------------------------------
+http://3dtoday.ru/blogs/news3dtoday/in-china-printed-a-fifteen-metre-plastic-bridge/
+  Встречается в: blog/china-edu-razbor.md
+http://bgu.ru/priem2019/bach/landing/mek-rc-p.aspx
+  Встречается в: blog/mejdunarodnaya-torgovlya-v-kitae.md
+http://csca.cn
+  Встречается в: blog/csca-novyj-obyazatelnyj-ekzamen-dlya-postupleniya-v-kitaj.md
+http://educationglobal.ru/
+  Встречается в: blog/seminar-uchis-v-kitae-s-programmoj-globalnoe-obrazovanie.md
+http://ekd.me/2017/12/v-kitae-razrabotali-zaryazhayushhijsya-za-sekundu-akkumulyator/
+  Встречается в: blog/pochemu-voobshe-stoit-rassmatrivat-obrazovanie-v-kitae.md
+http://startwithchina.ru/
+  Встречается в: blog/ifp-akcja-2023.md
+http://startwithchina.ru/ "Акция IFP"
+  Встречается в: blog/ifp-akcja-2023.md
+http://style.rbc.ru/items/57163a6f9a79472acdb35b29
+  Встречается в: blog/pochemu-voobshe-stoit-rassmatrivat-obrazovanie-v-kitae.md
+http://tvoyaparallel.ru/news/education/vyshka-v-podnebesnojj-internacionalnoe-obshhezhitie-kulturnye-kontrasty-i-lekcii-na-anglijjskom-i-kitajjskom.htm
+  Встречается в: blog/vyshka-v-podnebesnoj-internacionalnoe-obshezhitie-kulturnye-kontrasty-i-lekcii-na-anglijskom-i-kitajskom.md
+http://uis.unesco.org/en/uis-student-flow
+  Встречается в: blog/china-edu-razbor.md
+http://winter.chinacampus.ru/?utm_source=yandex&utm_medium=banner&utm_campaign=winter_septemper
+  Встречается в: blog/wintercamp2024.md
+http://www.banki.ru/news/lenta/?id=10699666
+  Встречается в: blog/kursy-kitaiskogo-yazyka-dlya-detei.md
+http://www.chinacampusnetwork.cn/news-and-events/news/2023-china-asean-education-cooperation-week-successful-annual-conference-of-china-campus-network-ccn/
+  Встречается в: blog/nedelya-sotrudnichestva.md
+http://www.ktdict.com/
+  Встречается в: blog/istochniki-dlya-izucheniya-kitajskogo-yazyka.md
+http://www.msmt.cz
+  Встречается в: blog/sravnenie-obrazovaniya-v-raznih-stranah.md
+http://www.oncc.ru/kitajskij-preparat-uspeshno-ispytan-v-terapii-kolorektalnogo-raka/
+  Встречается в: blog/pochemu-voobshe-stoit-rassmatrivat-obrazovanie-v-kitae.md
+http://www.smartshanghai.com/
+  Встречается в: blog/china-edu-razbor.md
+http://www.zhonga.ru/
+  Встречается в: blog/istochniki-dlya-izucheniya-kitajskogo-yazyka.md
+http://www.ziroom.com/
+  Встречается в: blog/china-edu-razbor.md
+https://2gis.ru/spb/geo/5348660212666619
+  Встречается в: programs/profilnye_klassy_ifp_russia.md
+https://apparat.cc/news/crispr-china/
+  Встречается в: blog/pochemu-voobshe-stoit-rassmatrivat-obrazovanie-v-kitae.md
+https://as-pacific.com/job-offers/
+  Встречается в: programs/internships.md
+https://clck.ru/TNWgA
+  Встречается в: blog/startuet-nabor-na-vserossijskuyu-olimpiadu-i-instituta-konfutsiya-rggu.md
+https://docs.google.com/document/d/1fNyBxbGE97qpK_n9qURJupEUl3O8F_f5TQ1q8gG46vU/edit?usp=sharing
+  Встречается в: blog/akciya-sleduj-za-mnoj-v-kitaj.md
+https://docs.google.com/document/d/1ifmrBfCZDEYDO99kLvhPTOJLgj4sDPNNZCUHGKSu4fw/edit#
+  Встречается в: blog/aktsiya-priglasite-druga-i-poluchite-skidku.md
+https://docs.google.com/document/d/1qzpdFVvcepYrfkHPa6Lkmyvsr3JKviyd6VQORhNPnSk/edit
+  Встречается в: blog/viza-i-aviabilet-v-kitaj-dlya-uchastnikov-akcii-privedi-druga.md
+https://docs.google.com/spreadsheets/d/1FTOrGbPuAILNI0Vy-5K6572f7Ga9wOa8iFCwOhZGMBo/edit?usp=sharing
+  Встречается в: blog/o-stipendiyah-v-kitae.md
+https://docs.google.com/spreadsheets/d/1o71Jt5rkvzt9t68_zviMINl39cBB_fm-rTjHy7RbPuU/edit?usp=sharing
+  Встречается в: blog/spisok-postupivshih-na-2018-godu.md
+https://eaomedia.ru/news/1091009/
+  Встречается в: blog/kak-ponyat-podhodit-li-vam-izuchenie-kitajskogo-yazyka.md
+https://ekd.me/2015/12/mind-car/
+  Встречается в: blog/pochemu-voobshe-stoit-rassmatrivat-obrazovanie-v-kitae.md
+https://go4a.chinacampus.ru/ "https://go4a.chinacampus.ru/"
+  Встречается в: blog/kak-ustroitsya-na-rabotu-v-prestizhnuyu-kompaniyu.md
+https://goo.gl/maps/jXt32zqrZTs?utm_source=internal_email&utm_medium=lenar&utm_campaign=20170810_vystavka
+  Встречается в: blog/16-sentyabrya-prihodite-na-vystavki-po-obrazovaniyu-v-moskve.md
+https://goo.gl/maps/rB5sThSRR6Q2?utm_source=internal_email&utm_medium=lenar&utm_campaign=20170810_vystavka
+  Встречается в: blog/16-sentyabrya-prihodite-na-vystavki-po-obrazovaniyu-v-moskve.md
+https://hh.ru/
+  Встречается в: blog/trudoustrojstvo-s-kitajskim-diplomom.md
+https://hh.ru/article/12446
+  Встречается в: blog/kak-ponyat-podhodit-li-vam-izuchenie-kitajskogo-yazyka.md
+https://hi-news.ru/internet/ilon-mask-sputnikovyj-internet-starlink-zarabotaet-uzhe-cherez-god.html
+  Встречается в: blog/naibolee-perspektivnye-specialnosti-i-gde-imi-ovladet.md
+https://histant.ru/sites/default/files/inafran/Guleva_disser.pdf
+  Встречается в: blog/china-edu-razbor.md
+https://htdecl.chinaport.gov.cn/htdeclweb/home/pages/index/index.html
+  Встречается в: blog/obuchenie-v-kitae-2023.md
+https://language.chinacampus.ru/
+  Встречается в: blog/kak-ponyat-podhodit-li-vam-izuchenie-kitajskogo-yazyka.md, blog/na-kogo-mohno-uchitsya-v-kitae.md
+https://mgimo.ru/upload/iblock/d12/Sbornik_testov_dlya_Olimpiady.pdf
+  Встречается в: blog/olimpiada-po-kitajskomu-yazyku-2022-2023.md
+https://mp.weixin.qq.com/s/nwURrGJ8yOoM2Dlcs-XXog
+  Встречается в: blog/studenty-ifp-lato2024.md
+https://ncses.nsf.gov/pubs/nsb20206/publication-output-by-region-country-or-economy
+  Встречается в: blog/kak-ponyat-podhodit-li-vam-izuchenie-kitajskogo-yazyka.md
+https://oknovkitai.ru/
+  Встречается в: blog/itogi-konkursa-okno-v-kitaj.md
+https://olimpiada.ru/activity/5303/tasks
+  Встречается в: blog/olimpiada-po-kitajskomu-yazyku-2022-2023.md
+https://rocketchinese.ru/programs/dlya-shkolnikov-5-7-klass/
+  Встречается в: programs/uchenikam-i-roditelyam.md
+https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%81%D1%82%D1%80%D0%B0%D0%BD_%D0%BF%D0%BE_%D0%92%D0%92%D0%9F_(%D0%9F%D0%9F%D0%A1
+  Встречается в: blog/mejdunarodnaya-torgovlya-v-kitae.md
+https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%81%D1%82%D1%80%D0%B0%D0%BD_%D0%BF%D0%BE_%D0%92%D0%92%D0%9F_(%D0%BD%D0%BE%D0%BC%D0%B8%D0%BD%D0%B0%D0%BB
+  Встречается в: blog/china-edu-razbor.md
+https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%81%D1%82%D1%80%D0%B0%D0%BD_%D0%BF%D0%BE_%D0%BA%D0%BE%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D1%83_%D0%B2%D1%8B%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85_%D0%BF%D0%B0%D1%82%D0%B5%D0%BD%D1%82%D0%BE%D0%B2
+  Встречается в: blog/14-punktov-polnaya-instruktsiya-po-vysshemu-obrazovaniyu-v-kitae.md
+https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%81%D1%82%D1%80%D0%B0%D0%BD_%D0%BF%D0%BE_%D0%BA%D0%BE%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D1%83_%D0%B2%D1%8B%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85_%D0%BF%D0%B0%D1%82%D0%B5%D0%BD%D1%82%D0%BE%D0%B2#%D0%9B%D1%83%D1%87%D1%88%D0%B8%D0%B5_20_%D1%81%D1%82%D1%80%D0%B0%D0%BD_%D0%B2_2010_%D0%B3%D0%BE%D0%B4%D1%83
+  Встречается в: blog/pochemu-voobshe-stoit-rassmatrivat-obrazovanie-v-kitae.md
+https://rutube.ru/video/349fe9d973a3a3eb534a50eade23d662/?r=plwd
+  Встречается в: blog/slojno-li-viuchit-kitaiskii-yazuk.md
+https://rutube.ru/video/5d1a9e4252df1cf96f1a21d6f5c7eb3a/?r=plwd
+  Встречается в: blog/slojno-li-viuchit-kitaiskii-yazuk.md
+https://rutube.ru/video/74be38c88e712b6d92de756ca630c64e/?r=plwd
+  Встречается в: blog/slojno-li-viuchit-kitaiskii-yazuk.md
+https://rutube.ru/video/a68bbe9918c9feb3545c8a5cfa93de04/?r=plwd
+  Встречается в: blog/kolledzh-kitajskogo-yazyka-v-moskve.md
+https://rutube.ru/video/c147d5dabc10981d0301476aeabaad3d/?r=plwd
+  Встречается в: blog/magistratura-v-kitae.md
+https://rutube.ru/video/d219f727b5c0422b43bceae09896cd2d/?r=plwd
+  Встречается в: blog/kolledzh-kitajskogo-yazyka-v-moskve.md
+https://startwithchina.ru/
+  Встречается в: blog/ifp-akcja-2023.md
+https://studyinchina.edu.cn/
+  Встречается в: blog/magistratura-shanghai.md
+https://summer.chinacampus.ru/?utm_source=site&utm_medium=blog&utm_campaign=24_01_summercamp_start
+  Встречается в: blog/january_lager_2024.md
+https://tatarstan.hh.ru/article/506501
+  Встречается в: blog/vostrebovannost-specialistov-so-znaniem-kitajskogo-yazyka-na-rossijskom-rynke.md
+https://vk.com/chinacampusru
+  Встречается в: blog/letnij-lager.md
+https://vk.com/contestccn
+  Встречается в: blog/startuet-nabor-na-vserossijskuyu-olimpiadu-i-instituta-konfutsiya-rggu.md
+https://vk.com/wall-89808436?q=%23студентыPandaIQ.ru
+  Встречается в: blog/letnij-lager.md
+https://wciom.ru/analytical-reviews/analiticheskii-obzor/inostrannyj-yazyk-perspektivnaya-investicziya
+  Встречается в: blog/1100-rossijskih-shkolnikov-prinyali-uchastie-v-olimpiade-po-yazyku-ekonomike-i-kulture-kitaya.md
+https://wciom.ru/analytical-reviews/analiticheskii-obzor/uchit-inostrannye-yazyki-pochemu-i-dlya-chego
+  Встречается в: blog/1100-rossijskih-shkolnikov-prinyali-uchastie-v-olimpiade-po-yazyku-ekonomike-i-kulture-kitaya.md
+https://www.abs.gov.au/websitedbs/D3310114.nsf/home/ABS+Chief+Economist+-+Full+Paper+of+Measuring+Digital+Activities+in+the+Australian+Economy
+  Встречается в: blog/naibolee-perspektivnye-specialnosti-i-gde-imi-ovladet.md
+https://www.campuschina.org/
+  Встречается в: programs/stagirovka-v-kitae.md
+https://www.daad.ru/ru/
+  Встречается в: blog/sravnenie-obrazovaniya-v-raznih-stranah.md
+https://www.douyin.com
+  Встречается в: blog/sovety-po-izucheniyu-kitajskogo-yazyka.md
+https://www.educationindex.ru/articles/university-rankings/qs/
+  Встречается в: blog/distancionnoe-obuchenie-v-inostrannyh-vuzah.md, blog/gde-luhshe-uchitsya-v-kitae.md
+https://www.gfmag.com/global-data/non-economic-data/worlds-safest-countries-2019
+  Встречается в: blog/14-punktov-polnaya-instruktsiya-po-vysshemu-obrazovaniyu-v-kitae.md, blog/kak-otpravit-rebyonka-uchitsya-v-kitaj.md
+https://www.google.com/search?cs=0&sca_esv=b510d2a75869389b&sxsrf=AE3TifO0oyTcuaRxZFIwhmKRTCPLbmDEfA%3A1755103998749&q=%D0%93%D1%83%D0%B0%D0%BD%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9+%D0%BF%D0%B5%D0%B4%D0%B0%D0%B3%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82&sa=X&ved=2ahUKEwiBpIzzn4iPAxUAKRAIHd4xM9cQxccNegQIARAB&mstk=AUtExfBC9VwGwe1lSpM7nicei4hE_zV-AGENjiyB4Eau_gzmtMmy8nPgGtPEtqkYIcUEAT8G1FRGZGuZo9rSy9eB2S_iCuWbXLAQG286os6gjfWviv5a0E9zOew46JiriShAs041g0BCxb2fVYSqiHQKf0X4YmahjUIvvTM4Z8n4ukCkW8Q&csui=3
+  Встречается в: universities/guangxi-normal-university.md
+https://www.google.com/search?rlz=1C1GCEA_enRU1149RU1149&cs=0&sca_esv=a1754dd2adcb8a92&sxsrf=AE3TifNSL_NXO11ASBhaf2JM_pvjDdjSsA%3A1755100782495&q=%D0%A8%D0%B0%D0%BD%D1%85%D0%B0%D0%B9%D1%81%D0%BA%D0%B8%D0%B9+%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82+%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%BD%D1%8B%D1%85+%D0%BD%D0%B0%D1%83%D0%BA&sa=X&ved=2ahUKEwji0bb1k4iPAxXLHRAIHWj1C6oQxccNegQIAxAB&mstk=AUtExfDsghhtp8pQdDej4wCuFrZ3ri9dlgzMiBQ6938EQoNrOuMzNPxVZJenWaSrtUQCLUheqT4E6W6dXIA8SqQriRFmkEufvtULnVqjI-3FK73rFpPSYpKLOcioZzFlbK8O3L_UmCj7L0yF-wT82EVj49_2Vs62T1F9OvuNse14T-MN63c&csui=3
+  Встречается в: universities/shanhajskij-universitet-elektrotehniki.md
+https://www.google.com/search?sca_esv=a1754dd2adcb8a92&rlz=1C1GCEA_enRU1149RU1149&cs=0&sxsrf=AE3TifM_WTVVItLZstC1q55BWUmnLrAXsA%3A1755101662009&q=%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82+%D0%AF%D0%BD%D1%8C%D1%88%D0%B0%D0%BD%D1%8C&sa=X&ved=2ahUKEwj3y96Yl4iPAxXpFhAIHTiHE3cQxccNegQIAhAB&mstk=AUtExfAkRKvBIYGTrrhcmO3rm7sysACNJNOR9YdXqV6AAWNdJ2PfOuNYqeIZu1sy_mL8rRNITzEIe5mtQlP0EXR5zc1HQUqluUfHClofi92quHPkshDUpLTLlThBW0E-YLm_IzSPetHniM3S8q3dIJFtgqJk3ho2zV10j2vJDDOaQjdN6i6CvYzxaIJppqLiUq2lpJ4vg1ycnwnD06F_FYf3R33W40Wqai6_a-_NRA659GR6lM_21ZuAHOZLgJwoIW_HXrwvooy5JK_jGrlk-sUdUFO1&csui=3
+  Встречается в: universities/yanshanskij-universitet.md
+https://www.google.com/search?sca_esv=a1754dd2adcb8a92&rlz=1C1GCEA_enRU1149RU1149&cs=0&sxsrf=AE3TifOz65l7uh6MVePu1p12w81i28iv2Q%3A1755102089756&q=%D1%81%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5+%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D1%8B+%D0%BB%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D1%8F&sa=X&ved=2ahUKEwiOndTkmIiPAxU4FRAIHXwhBQ4QxccNegQIBxAB&mstk=AUtExfCR45DM3JzpbFfE439b3aNoPlrE34MIVw_GecO3kvuLfjWcuNR1SnLUTUtt7XpnP5AKhjF4fX5vLWnMiy2hYVjnWc8w4Y2Gutgma8KpPIgeLI0kGDgSBEgKRIQCFWG_AwEimr2nPhF0hCmfI8PIPX51mcKnnl37fXHZqizgjUx7Hiw9dQZFPbiCgDdswX6vSyRoiE9mYF4VKLMpahQNMlSwlVap5zLufKzaxga0CX2wCb60jKcK3VQEsbJ0nvcxKeXuIDPo3tvQsJDQ3ibLD-xC&csui=3
+  Встречается в: universities/shanhajskij-universitet-traditsionnoj-kitajskoj-meditsiny.md
+https://www.gov.pl/web/nauka/
+  Встречается в: blog/sravnenie-obrazovaniya-v-raznih-stranah.md
+https://www.holoniq.com/notes/chinese-language-learning-a-7-4b-market-powered-by-over-6-million-learners-set-to-double-in-the-next-five-years
+  Встречается в: blog/perspektivy-rynka-izucheniya-yazyka-v-2024-godu.md
+https://www.kommersant.ru/doc/4713803
+  Встречается в: programs/obuchenie-v-kitae.md
+https://www.rbc.ru/economics/18/01/2021/600503c09a79470549f19781
+  Встречается в: blog/kak-ponyat-podhodit-li-vam-izuchenie-kitajskogo-yazyka.md
+https://www.studyinchina.edu.cn/
+  Встречается в: blog/kogda-nachinaetsya-ucheba-v-kitae.md, blog/universitety-v-uhane.md
+https://www.timeshighereducation.com/rankings/impact/2019/overall#!/page/0/length/25/sort_by/rank/sort_order/asc/cols/undefined
+  Встречается в: blog/kak-otpravit-rebyonka-uchitsya-v-kitaj.md
+https://www.timeshighereducation.com/world-university-rankings
+  Встречается в: blog/1100-rossijskih-shkolnikov-prinyali-uchastie-v-olimpiade-po-yazyku-ekonomike-i-kulture-kitaya.md
+https://www.timeshighereducation.com/world-university-rankings/2020/world-ranking#!/page/0/length/25/sort_by/rank/sort_order/asc/cols/stats
+  Встречается в: blog/14-punktov-polnaya-instruktsiya-po-vysshemu-obrazovaniyu-v-kitae.md, blog/na-kogo-mohno-uchitsya-v-kitae.md, blog/slojno-li-viuchit-kitaiskii-yazuk.md, blog/sravnenie-obrazovaniya-v-raznih-stranah.md, blog/stoimost-obucheniya-v-inostranom-vuze.md, blog/vishee-obrazovanie-v-azii.md
+https://www.topuniversities.com/
+  Встречается в: blog/vishee-obrazovanie-v-azii.md
+https://www.topuniversities.com/university-rankings/world-university-rankings/2018
+  Встречается в: blog/kak-otpravit-rebyonka-uchitsya-v-kitaj.md
+https://www.topuniversities.com/university-rankings/world-university-rankings/2019
+  Встречается в: blog/china-edu-razbor.md, blog/distancionnoe-obuchenie-v-inostrannyh-vuzah.md, blog/gde-luhshe-uchitsya-v-kitae.md
+https://www.topuniversities.com/university-rankings/world-university-rankings/2020
+  Встречается в: blog/sravnenie-obrazovaniya-v-raznih-stranah.md
+https://www.vestifinance.ru/articles/108804
+  Встречается в: blog/china-edu-razbor.md
+https://www.xiaohongshu.com
+  Встречается в: blog/sovety-po-izucheniyu-kitajskogo-yazyka.md
+https://www.youtube.com/embed/zB53Gf6COV8
+  Встречается в: blog/14-punktov-polnaya-instruktsiya-po-vysshemu-obrazovaniyu-v-kitae.md, programs/predmagisterskaya-podgotovka-ifp-pg.md, programs/rasshirennaya-predvuzovskaya-podgotovka-ifp.md, programs/uchitelyam.md
+https://www150.statcan.gc.ca/n1/daily-quotidien/190503/dq190503a-eng.htm
+  Встречается в: blog/naibolee-perspektivnye-specialnosti-i-gde-imi-ovladet.md
+
+============================================================
+ИТОГО:
+Всего файлов проверено: 401
+Файлов с внешними ссылками: 58
+Всего уникальных внешних ссылок: 90

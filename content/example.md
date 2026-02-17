@@ -70,7 +70,7 @@ https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
 ```
 
 {{< video-gallery id="demo" >}}
-https://www.youtube.com/embed/iLBrDXHnk6g,Demo
+https://www.youtube.com/embed/zB53Gf6COV8,Demo
 https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
 {{< /video-gallery >}}
 

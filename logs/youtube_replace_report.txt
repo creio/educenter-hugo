@@ -1,0 +1,43 @@
+Отчет о замене URL YOUTUBE
+==================================================
+Целевой URL: https://www.youtube.com/embed/zB53Gf6COV8
+==================================================
+
+Файл: /media/files/work/educenter-hugo/content/example.md
+  Заменено: https://www.youtube.com/embed/iLBrDXHnk6g → https://www.youtube.com/embed/zB53Gf6COV8
+
+Файл: /media/files/work/educenter-hugo/content/programs/uchitelyam.md
+  Заменено: https://www.youtube.com/watch?v=3Or2985KeM8 → https://www.youtube.com/embed/zB53Gf6COV8
+Файл: /media/files/work/educenter-hugo/content/programs/uchitelyam.md
+  Заменено: https://www.youtube.com/watch?v=OE1piVky0xo → https://www.youtube.com/embed/zB53Gf6COV8
+
+Файл: /media/files/work/educenter-hugo/content/programs/predmagisterskaya-podgotovka-ifp-pg.md
+  Заменено: https://www.youtube.com/watch?v=f3ajO_HXOi4 → https://www.youtube.com/embed/zB53Gf6COV8
+Файл: /media/files/work/educenter-hugo/content/programs/predmagisterskaya-podgotovka-ifp-pg.md
+  Заменено: https://www.youtube.com/watch?v=4VRg6Oa-KLg → https://www.youtube.com/embed/zB53Gf6COV8
+
+Файл: /media/files/work/educenter-hugo/content/programs/letnij-yazykovoj-lager-v-kitae-2.md
+  Заменено: https://www.youtube.com/embed/SbIRhVMRfUc → https://www.youtube.com/embed/zB53Gf6COV8
+Файл: /media/files/work/educenter-hugo/content/programs/letnij-yazykovoj-lager-v-kitae-2.md
+  Заменено: https://www.youtube.com/embed/5RrDQgG-GSI → https://www.youtube.com/embed/zB53Gf6COV8
+Файл: /media/files/work/educenter-hugo/content/programs/letnij-yazykovoj-lager-v-kitae-2.md
+  Заменено: https://www.youtube.com/embed/fDHaNBTcGT8 → https://www.youtube.com/embed/zB53Gf6COV8
+Файл: /media/files/work/educenter-hugo/content/programs/letnij-yazykovoj-lager-v-kitae-2.md
+  Заменено: https://www.youtube.com/embed/NuMm0pV4sfo → https://www.youtube.com/embed/zB53Gf6COV8
+
+Файл: /media/files/work/educenter-hugo/content/programs/rasshirennaya-predvuzovskaya-podgotovka-ifp.md
+  Заменено: https://www.youtube.com/watch?v=f3ajO_HXOi4 → https://www.youtube.com/embed/zB53Gf6COV8
+Файл: /media/files/work/educenter-hugo/content/programs/rasshirennaya-predvuzovskaya-podgotovka-ifp.md
+  Заменено: https://www.youtube.com/watch?v=4VRg6Oa-KLg → https://www.youtube.com/embed/zB53Gf6COV8
+
+Файл: /media/files/work/educenter-hugo/content/blog/14-punktov-polnaya-instruktsiya-po-vysshemu-obrazovaniyu-v-kitae.md
+  Заменено: https://youtu.be/TnN1r887lq4 → https://www.youtube.com/embed/zB53Gf6COV8
+
+Файл: /media/files/work/educenter-hugo/content/cities/nankin.md
+  Заменено: https://youtu.be/hhxyTixYpMo → https://www.youtube.com/embed/zB53Gf6COV8
+
+==================================================
+ИТОГО:
+Всего файлов проверено: 401
+Файлов с заменами: 7
+Всего заменено вхождений: 13

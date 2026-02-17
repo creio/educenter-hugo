@@ -32,10 +32,10 @@ image: "/images/programs/camp_article-e1706813238560.png"
 ## Как проходят наши лагеря
 
 {{< video-gallery >}}
-https://www.youtube.com/embed/SbIRhVMRfUc
-https://www.youtube.com/embed/5RrDQgG-GSI
-https://www.youtube.com/embed/fDHaNBTcGT8
-https://www.youtube.com/embed/NuMm0pV4sfo
+https://www.youtube.com/embed/zB53Gf6COV8
+https://www.youtube.com/embed/zB53Gf6COV8
+https://www.youtube.com/embed/zB53Gf6COV8
+https://www.youtube.com/embed/zB53Gf6COV8
 {{< /video-gallery >}}
 
 ## Описание программ

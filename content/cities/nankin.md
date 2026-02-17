@@ -7,7 +7,7 @@ draft: false
 bg_image: "/images/cities/hero_nanjing_1600x600_04_1.jpg"
 image: "/images/cities/hero_nanjing_1600x600_04_1.jpg"
 iframe_video:
-  - iframe_link: "https://youtu.be/hhxyTixYpMo"
+  - iframe_link: "https://www.youtube.com/embed/zB53Gf6COV8"
     iframe_title: ""
     iframe_img: "/images/cities/7q5_1.jpg"
 ---

@@ -112,7 +112,7 @@ image: "/images/programs/main_desc_bg.jpg"
 
 **ЛИ МЭНДИ**
 
-[Смотреть видеоотзыв](https://www.youtube.com/watch?v=3Or2985KeM8)
+[Смотреть видеоотзыв](https://www.youtube.com/embed/zB53Gf6COV8)
 
 Преподаватель китайского языка
 
@@ -130,7 +130,7 @@ image: "/images/programs/main_desc_bg.jpg"
 
 **АЛЛА КИРИЧКОВА**
 
-[Смотреть видеоотзыв](https://www.youtube.com/watch?v=OE1piVky0xo)
+[Смотреть видеоотзыв](https://www.youtube.com/embed/zB53Gf6COV8)
 
 Преподаватель китайского языка
 

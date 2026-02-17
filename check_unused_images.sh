@@ -1,22 +1,22 @@
 #!/bin/bash
 
 # Директории
-IMAGES_DIR="/media/files/work/educenter-hugo/assets/images/blog"
-CONTENT_DIR="/media/files/work/educenter-hugo/content/blog"
+IMAGES_DIR="/media/files/work/educenter-hugo/assets/images/universities"
+CONTENT_DIR="/media/files/work/educenter-hugo/content/universities"
 LOGS_DIR="/media/files/work/educenter-hugo/logs"
-LOG_FILE="$LOGS_DIR/unused_blog_images.txt"
+LOG_FILE="$LOGS_DIR/unused_universities_images.txt"
 
 # Создаем директорию logs если не существует
 mkdir -p "$LOGS_DIR"
 
-# Получаем список всех файлов в assets/images/blog
+# Получаем список всех файлов в assets/images/universities
 echo "Получение списка всех изображений..."
 mapfile -t all_images < <(find "$IMAGES_DIR" -type f -printf "%f\n" | sort)
 
 # Получаем список используемых изображений из MD файлов
-echo "Поиск используемых изображений в content/blog..."
-used_images=$(grep -rhoE '/?images/blog/[^"'\''[:space:]]*\.[a-zA-Z0-9_%-]+' "$CONTENT_DIR" --include="*.md" 2>/dev/null | \
-              sed -E 's|.*[/]?images/blog/||; s|[")].*||; s|^[[:space:]]+||; s|[[:space:]]+$||' | \
+echo "Поиск используемых изображений в content/universities..."
+used_images=$(grep -rhoE '/?images/universities/[^"'\''[:space:]]*\.[a-zA-Z0-9_%-]+' "$CONTENT_DIR" --include="*.md" 2>/dev/null | \
+              sed -E 's|.*[/]?images/universities/||; s|^[[:space:]]+||; s|[[:space:]]+$||' | \
               sort -u)
 
 # echo "$used_images"
@@ -32,7 +32,7 @@ deleted_count=0
 unused_list=$(mktemp)
 
 echo "Анализ изображений..."
-echo "Всего изображений в assets/images/blog: $total_images"
+echo "Всего изображений в assets/images/universities: $total_images"
 
 # Проверяем каждое изображение
 for img in "${all_images[@]}"; do
@@ -48,7 +48,9 @@ done
 echo "Используется: $used_count"
 echo "Не используется: $unused_count"
 
-# cat "$unused_list"
+# echo "$used_images" | grep -qxF -- 'adult-1846436_1280%20q%20'
+# cat "$unused_list" | grep "adul"
+# grep -rhoE '/?images/universities/[^"'\''[:space:]]*\.[a-zA-Z0-9_%-]+' "$CONTENT_DIR" --include="*.md" | sed -E 's|.*[/]?images/universities/||; s|^[[:space:]]+||; s|[[:space:]]+$||' | grep "adul"
 # exit
 
 # Создаем отчет
@@ -60,8 +62,8 @@ echo "Не используется: $unused_count"
     echo ""
     echo "Статистика:"
     echo "-----------"
-    echo "Всего изображений в assets/images/blog: $total_images"
-    echo "Используется в content/blog: $used_count"
+    echo "Всего изображений в assets/images/universities: $total_images"
+    echo "Используется в content/universities: $used_count"
     echo "Не используется: $unused_count"
     echo ""
     echo "========================================"

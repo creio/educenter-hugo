@@ -167,11 +167,13 @@
         <div class="col-md-5 d-flex align-items-center justify-content-center justify-content-md-end justify-content-sm-center text-center">
           <ul class="list-inline">
             {{ range site.Params.social }}
-            <li class="list-inline-item">
-              <a class="d-inline-block icon" href="{{ .link | safeURL }}">
-                {{ .icon | safeHTML }}
-              </a>
-            </li>
+              {{ if .link }}
+              <li class="list-inline-item">
+                <a class="d-inline-block icon" href="{{ .link | safeURL }}">
+                  {{ .icon | safeHTML }}
+                </a>
+              </li>
+              {{ end }}
 
             {{/*<li class="list-inline-item"><a class="d-inline-block p-2" href="{{ .link | safeURL }}"><i class="{{ .icon }} text-primary"></i></a></li>*/}}
             {{ end }}

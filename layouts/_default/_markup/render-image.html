@@ -5,7 +5,11 @@
   {{- $image := .Page.Resources.GetMatch $src -}}
   {{- if $image -}}
     {{- $resized := $image.Resize "825x" -}}
-    <img src="{{ $resized.RelPermalink }}" alt="{{ .Text }}" class="img-fluid">
+    {{- $dir := path.Dir $resized.RelPermalink -}}
+    {{- $base := path.Base $resized.RelPermalink -}}
+    {{- $fixedBase := $base | replaceRE "%" "%25" | replaceRE `\\` "%5C" -}}
+    {{- $fixedURL := printf "%s/%s" $dir $fixedBase -}}
+    <img src="{{ $fixedURL }}" alt="{{ .Text }}" class="img-fluid">
   {{- else -}}
     <!-- Fallback: если не найдено рядом -->
     <img src="{{ $src | relURL }}" alt="{{ .Text }}" class="img-fluid">
@@ -16,7 +20,11 @@
   {{- $image := resources.Get $relPath -}}
   {{- if $image -}}
     {{- $resized := $image.Resize "825x" -}}
-    <img src="{{ $resized.RelPermalink }}" alt="{{ .Text }}" class="img-fluid">
+    {{- $dir := path.Dir $resized.RelPermalink -}}
+    {{- $base := path.Base $resized.RelPermalink -}}
+    {{- $fixedBase := $base | replaceRE "%" "%25" | replaceRE `\\` "%5C" -}}
+    {{- $fixedURL := printf "%s/%s" $dir $fixedBase -}}
+    <img src="{{ $fixedURL }}" alt="{{ .Text }}" class="img-fluid">
   {{- else -}}
     <!-- Fallback: если не найдено в assets -->
     <img src="{{ $src | absURL }}" alt="{{ .Text }}" class="img-fluid">

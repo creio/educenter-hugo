@@ -139,7 +139,7 @@ image: "/images/programs/Artice-3_har_1.jpg"
 ## Что мы знаем о Китае?
 
 {{< video-gallery >}}
-https://rutube.ru/play/embed/383d36364f5a49627c18b29dfbac97ee/
-https://rutube.ru/play/embed/cc9457dd51aa734d0d4f7070eefc77da/
-https://rutube.ru/play/embed/8ddb5c34b32ebb8f2fec03668791bd38/
+https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
 {{< /video-gallery >}}

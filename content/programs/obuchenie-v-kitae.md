@@ -200,7 +200,7 @@ image: "/images/programs/whychina-main-bg1.jpg"
 ## Что мы знаем о Китае?
 
 {{< video-gallery >}}
-https://rutube.ru/play/embed/6e8a82f647639e752b3ebc6739fffed8/
+https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
 {{< /video-gallery >}}
 
 ## Как готовиться к поступлению

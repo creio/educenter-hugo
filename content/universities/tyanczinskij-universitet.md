@@ -7,13 +7,13 @@ draft: false
 bg_image: "/images/universities/tju6-1.jpg"
 image: "/images/universities/tju6-1.jpg"
 iframe_video:
-  - iframe_link: "https://rutube.ru/play/embed/95eed8c9e3fa4902161a0328516d38ad/"
+  - iframe_link: "https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/"
     iframe_title: "Видео-тур по Таньцзиньскому Университету"
     iframe_img: "images/universities/video_preview_077cf4b6.jpg"
-  - iframe_link: "https://rutube.ru/play/embed/6d93db58fbed4db9a15843bd9357dbff/"
+  - iframe_link: "https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/"
     iframe_title: "Как выглядит китайский вуз?"
     iframe_img: "images/universities/video_preview_262344ad.jpg"
-  - iframe_link: "https://rutube.ru/play/embed/20d7117c3a257b10f45802c1af4c4728"
+  - iframe_link: "https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/"
     iframe_title: "START GLOBAL, START WITH CHINA"
     iframe_img: "images/universities/video_preview_1d0ce94b.jpg"
 ---

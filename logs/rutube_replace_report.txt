@@ -1,0 +1,367 @@
+Отчет о замене URL RUTUBE
+==================================================
+Целевой URL: https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+==================================================
+
+Файл: /media/files/work/educenter-hugo/content/example.md
+  Заменено: https://rutube.ru/play/embed/95eed8c9e3fa4902161a0328516d38ad/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/example.md
+  Заменено: https://rutube.ru/play/embed/6d93db58fbed4db9a15843bd9357dbff/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/example.md
+  Заменено: https://rutube.ru/play/embed/20d7117c3a257b10f45802c1af4c4728 → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/example.md
+  Заменено: https://rutube.ru/play/embed/95eed8c9e3fa4902161a0328516d38ad/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/example.md
+  Заменено: https://rutube.ru/play/embed/95eed8c9e3fa4902161a0328516d38ad/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/example.md
+  Заменено: https://rutube.ru/play/embed/95eed8c9e3fa4902161a0328516d38ad/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/example.md
+  Заменено: https://rutube.ru/play/embed/95eed8c9e3fa4902161a0328516d38ad/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/example.md
+  Заменено: https://rutube.ru/play/embed/95eed8c9e3fa4902161a0328516d38ad/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/example.md
+  Заменено: https://rutube.ru/play/embed/95eed8c9e3fa4902161a0328516d38ad/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/example.md
+  Заменено: https://rutube.ru/play/embed/6d93db58fbed4db9a15843bd9357dbff/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/example.md
+  Заменено: https://rutube.ru/play/embed/20d7117c3a257b10f45802c1af4c4728 → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+
+Файл: /media/files/work/educenter-hugo/content/about.md
+  Заменено: https://rutube.ru/play/embed/42eac7bf07affb154df6c2a034a14a15/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/about.md
+  Заменено: https://rutube.ru/play/embed/23040ab3928807fc1f7454738eb5c19b/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/about.md
+  Заменено: https://rutube.ru/play/embed/cdf6c33b0726a7e64e735759a38ed186/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+
+Файл: /media/files/work/educenter-hugo/content/programs/stagirovka-v-kitae.md
+  Заменено: https://rutube.ru/play/embed/383d36364f5a49627c18b29dfbac97ee/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/programs/stagirovka-v-kitae.md
+  Заменено: https://rutube.ru/play/embed/6e8a82f647639e752b3ebc6739fffed8/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+
+Файл: /media/files/work/educenter-hugo/content/programs/granty.md
+  Заменено: https://rutube.ru/play/embed/89a804a13b910c9ce711962706f20b4e/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/programs/granty.md
+  Заменено: https://rutube.ru/play/embed/198a290967fb72ccdef391c5ec1318c6/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/programs/granty.md
+  Заменено: https://rutube.ru/play/embed/b737bcbb71bef97568afe83e0006612e/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+
+Файл: /media/files/work/educenter-hugo/content/programs/internships.md
+  Заменено: https://rutube.ru/play/embed/383d36364f5a49627c18b29dfbac97ee/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/programs/internships.md
+  Заменено: https://rutube.ru/play/embed/cc9457dd51aa734d0d4f7070eefc77da/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/programs/internships.md
+  Заменено: https://rutube.ru/play/embed/8ddb5c34b32ebb8f2fec03668791bd38/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+
+Файл: /media/files/work/educenter-hugo/content/programs/obuchenie-v-kitae.md
+  Заменено: https://rutube.ru/play/embed/6e8a82f647639e752b3ebc6739fffed8/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+
+Файл: /media/files/work/educenter-hugo/content/programs/profilnye_klassy_ifp_russia.md
+  Заменено: https://rutube.ru/play/embed/d219f727b5c0422b43bceae09896cd2d/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/programs/profilnye_klassy_ifp_russia.md
+  Заменено: https://rutube.ru/play/embed/a68bbe9918c9feb3545c8a5cfa93de04/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/programs/profilnye_klassy_ifp_russia.md
+  Заменено: https://rutube.ru/play/embed/24353fe0f3cb751a3caa1cd65a77687b/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/programs/profilnye_klassy_ifp_russia.md
+  Заменено: https://rutube.ru/play/embed/7b4ef7ec31e7836a44287f2476c7b2d7/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/programs/profilnye_klassy_ifp_russia.md
+  Заменено: https://rutube.ru/play/embed/6e8a82f647639e752b3ebc6739fffed8/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/programs/profilnye_klassy_ifp_russia.md
+  Заменено: https://rutube.ru/play/embed/38316c532cdf4fce3cd60ce16a0a74d0/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+
+Файл: /media/files/work/educenter-hugo/content/programs/zimnij-yazykovoj-lager-v-kitae.md
+  Заменено: https://rutube.ru/play/embed/07bc91de5be6d4c70e849c5ad27d2e00/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/programs/zimnij-yazykovoj-lager-v-kitae.md
+  Заменено: https://rutube.ru/play/embed/c454ff2cacb10034f1f4d7e240d3d89a/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/programs/zimnij-yazykovoj-lager-v-kitae.md
+  Заменено: https://rutube.ru/play/embed/f951f806f73474b907dd576b240bf0ab/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/programs/zimnij-yazykovoj-lager-v-kitae.md
+  Заменено: https://rutube.ru/play/embed/679b806e2756f541ae15305ddf99f52b/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+
+Файл: /media/files/work/educenter-hugo/content/universities/shanhajskij-universitet-traditsionnoj-kitajskoj-meditsiny.md
+  Заменено: https://rutube.ru/play/embed/6d93db58fbed4db9a15843bd9357dbff/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/universities/shanhajskij-universitet-traditsionnoj-kitajskoj-meditsiny.md
+  Заменено: https://rutube.ru/play/embed/20d7117c3a257b10f45802c1af4c4728 → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+
+Файл: /media/files/work/educenter-hugo/content/universities/shanhajskij-transportnyj-universitet.md
+  Заменено: https://rutube.ru/play/embed/b2567e6c6adebe42b28b6404a783f65e → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/universities/shanhajskij-transportnyj-universitet.md
+  Заменено: https://rutube.ru/play/embed/6d93db58fbed4db9a15843bd9357dbff → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/universities/shanhajskij-transportnyj-universitet.md
+  Заменено: https://rutube.ru/play/embed/20d7117c3a257b10f45802c1af4c4728 → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+
+Файл: /media/files/work/educenter-hugo/content/universities/anhojskij-universitet-tehnologij.md
+  Заменено: https://rutube.ru/play/embed/6d93db58fbed4db9a15843bd9357dbff/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/universities/anhojskij-universitet-tehnologij.md
+  Заменено: https://rutube.ru/play/embed/20d7117c3a257b10f45802c1af4c4728 → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+
+Файл: /media/files/work/educenter-hugo/content/universities/tyanczinskij-universitet.md
+  Заменено: https://rutube.ru/play/embed/95eed8c9e3fa4902161a0328516d38ad/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/universities/tyanczinskij-universitet.md
+  Заменено: https://rutube.ru/play/embed/6d93db58fbed4db9a15843bd9357dbff/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/universities/tyanczinskij-universitet.md
+  Заменено: https://rutube.ru/play/embed/20d7117c3a257b10f45802c1af4c4728 → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+
+Файл: /media/files/work/educenter-hugo/content/universities/pekinskij-universitet-inostrannyh-yazykov.md
+  Заменено: https://rutube.ru/play/embed/41d32270fcbbf7503757952e690f208a → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/universities/pekinskij-universitet-inostrannyh-yazykov.md
+  Заменено: https://rutube.ru/play/embed/6d93db58fbed4db9a15843bd9357dbff/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/universities/pekinskij-universitet-inostrannyh-yazykov.md
+  Заменено: https://rutube.ru/play/embed/20d7117c3a257b10f45802c1af4c4728 → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+
+Файл: /media/files/work/educenter-hugo/content/universities/universitet-czyansu.md
+  Заменено: https://rutube.ru/play/embed/9ab43203366a3c11af4de1a196ca5bf0 → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/universities/universitet-czyansu.md
+  Заменено: https://rutube.ru/play/embed/dc4e6ee8952236481a120df15eee6d01/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/universities/universitet-czyansu.md
+  Заменено: https://rutube.ru/play/embed/506ef6ed04a6b5a1eb1ff87dde6578c7/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/universities/universitet-czyansu.md
+  Заменено: https://rutube.ru/play/embed/20d7117c3a257b10f45802c1af4c4728/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+
+Файл: /media/files/work/educenter-hugo/content/universities/yanshanskij-universitet.md
+  Заменено: https://rutube.ru/play/embed/6d93db58fbed4db9a15843bd9357dbff/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/universities/yanshanskij-universitet.md
+  Заменено: https://rutube.ru/play/embed/20d7117c3a257b10f45802c1af4c4728 → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+
+Файл: /media/files/work/educenter-hugo/content/universities/kitajskij-neftyanoj-universitet.md
+  Заменено: https://rutube.ru/play/embed/db314d25cadbdd2359620b9009f03f6e → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/universities/kitajskij-neftyanoj-universitet.md
+  Заменено: https://rutube.ru/play/embed/6d93db58fbed4db9a15843bd9357dbff → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/universities/kitajskij-neftyanoj-universitet.md
+  Заменено: https://rutube.ru/play/embed/20d7117c3a257b10f45802c1af4c4728 → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+
+Файл: /media/files/work/educenter-hugo/content/universities/shanhajskij-pedagogicheskij-universitet.md
+  Заменено: https://rutube.ru/play/embed/6d93db58fbed4db9a15843bd9357dbff/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/universities/shanhajskij-pedagogicheskij-universitet.md
+  Заменено: https://rutube.ru/play/embed/20d7117c3a257b10f45802c1af4c4728 → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+
+Файл: /media/files/work/educenter-hugo/content/universities/pekinskij-pedagogicheskij-universitet.md
+  Заменено: https://rutube.ru/play/embed/6d93db58fbed4db9a15843bd9357dbff/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/universities/pekinskij-pedagogicheskij-universitet.md
+  Заменено: https://rutube.ru/play/embed/20d7117c3a257b10f45802c1af4c4728 → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+
+Файл: /media/files/work/educenter-hugo/content/universities/bejhanskij-universitet.md
+  Заменено: https://rutube.ru/play/embed/1f3138b6e3af2db5c82229ad6809924b → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/universities/bejhanskij-universitet.md
+  Заменено: https://rutube.ru/play/embed/6d93db58fbed4db9a15843bd9357dbff → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/universities/bejhanskij-universitet.md
+  Заменено: https://rutube.ru/play/embed/20d7117c3a257b10f45802c1af4c4728 → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+
+Файл: /media/files/work/educenter-hugo/content/universities/zhejiang-gongshang-university.md
+  Заменено: https://rutube.ru/play/embed/6d93db58fbed4db9a15843bd9357dbff/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/universities/zhejiang-gongshang-university.md
+  Заменено: https://rutube.ru/play/embed/20d7117c3a257b10f45802c1af4c4728 → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+
+Файл: /media/files/work/educenter-hugo/content/universities/shanhajskij-universitet.md
+  Заменено: https://rutube.ru/play/embed/7a3ebdd03d4970c878c664cf99518c87 → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/universities/shanhajskij-universitet.md
+  Заменено: https://rutube.ru/play/embed/6d93db58fbed4db9a15843bd9357dbff/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/universities/shanhajskij-universitet.md
+  Заменено: https://rutube.ru/play/embed/20d7117c3a257b10f45802c1af4c4728 → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+
+Файл: /media/files/work/educenter-hugo/content/universities/stolichnyj-universitet-ekonomiki-i-biznesa.md
+  Заменено: https://rutube.ru/play/embed/bf6b44c52be5f0cfa0af01adddae0e2b → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/universities/stolichnyj-universitet-ekonomiki-i-biznesa.md
+  Заменено: https://rutube.ru/play/embed/6d93db58fbed4db9a15843bd9357dbff/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/universities/stolichnyj-universitet-ekonomiki-i-biznesa.md
+  Заменено: https://rutube.ru/play/embed/20d7117c3a257b10f45802c1af4c4728 → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+
+Файл: /media/files/work/educenter-hugo/content/universities/universitet-fudan.md
+  Заменено: https://rutube.ru/play/embed/6d93db58fbed4db9a15843bd9357dbff → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/universities/universitet-fudan.md
+  Заменено: https://rutube.ru/play/embed/20d7117c3a257b10f45802c1af4c4728 → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+
+Файл: /media/files/work/educenter-hugo/content/universities/universitet-gujchzhou.md
+  Заменено: https://rutube.ru/play/embed/6d93db58fbed4db9a15843bd9357dbff → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/universities/universitet-gujchzhou.md
+  Заменено: https://rutube.ru/play/embed/20d7117c3a257b10f45802c1af4c4728 → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+
+Файл: /media/files/work/educenter-hugo/content/universities/chzhetszyanskij-universitet.md
+  Заменено: https://rutube.ru/play/embed/6d93db58fbed4db9a15843bd9357dbff/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/universities/chzhetszyanskij-universitet.md
+  Заменено: https://rutube.ru/play/embed/20d7117c3a257b10f45802c1af4c4728 → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+
+Файл: /media/files/work/educenter-hugo/content/universities/universitet-mezhdunarodnogo-biznesa-i-ekonomiki.md
+  Заменено: https://rutube.ru/play/embed/7951f07d8a9dd0c2ead9d9d3a5a49e25 → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/universities/universitet-mezhdunarodnogo-biznesa-i-ekonomiki.md
+  Заменено: https://rutube.ru/play/embed/6d93db58fbed4db9a15843bd9357dbff/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/universities/universitet-mezhdunarodnogo-biznesa-i-ekonomiki.md
+  Заменено: https://rutube.ru/play/embed/20d7117c3a257b10f45802c1af4c4728 → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+
+Файл: /media/files/work/educenter-hugo/content/universities/shanhajskij-universitet-elektrotehniki.md
+  Заменено: https://rutube.ru/play/embed/6d93db58fbed4db9a15843bd9357dbff/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/universities/shanhajskij-universitet-elektrotehniki.md
+  Заменено: https://rutube.ru/play/embed/20d7117c3a257b10f45802c1af4c4728 → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+
+Файл: /media/files/work/educenter-hugo/content/universities/yuzhnyj-meditsinskij-universitet.md
+  Заменено: https://rutube.ru/play/embed/6d93db58fbed4db9a15843bd9357dbff/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/universities/yuzhnyj-meditsinskij-universitet.md
+  Заменено: https://rutube.ru/play/embed/20d7117c3a257b10f45802c1af4c4728 → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+
+Файл: /media/files/work/educenter-hugo/content/universities/nankajskij-universitet.md
+  Заменено: https://rutube.ru/play/embed/afb36cd5b9ce2ac5f1b7460aec9da9e9/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/universities/nankajskij-universitet.md
+  Заменено: https://rutube.ru/play/embed/6d93db58fbed4db9a15843bd9357dbff → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/universities/nankajskij-universitet.md
+  Заменено: https://rutube.ru/play/embed/20d7117c3a257b10f45802c1af4c4728 → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+
+Файл: /media/files/work/educenter-hugo/content/universities/hejluntszyanskij-universitet.md
+  Заменено: https://rutube.ru/play/embed/a1f67d0c50ec7cf50691dfb6ca92da25 → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/universities/hejluntszyanskij-universitet.md
+  Заменено: https://rutube.ru/play/embed/46f5ed0ba491849a0a8cc674c434b8f0 → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/universities/hejluntszyanskij-universitet.md
+  Заменено: https://rutube.ru/play/embed/6d93db58fbed4db9a15843bd9357dbff/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/universities/hejluntszyanskij-universitet.md
+  Заменено: https://rutube.ru/play/embed/20d7117c3a257b10f45802c1af4c4728 → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+
+Файл: /media/files/work/educenter-hugo/content/universities/sianskij-transportnyj-universitet.md
+  Заменено: https://rutube.ru/play/embed/6d93db58fbed4db9a15843bd9357dbff → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/universities/sianskij-transportnyj-universitet.md
+  Заменено: https://rutube.ru/play/embed/20d7117c3a257b10f45802c1af4c4728 → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+
+Файл: /media/files/work/educenter-hugo/content/universities/universitet-bejhua.md
+  Заменено: https://rutube.ru/play/embed/6d93db58fbed4db9a15843bd9357dbff/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/universities/universitet-bejhua.md
+  Заменено: https://rutube.ru/play/embed/20d7117c3a257b10f45802c1af4c4728 → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+
+Файл: /media/files/work/educenter-hugo/content/universities/chanchunskij-universitet-nauki-i-tehnologii.md
+  Заменено: https://rutube.ru/play/embed/6d93db58fbed4db9a15843bd9357dbff/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/universities/chanchunskij-universitet-nauki-i-tehnologii.md
+  Заменено: https://rutube.ru/play/embed/20d7117c3a257b10f45802c1af4c4728 → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+
+Файл: /media/files/work/educenter-hugo/content/universities/shanhajskij-universitet-politiki-i-prava.md
+  Заменено: https://rutube.ru/play/embed/c0c3f32df349313212d2e7fcc0b7a836 → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/universities/shanhajskij-universitet-politiki-i-prava.md
+  Заменено: https://rutube.ru/play/embed/6d93db58fbed4db9a15843bd9357dbff/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/universities/shanhajskij-universitet-politiki-i-prava.md
+  Заменено: https://rutube.ru/play/embed/20d7117c3a257b10f45802c1af4c4728 → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+
+Файл: /media/files/work/educenter-hugo/content/universities/pekinskij-transportnyj-universitet.md
+  Заменено: https://rutube.ru/play/embed/f5a772f316fe9feb2d1cf9bbf93c34b0 → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/universities/pekinskij-transportnyj-universitet.md
+  Заменено: https://rutube.ru/play/embed/35e8967bd3ec7208adbac05be93987bf → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/universities/pekinskij-transportnyj-universitet.md
+  Заменено: https://rutube.ru/play/embed/6d93db58fbed4db9a15843bd9357dbff/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+
+Файл: /media/files/work/educenter-hugo/content/universities/lanzhou-university-of-technology.md
+  Заменено: https://rutube.ru/play/embed/6d93db58fbed4db9a15843bd9357dbff/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/universities/lanzhou-university-of-technology.md
+  Заменено: https://rutube.ru/play/embed/20d7117c3a257b10f45802c1af4c4728 → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+
+Файл: /media/files/work/educenter-hugo/content/universities/tyantszinskij-gradostroitelnyj-universitet.md
+  Заменено: https://rutube.ru/play/embed/6d93db58fbed4db9a15843bd9357dbff/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/universities/tyantszinskij-gradostroitelnyj-universitet.md
+  Заменено: https://rutube.ru/play/embed/20d7117c3a257b10f45802c1af4c4728 → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+
+Файл: /media/files/work/educenter-hugo/content/universities/yugo-vostochnyj-universitet.md
+  Заменено: https://rutube.ru/play/embed/6d93db58fbed4db9a15843bd9357dbff/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/universities/yugo-vostochnyj-universitet.md
+  Заменено: https://rutube.ru/play/embed/20d7117c3a257b10f45802c1af4c4728 → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+
+Файл: /media/files/work/educenter-hugo/content/universities/sianskij-neftehimicheskij-universitet.md
+  Заменено: https://rutube.ru/play/embed/f76825fa7ae57bd08c529c356f4043e5/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/universities/sianskij-neftehimicheskij-universitet.md
+  Заменено: https://rutube.ru/play/embed/6d93db58fbed4db9a15843bd9357dbff → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/universities/sianskij-neftehimicheskij-universitet.md
+  Заменено: https://rutube.ru/play/embed/20d7117c3a257b10f45802c1af4c4728 → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+
+Файл: /media/files/work/educenter-hugo/content/universities/sianskij-universitet-elektronnyh-nauk-i-tehnologij.md
+  Заменено: https://rutube.ru/play/embed/6d93db58fbed4db9a15843bd9357dbff/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/universities/sianskij-universitet-elektronnyh-nauk-i-tehnologij.md
+  Заменено: https://rutube.ru/play/embed/20d7117c3a257b10f45802c1af4c4728 → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+
+Файл: /media/files/work/educenter-hugo/content/universities/south-china-university-of-technology.md
+  Заменено: https://rutube.ru/play/embed/6d93db58fbed4db9a15843bd9357dbff/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/universities/south-china-university-of-technology.md
+  Заменено: https://rutube.ru/play/embed/20d7117c3a257b10f45802c1af4c4728 → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+
+Файл: /media/files/work/educenter-hugo/content/universities/shandunskij-universitet.md
+  Заменено: https://rutube.ru/play/embed/6d93db58fbed4db9a15843bd9357dbff → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/universities/shandunskij-universitet.md
+  Заменено: https://rutube.ru/play/embed/20d7117c3a257b10f45802c1af4c4728 → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+
+Файл: /media/files/work/educenter-hugo/content/universities/northeast-normal-university.md
+  Заменено: https://rutube.ru/play/embed/6d93db58fbed4db9a15843bd9357dbff/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/universities/northeast-normal-university.md
+  Заменено: https://rutube.ru/play/embed/20d7117c3a257b10f45802c1af4c4728 → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+
+Файл: /media/files/work/educenter-hugo/content/universities/nanjing-agricultural-university.md
+  Заменено: https://rutube.ru/play/embed/6d93db58fbed4db9a15843bd9357dbff/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/universities/nanjing-agricultural-university.md
+  Заменено: https://rutube.ru/play/embed/20d7117c3a257b10f45802c1af4c4728 → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+
+Файл: /media/files/work/educenter-hugo/content/universities/sichuan-university.md
+  Заменено: https://rutube.ru/play/embed/6d93db58fbed4db9a15843bd9357dbff/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/universities/sichuan-university.md
+  Заменено: https://rutube.ru/play/embed/20d7117c3a257b10f45802c1af4c4728 → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+
+Файл: /media/files/work/educenter-hugo/content/universities/abs-hangzhou-normal-university.md
+  Заменено: https://rutube.ru/play/embed/6d93db58fbed4db9a15843bd9357dbff/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/universities/abs-hangzhou-normal-university.md
+  Заменено: https://rutube.ru/play/embed/20d7117c3a257b10f45802c1af4c4728 → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+
+Файл: /media/files/work/educenter-hugo/content/universities/chzhetszyanskij-universitet-finansov-i-ekonomiki.md
+  Заменено: https://rutube.ru/play/embed/6d93db58fbed4db9a15843bd9357dbff/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/universities/chzhetszyanskij-universitet-finansov-i-ekonomiki.md
+  Заменено: https://rutube.ru/play/embed/20d7117c3a257b10f45802c1af4c4728 → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+
+Файл: /media/files/work/educenter-hugo/content/universities/severo-zapadnyj-politehnicheskij-universitet.md
+  Заменено: https://rutube.ru/play/embed/f4d08b3015f924968c0299b1d5c13f0d/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/universities/severo-zapadnyj-politehnicheskij-universitet.md
+  Заменено: https://rutube.ru/play/embed/6d93db58fbed4db9a15843bd9357dbff → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/universities/severo-zapadnyj-politehnicheskij-universitet.md
+  Заменено: https://rutube.ru/play/embed/20d7117c3a257b10f45802c1af4c4728 → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+
+Файл: /media/files/work/educenter-hugo/content/universities/kitajskij-universitet-geologo-geofizicheskih-issledovanij.md
+  Заменено: https://rutube.ru/play/embed/6d93db58fbed4db9a15843bd9357dbff/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/universities/kitajskij-universitet-geologo-geofizicheskih-issledovanij.md
+  Заменено: https://rutube.ru/play/embed/20d7117c3a257b10f45802c1af4c4728 → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+
+Файл: /media/files/work/educenter-hugo/content/universities/guangxi-normal-university.md
+  Заменено: https://rutube.ru/play/embed/6d93db58fbed4db9a15843bd9357dbff/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/universities/guangxi-normal-university.md
+  Заменено: https://rutube.ru/play/embed/20d7117c3a257b10f45802c1af4c4728 → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+
+Файл: /media/files/work/educenter-hugo/content/universities/harbinskij-institut-tehnologij.md
+  Заменено: https://rutube.ru/play/embed/121bdac9c2780c91639e2ae1c2449b3e → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/universities/harbinskij-institut-tehnologij.md
+  Заменено: https://rutube.ru/play/embed/3e0c11248ce898f4b37d84eb1eb6bb83 → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/universities/harbinskij-institut-tehnologij.md
+  Заменено: https://rutube.ru/play/embed/8ac407bddd797d53e8f342fc053b7599 → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+
+Файл: /media/files/work/educenter-hugo/content/cities/shanhaj.md
+  Заменено: https://rutube.ru/play/embed/775d3b07244c351a19fe24103eae5982/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/cities/shanhaj.md
+  Заменено: https://rutube.ru/play/embed/c3185df1436390a11c73944e8e7b91a7 → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+
+Файл: /media/files/work/educenter-hugo/content/cities/hanchzhou.md
+  Заменено: https://rutube.ru/play/embed/730bf3e4c3abe0c4c4fdb267ca8432d2/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/cities/hanchzhou.md
+  Заменено: https://rutube.ru/play/embed/cfaabd41f90c1cea5cc7a48b6f2d8702/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+
+Файл: /media/files/work/educenter-hugo/content/cities/pekin.md
+  Заменено: https://rutube.ru/play/embed/c7bba8797708efd66e1b396d6b98e647 → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/cities/pekin.md
+  Заменено: https://rutube.ru/play/embed/41d32270fcbbf7503757952e690f208a → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+
+Файл: /media/files/work/educenter-hugo/content/cities/guanchzhou.md
+  Заменено: https://rutube.ru/play/embed/07bc91de5be6d4c70e849c5ad27d2e00/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+
+Файл: /media/files/work/educenter-hugo/content/cities/chzhenczyan.md
+  Заменено: https://rutube.ru/play/embed/9ab43203366a3c11af4de1a196ca5bf0/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+
+Файл: /media/files/work/educenter-hugo/content/cities/tyanczin.md
+  Заменено: https://rutube.ru/play/embed/6ed216b5d3af8cc2704acf8862e72a03 → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+
+Файл: /media/files/work/educenter-hugo/content/cities/harbin.md
+  Заменено: https://rutube.ru/play/embed/8ac407bddd797d53e8f342fc053b7599/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+Файл: /media/files/work/educenter-hugo/content/cities/harbin.md
+  Заменено: https://rutube.ru/play/embed/121bdac9c2780c91639e2ae1c2449b3e/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+
+Файл: /media/files/work/educenter-hugo/content/cities/sian.md
+  Заменено: https://rutube.ru/play/embed/2898e30403925b0b714d279a9ed240ff/ → https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+
+==================================================
+ИТОГО:
+Всего файлов проверено: 402
+Файлов с заменами: 59
+Всего заменено вхождений: 149

@@ -188,12 +188,12 @@ PandaIQ.ru Community
 ## Видео
 
 {{< video-gallery >}}
-https://rutube.ru/play/embed/d219f727b5c0422b43bceae09896cd2d/
-https://rutube.ru/play/embed/a68bbe9918c9feb3545c8a5cfa93de04/
-https://rutube.ru/play/embed/24353fe0f3cb751a3caa1cd65a77687b/
-https://rutube.ru/play/embed/7b4ef7ec31e7836a44287f2476c7b2d7/
-https://rutube.ru/play/embed/6e8a82f647639e752b3ebc6739fffed8/
-https://rutube.ru/play/embed/38316c532cdf4fce3cd60ce16a0a74d0/
+https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
 {{< /video-gallery >}}
 
 ## Примеры вузов, куда Вы сможете поступить

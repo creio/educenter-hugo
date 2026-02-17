@@ -122,7 +122,7 @@ IFP-центры в Китае — это подготовительные по�
 ## Видео
 
 {{< video-gallery >}}
-https://rutube.ru/play/embed/42eac7bf07affb154df6c2a034a14a15/
-https://rutube.ru/play/embed/23040ab3928807fc1f7454738eb5c19b/
-https://rutube.ru/play/embed/cdf6c33b0726a7e64e735759a38ed186/
+https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
 {{< /video-gallery >}}

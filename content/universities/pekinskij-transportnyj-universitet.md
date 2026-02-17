@@ -7,13 +7,13 @@ draft: false
 bg_image: "/images/universities/Pekinskij-Transportnyj-oblozhka-2.jpg"
 image: "/images/universities/Pekinskij-Transportnyj-oblozhka-2.jpg"
 iframe_video:
-  - iframe_link: "https://rutube.ru/play/embed/f5a772f316fe9feb2d1cf9bbf93c34b0"
+  - iframe_link: "https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/"
     iframe_title: "Общага, иероглифы, конфуз и безопасность"
     iframe_img: "images/universities/video_preview_d5cace9b.png"
-  - iframe_link: "https://rutube.ru/play/embed/35e8967bd3ec7208adbac05be93987bf"
+  - iframe_link: "https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/"
     iframe_title: "Видео-тур по Пекинскому транспортному университету"
     iframe_img: "images/universities/video_preview_7cccd6c9.jpg"
-  - iframe_link: "https://rutube.ru/play/embed/6d93db58fbed4db9a15843bd9357dbff/"
+  - iframe_link: "https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/"
     iframe_title: "Как выглядит китайский вуз?"
     iframe_img: "images/universities/video_preview_262344ad.jpg"
 ---

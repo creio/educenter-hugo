@@ -187,9 +187,9 @@ IFP — это скоростной маршрут к университетам
 ## Видео про гранты на обучение в Китае
 
 {{< video-gallery >}}
-https://rutube.ru/play/embed/89a804a13b910c9ce711962706f20b4e/
-https://rutube.ru/play/embed/198a290967fb72ccdef391c5ec1318c6/
-https://rutube.ru/play/embed/b737bcbb71bef97568afe83e0006612e/
+https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
 {{< /video-gallery >}}
 
 ## Как получить грант в Китае на магистратуру и бакалавриат

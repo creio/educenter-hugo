@@ -7,10 +7,10 @@ draft: false
 bg_image: "/images/cities/MAD_Harbin_Opera_House_001_-Hufton_Crow_1.jpg"
 image: "/images/cities/MAD_Harbin_Opera_House_001_-Hufton_Crow_1.jpg"
 iframe_video:
-  - iframe_link: "https://rutube.ru/play/embed/8ac407bddd797d53e8f342fc053b7599/"
+  - iframe_link: "https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/"
     iframe_title: ""
     iframe_img: "/images/cities/Screenshot_3_1.png"
-  - iframe_link: "https://rutube.ru/play/embed/121bdac9c2780c91639e2ae1c2449b3e/"
+  - iframe_link: "https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/"
     iframe_title: ""
     iframe_img: "/images/cities/Screenshot_4_1.png"
 ---

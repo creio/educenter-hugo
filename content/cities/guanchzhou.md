@@ -7,7 +7,7 @@ draft: false
 bg_image: "/images/cities/guangzhou_panorama_photo_1-c2db_1400x788_1.jpg"
 image: "/images/cities/guangzhou_panorama_photo_1-c2db_1400x788_1.jpg"
 iframe_video:
-  - iframe_link: "https://rutube.ru/play/embed/07bc91de5be6d4c70e849c5ad27d2e00/"
+  - iframe_link: "https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/"
     iframe_title: ""
     iframe_img: "/images/cities/7q5_1.jpg"
 ---

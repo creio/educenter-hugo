@@ -7,7 +7,7 @@ draft: false
 bg_image: "/images/cities/Tianjin.original.4557-2-1-e1553261194929_1.jpg"
 image: "/images/cities/Tianjin.original.4557-2-1-e1553261194929_1.jpg"
 iframe_video:
-  - iframe_link: "https://rutube.ru/play/embed/6ed216b5d3af8cc2704acf8862e72a03"
+  - iframe_link: "https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/"
     iframe_title: "Обзор Тяньцзиньского университета"
     iframe_img: "/images/cities/x3fj477w8b2gmgqo0wd0zq9dtx2um82g-e1741695379590_1.jpg"
 ---

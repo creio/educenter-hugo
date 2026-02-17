@@ -7,13 +7,13 @@ draft: false
 bg_image: "/images/universities/QQ-20160426150437.png"
 image: "/images/universities/QQ-20160426150437.png"
 iframe_video:
-  - iframe_link: "https://rutube.ru/play/embed/f76825fa7ae57bd08c529c356f4043e5/"
+  - iframe_link: "https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/"
     iframe_title: "Видео-тур по Сианьскому нефтехимическому университету"
     iframe_img: "images/universities/video_preview_bb207221.png"
-  - iframe_link: "https://rutube.ru/play/embed/6d93db58fbed4db9a15843bd9357dbff"
+  - iframe_link: "https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/"
     iframe_title: "Как выглядит китайский вуз?"
     iframe_img: "images/universities/video_preview_262344ad.jpg"
-  - iframe_link: "https://rutube.ru/play/embed/20d7117c3a257b10f45802c1af4c4728"
+  - iframe_link: "https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/"
     iframe_title: "START GLOBAL, START WITH CHINA"
     iframe_img: "images/universities/video_preview_1d0ce94b.jpg"
 ---

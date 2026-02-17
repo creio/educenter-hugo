@@ -7,13 +7,13 @@ draft: false
 bg_image: "/images/universities/Screenshot_11-1.jpg"
 image: "/images/universities/Screenshot_11-1.jpg"
 iframe_video:
-  - iframe_link: "https://rutube.ru/play/embed/afb36cd5b9ce2ac5f1b7460aec9da9e9/"
+  - iframe_link: "https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/"
     iframe_title: "Видео-тур по Нанькайскому университету"
     iframe_img: "images/universities/video_preview_a8577ed2.jpg"
-  - iframe_link: "https://rutube.ru/play/embed/6d93db58fbed4db9a15843bd9357dbff"
+  - iframe_link: "https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/"
     iframe_title: "Как выглядит китайский вуз?"
     iframe_img: "images/universities/video_preview_262344ad.jpg"
-  - iframe_link: "https://rutube.ru/play/embed/20d7117c3a257b10f45802c1af4c4728"
+  - iframe_link: "https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/"
     iframe_title: "START GLOBAL, START WITH CHINA"
     iframe_img: "images/universities/video_preview_1d0ce94b.jpg"
 ---

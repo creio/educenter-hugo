@@ -7,11 +7,11 @@ draft: false
 bg_image: "images/backgrounds/page-title.jpg"
 # image: "images/about/about-page.jpg"
 iframe_video:
-  - iframe_link: "https://rutube.ru/play/embed/95eed8c9e3fa4902161a0328516d38ad/"
+  - iframe_link: "https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/"
     iframe_title: "Видео-тур по Таньцзиньскому Университету"
-  - iframe_link: "https://rutube.ru/play/embed/6d93db58fbed4db9a15843bd9357dbff/"
+  - iframe_link: "https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/"
     iframe_title: "Как выглядит китайский вуз?"
-  - iframe_link: "https://rutube.ru/play/embed/20d7117c3a257b10f45802c1af4c4728"
+  - iframe_link: "https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/"
     iframe_title: "START GLOBAL, START WITH CHINA"
 ---
 
@@ -53,25 +53,25 @@ result
 В данном случае `poster` не обязательный параметр.
 
 ```bash
-< video src="https://rutube.ru/play/embed/95eed8c9e3fa4902161a0328516d38ad/" poster="/images/cities/akademiya.jpg" >
+< video src="https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/" poster="/images/cities/akademiya.jpg" >
 ```
 
 result
 
-{{< video src="https://rutube.ru/play/embed/95eed8c9e3fa4902161a0328516d38ad/" poster="/images/cities/akademiya.jpg" >}}
+{{< video src="https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/" poster="/images/cities/akademiya.jpg" >}}
 
 ## Video gallery
 
 ```bash
 < video-gallery id="demo" >
-https://rutube.ru/play/embed/95eed8c9e3fa4902161a0328516d38ad/,Demo
-https://rutube.ru/play/embed/95eed8c9e3fa4902161a0328516d38ad/
+https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/,Demo
+https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
 < /video-gallery >
 ```
 
 {{< video-gallery id="demo" >}}
 https://www.youtube.com/embed/iLBrDXHnk6g,Demo
-https://rutube.ru/play/embed/95eed8c9e3fa4902161a0328516d38ad/
+https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
 {{< /video-gallery >}}
 
 
@@ -98,11 +98,11 @@ result
 
 ```bash
 iframe_video:
-  - iframe_link: "https://rutube.ru/play/embed/95eed8c9e3fa4902161a0328516d38ad/"
+  - iframe_link: "https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/"
     iframe_title: "Видео-тур по Таньцзиньскому Университету"
-  - iframe_link: "https://rutube.ru/play/embed/6d93db58fbed4db9a15843bd9357dbff/"
+  - iframe_link: "https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/"
     iframe_title: "Как выглядит китайский вуз?"
-  - iframe_link: "https://rutube.ru/play/embed/20d7117c3a257b10f45802c1af4c4728"
+  - iframe_link: "https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/"
     iframe_title: "START GLOBAL, START WITH CHINA"
 ```
 

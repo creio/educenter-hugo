@@ -32,10 +32,10 @@ image: "/images/programs/camp_article-e1706813238560.png"
 ## Как проходят наши лагеря
 
 {{< video-gallery >}}
-https://rutube.ru/play/embed/07bc91de5be6d4c70e849c5ad27d2e00/
-https://rutube.ru/play/embed/c454ff2cacb10034f1f4d7e240d3d89a/
-https://rutube.ru/play/embed/f951f806f73474b907dd576b240bf0ab/
-https://rutube.ru/play/embed/679b806e2756f541ae15305ddf99f52b/
+https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
 {{< /video-gallery >}}
 
 ## Описание программ

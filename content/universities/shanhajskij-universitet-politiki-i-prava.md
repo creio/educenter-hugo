@@ -7,13 +7,13 @@ draft: false
 bg_image: "/images/universities/Screenshot_1-1-3-e1558699305580.jpg"
 image: "/images/universities/Screenshot_1-1-3-e1558699305580.jpg"
 iframe_video:
-  - iframe_link: "https://rutube.ru/play/embed/c0c3f32df349313212d2e7fcc0b7a836"
+  - iframe_link: "https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/"
     iframe_title: "Видео-тур по Шанхайскому университету политики и права"
     iframe_img: "images/universities/video_preview_388b0647.jpg"
-  - iframe_link: "https://rutube.ru/play/embed/6d93db58fbed4db9a15843bd9357dbff/"
+  - iframe_link: "https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/"
     iframe_title: "Как выглядит китайский вуз?"
     iframe_img: "images/universities/video_preview_262344ad.jpg"
-  - iframe_link: "https://rutube.ru/play/embed/20d7117c3a257b10f45802c1af4c4728"
+  - iframe_link: "https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/"
     iframe_title: "START GLOBAL, START WITH CHINA"
     iframe_img: "images/universities/video_preview_1d0ce94b.jpg"
 ---

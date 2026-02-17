@@ -7,7 +7,7 @@ draft: false
 bg_image: "/images/cities/xian-e1574693696712_1.jpg"
 image: "/images/cities/xian-e1574693696712_1.jpg"
 iframe_video:
-  - iframe_link: "https://rutube.ru/play/embed/2898e30403925b0b714d279a9ed240ff/"
+  - iframe_link: "https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/"
     iframe_title: ""
     iframe_img: "/images/cities/7fc06f35b3f6eb1522a0001e1126bbda_1.jpg"
 ---

@@ -7,13 +7,13 @@ draft: false
 bg_image: "/images/universities/6355676356901009482030425-1.jpg"
 image: "/images/universities/6355676356901009482030425-1.jpg"
 iframe_video:
-  - iframe_link: "https://rutube.ru/play/embed/121bdac9c2780c91639e2ae1c2449b3e"
+  - iframe_link: "https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/"
     iframe_title: "Как проходит обучение в Харбине? российский студент PandaIQ.ru в Харбинском Институте Технологий"
     iframe_img: "images/universities/video_preview_4ed22df0.png"
-  - iframe_link: "https://rutube.ru/play/embed/3e0c11248ce898f4b37d84eb1eb6bb83"
+  - iframe_link: "https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/"
     iframe_title: "Анастасия об обучении в Китае на IFP PandaIQ.ru в Харбине - Наука и Инженерия"
     iframe_img: "images/universities/video_preview_bd66e2f3.jpg"
-  - iframe_link: "https://rutube.ru/play/embed/8ac407bddd797d53e8f342fc053b7599"
+  - iframe_link: "https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/"
     iframe_title: "Студенты в Харбине (hit) harbin institute of technology china campus network (ccn)"
     iframe_img: "images/universities/video_preview_1ff9a245.jpg"
 ---

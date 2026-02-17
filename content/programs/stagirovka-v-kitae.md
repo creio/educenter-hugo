@@ -109,6 +109,6 @@ IFP также включает культурные мероприятия и �
 ## Что мы знаем о Китае?
 
 {{< video-gallery >}}
-https://rutube.ru/play/embed/383d36364f5a49627c18b29dfbac97ee/
-https://rutube.ru/play/embed/6e8a82f647639e752b3ebc6739fffed8/
+https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
+https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/
 {{< /video-gallery >}}

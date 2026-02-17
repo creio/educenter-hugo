@@ -7,10 +7,10 @@ draft: false
 bg_image: "/images/cities/alessio-lin-OFlzoTfpRdw-unsplash_1.jpg"
 image: "/images/cities/alessio-lin-OFlzoTfpRdw-unsplash_1.jpg"
 iframe_video:
-  - iframe_link: "https://rutube.ru/play/embed/730bf3e4c3abe0c4c4fdb267ca8432d2/"
+  - iframe_link: "https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/"
     iframe_title: "Поездка студентов PandaIQ.ru в Алибаба, штаб-квартира в Ханчжоу, Китай"
     iframe_img: "/images/cities/52021f4d565813d8aa31493df31310e7_1.jpg"
-  - iframe_link: "https://rutube.ru/play/embed/cfaabd41f90c1cea5cc7a48b6f2d8702/"
+  - iframe_link: "https://rutube.ru/play/embed/2972c71905d5bc5cb873e653b98f31c3/"
     iframe_title: "Студенческая поездка в Сучжоу и Ханчжоу"
     iframe_img: "/images/cities/most_hanchzhou_2_1.jpg"
 ---

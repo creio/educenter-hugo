@@ -149,9 +149,3 @@ tags: ['Китай', 'Китайский язык']
 
 Индивидуальный тариф  
 36 800 руб.
-
-## Вам может пригодиться
-
-[Презентация PandaIQ.ru Business Training](/wp-content/uploads/2019/03/PandaIQ.ru-korporativnoe-obuchenie.pdf)
-
-[Лицензия на осуществление образовательной деятельности](/wp-content/uploads/2018/04/litsenziya_OOO__SiSiN__.pdf)

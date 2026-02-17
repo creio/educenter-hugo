@@ -1,10 +1,10 @@
 ---
-title: "BEST VLOG CONTEST &#8211;  проводит конкурс на лучший влог"
-h1: "BEST VLOG CONTEST &#8211; PandaIQ.ru проводит конкурс на лучший влог"
+title: "BEST VLOG CONTEST  проводит конкурс на лучший влог"
+h1: "BEST VLOG CONTEST PandaIQ.ru проводит конкурс на лучший влог"
 date: 2019-07-27T10:31:29
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
-description: "Статья с сайта ChinaCampus: BEST VLOG CONTEST &#8211; PandaIQ.ru проводит конкурс на лучший влог"
+description: "Статья с сайта ChinaCampus: BEST VLOG CONTEST PandaIQ.ru проводит конкурс на лучший влог"
 image: ""
 categories: ["Образование"]
 tags: ['Китай', 'PandaIQ.ru']

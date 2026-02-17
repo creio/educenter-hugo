@@ -2,7 +2,7 @@
 title: "Стажировки - обучение в Китае для русских"
 h1: "Вакансии и стажировки"
 description: "Обучение в лучших ВУЗах Китая для российских студентов вместе с PandaIQ.ru. Предвузовская подготовка и языковые курсы!"
-date: 2026-02-06T19:08:46.733768
+date: 2025-04-16T04:47:25
 draft: false
 bg_image: "/images/programs/Artice-3_har_1.jpg"
 image: "/images/programs/Artice-3_har_1.jpg"

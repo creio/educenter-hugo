@@ -1,7 +1,7 @@
 ---
 title: "Перспективные специальности в финтехе"
 h1: "Перспективные специальности в финтехе"
-date: 2019-07-27T10:53:14
+date: 2025-06-03T06:07:35
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Перспективные специальности в финтехе"

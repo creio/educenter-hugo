@@ -1,7 +1,7 @@
 ---
 title: "Студенты прилетели в летний лагерь IFP "
 h1: "Студенты прилетели в летний лагерь IFP PandaIQ.ru"
-date: 2019-07-27T10:31:32
+date: 2025-03-31T18:14:07
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Студенты прилетели в летний лагерь IFP PandaIQ.ru"

@@ -1,7 +1,7 @@
 ---
 title: "Учеба в Китае: личный опыт студентки Xi&#8217;an Jiaotong University"
 h1: "Учеба в Китае: личный опыт студентки Xi&#8217;an Jiaotong University"
-date: 2025-06-16T23:05:28
+date: 2025-09-28T20:19:42
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Учеба в Китае: личный опыт студентки Xi&#8217;an Jiaotong University"

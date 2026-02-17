@@ -1,7 +1,7 @@
 ---
 title: "Нанкинские университеты"
 h1: "Нанкинские университеты"
-date: 2024-09-09T12:16:13
+date: 2025-08-13T08:21:24
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Нанкинские университеты"

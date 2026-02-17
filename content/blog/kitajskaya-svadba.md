@@ -1,7 +1,7 @@
 ---
 title: "Китайская свадьба"
 h1: "Китайская свадьба"
-date: 2020-10-31T17:42:29
+date: 2025-12-13T06:22:36
 draft: false
 bg_image: "/images/blog/2wed.jpg"
 description: "Статья с сайта ChinaCampus: Китайская свадьба"

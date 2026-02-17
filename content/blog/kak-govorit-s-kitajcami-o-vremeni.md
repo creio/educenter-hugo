@@ -1,7 +1,7 @@
 ---
 title: "Как говорить с китайцами о времени?"
 h1: "Как говорить с китайцами о времени?"
-date: 2019-07-27T10:45:27
+date: 2025-10-05T18:31:19
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Как говорить с китайцами о времени?"

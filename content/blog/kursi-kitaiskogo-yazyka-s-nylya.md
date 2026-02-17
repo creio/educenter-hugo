@@ -1,7 +1,7 @@
 ---
 title: "Курсы китайского языка с нуля"
 h1: "Курсы китайского языка с нуля"
-date: 2019-11-12T16:50:33
+date: 2025-12-26T12:51:37
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Курсы китайского языка с нуля"

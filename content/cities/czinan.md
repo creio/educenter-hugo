@@ -2,7 +2,7 @@
 title: "Университеты Цзинань"
 h1: "Цзинань"
 description: "Куда сходить в городе Цзинань  провинции Шаньдун, цены, еда, о студентах - перспективы в городе. Обучение в Китае вместе с PandaIQ.ru. Практика английского и Китайского языка для студентов."
-date: 2026-02-06T10:10:33.595118
+date: 2025-06-08T06:01:39
 draft: false
 bg_image: "/images/cities/quyunshuo-9xw6ob51g5k-unsplash_1.jpg"
 image: "/images/cities/quyunshuo-9xw6ob51g5k-unsplash_1.jpg"

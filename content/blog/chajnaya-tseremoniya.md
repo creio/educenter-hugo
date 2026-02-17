@@ -1,7 +1,7 @@
 ---
 title: "Чайная церемония"
 h1: "Чайная церемония"
-date: 2020-10-13T12:33:07
+date: 2025-03-09T08:56:18
 draft: false
 bg_image: "/images/blog/3tea.jpg"
 description: "Статья с сайта ChinaCampus: Чайная церемония"

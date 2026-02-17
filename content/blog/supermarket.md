@@ -1,7 +1,7 @@
 ---
 title: "Китайский супермаркет"
 h1: "Китайский супермаркет"
-date: 2019-11-25T12:19:45
+date: 2025-02-13T10:18:48
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Китайский супермаркет"

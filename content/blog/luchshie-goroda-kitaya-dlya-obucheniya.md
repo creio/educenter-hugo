@@ -1,7 +1,7 @@
 ---
 title: "Лучшие города для учебы в Китае"
 h1: "Лучшие города для учебы в Китае"
-date: 2025-05-12T09:14:42
+date: 2025-03-06T04:10:58
 draft: false
 bg_image: "/images/blog/x3fj477w8b2gmgqo0wd0zq9dtx2um82g-e1741695379590.jpg"
 description: "Статья с сайта ChinaCampus: Лучшие города для учебы в Китае"

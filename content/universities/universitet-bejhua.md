@@ -2,7 +2,7 @@
 title: "Beihua University - университет Бэйхуа город Цзилинь"
 h1: "Университет Бэйхуа"
 description: "Университет Бэйхуа самый большой ведущий провинциальный университет в провинции Цзилинь. Станьте студентов престижного ВУЗа вместе с china campus network!"
-date: 2026-01-30T14:48:34.580791
+date: 2026-01-23T04:26:26
 draft: false
 bg_image: "/images/universities/North-Campus-1.jpg"
 image: "/images/universities/North-Campus-1.jpg"

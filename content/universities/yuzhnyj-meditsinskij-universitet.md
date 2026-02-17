@@ -2,7 +2,7 @@
 title: "Southern Medical University - Южный медицинский университет"
 h1: "Южный медицинский университет"
 description: "Университет был основан в октябре 1951 года и вскоре стал одним из ключевых национальных вузов Китая."
-date: 2026-01-30T14:48:09.799572
+date: 2025-09-22T13:23:24
 draft: false
 bg_image: "/images/universities/5de8d044772a176b4b2ae83aea2326eb-1-e1558951515780.jpg"
 image: "/images/universities/5de8d044772a176b4b2ae83aea2326eb-1-e1558951515780.jpg"

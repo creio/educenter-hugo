@@ -1,7 +1,7 @@
 ---
 title: "День холостяка"
 h1: "День холостяка"
-date: 2020-11-20T12:09:47
+date: 2025-06-21T00:42:11
 draft: false
 bg_image: "/images/blog/11-2.jpg"
 description: "Статья с сайта ChinaCampus: День холостяка"

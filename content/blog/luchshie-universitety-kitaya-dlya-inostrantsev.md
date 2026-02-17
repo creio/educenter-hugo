@@ -2,7 +2,7 @@
 title: "Лучшие университеты Китая для иностранцев"
 h1: "Лучшие университеты Китая для иностранцев"
 description: "Статья с сайта ChinaCampus: Лучшие университеты Китая для иностранцев"
-date: 2026-01-22T11:40:32
+date: 2026-01-12T11:59:42
 draft: false
 bg_image: "/images/blog/luchshie-universitety-kitaya-dlya-inostrancev.jpg"
 image: "/images/blog/luchshie-universitety-kitaya-dlya-inostrancev.jpg"

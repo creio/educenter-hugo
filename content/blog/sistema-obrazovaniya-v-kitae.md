@@ -1,7 +1,7 @@
 ---
 title: "Система образования в Китае"
 h1: "Система образования в Китае"
-date: 2019-07-27T10:31:59
+date: 2025-03-05T04:31:45
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Система образования в Китае"

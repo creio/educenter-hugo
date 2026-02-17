@@ -1,7 +1,7 @@
 ---
 title: "Дистанционные курсы китайского языка"
 h1: "Дистанционные курсы китайского языка"
-date: 2019-09-02T11:32:14
+date: 2025-11-17T15:50:37
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Дистанционные курсы китайского языка"

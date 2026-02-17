@@ -1,7 +1,7 @@
 ---
 title: "Олимпиады по китайскому языку"
 h1: "Олимпиады по китайскому языку"
-date: 2023-02-13T10:40:46
+date: 2025-03-12T16:04:41
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Олимпиады по китайскому языку"

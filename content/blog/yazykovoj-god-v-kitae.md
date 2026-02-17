@@ -1,7 +1,7 @@
 ---
 title: "Языковой год в Китае в 2023 2024"
 h1: "Языковой год в Китае в 2023 2024"
-date: 2024-02-01T21:48:54
+date: 2025-12-31T07:46:27
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Языковой год в Китае в 2023 2024"

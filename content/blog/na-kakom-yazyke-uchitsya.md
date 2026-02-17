@@ -1,7 +1,7 @@
 ---
 title: "На каком языке можно учиться в Китае?"
 h1: "На каком языке можно учиться в Китае?"
-date: 2019-10-01T12:36:23
+date: 2025-03-13T20:05:25
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: На каком языке можно учиться в Китае?"

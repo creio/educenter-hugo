@@ -2,7 +2,7 @@
 title: "Университеты Ханчжоу в Китае - что посмотреть и достопримечательности"
 h1: "Ханчжоу"
 description: "Куда сходить в городе Ханчжоу, цены, еда, о студентах - перспективы в городе. Обучение в Китае вместе с PandaIQ.ru. Практика английского и Китайского языка для студентов."
-date: 2026-02-06T10:08:43.485893
+date: 2026-01-02T17:25:11
 draft: false
 bg_image: "/images/cities/alessio-lin-OFlzoTfpRdw-unsplash_1.jpg"
 image: "/images/cities/alessio-lin-OFlzoTfpRdw-unsplash_1.jpg"

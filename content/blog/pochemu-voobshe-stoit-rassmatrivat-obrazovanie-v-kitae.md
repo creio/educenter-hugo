@@ -1,7 +1,7 @@
 ---
 title: "Чему можно научиться в Китае?"
 h1: "Чему можно научиться в Китае?"
-date: 2019-09-30T19:25:41
+date: 2025-12-04T11:51:52
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Чему можно научиться в Китае?"

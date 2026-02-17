@@ -1,7 +1,7 @@
 ---
 title: "Учеба в Китае 2023"
 h1: "Учеба в Китае 2023"
-date: 2023-02-28T20:00:58
+date: 2025-07-02T10:19:48
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Учеба в Китае 2023"

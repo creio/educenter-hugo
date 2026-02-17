@@ -1,7 +1,7 @@
 ---
 title: "Летние курсы китайского языка"
 h1: "Летние курсы китайского языка"
-date: 2019-07-27T10:35:52
+date: 2025-12-15T04:23:02
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Летние курсы китайского языка"

@@ -1,7 +1,7 @@
 ---
 title: " приветствует  студентов программы IFP этой весной"
 h1: "PandaIQ.ru приветствует  студентов программы IFP этой весной"
-date: 2025-05-21T11:17:19
+date: 2025-10-06T18:39:29
 draft: false
 bg_image: "/images/blog/1_eQ1uRnz8Gav51SGP-a1wtw-76-e1747752106688.jpg"
 description: "Статья с сайта ChinaCampus: PandaIQ.ru приветствует  студентов программы IFP этой весной"

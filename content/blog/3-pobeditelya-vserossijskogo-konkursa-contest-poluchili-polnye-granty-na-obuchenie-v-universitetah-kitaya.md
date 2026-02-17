@@ -1,7 +1,7 @@
 ---
 title: "Победители Всероссийского конкурса  Contest"
 h1: "Победители Всероссийского конкурса PandaIQ.ru Contest"
-date: 2019-07-27T10:24:56
+date: 2025-02-10T03:43:19
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Победители Всероссийского конкурса PandaIQ.ru Contest"

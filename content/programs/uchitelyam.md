@@ -2,7 +2,7 @@
 title: "Курсы преподавателя китайского языка - учитель китайского языка обучение"
 h1: "Преподаватель китайского языка"
 description: "Приглашаем учителей к сотрудничеству с PandaIQ.ru Russia."
-date: 2026-02-06T19:08:46.733768
+date: 2025-12-20T18:12:48
 draft: false
 bg_image: "/images/programs/main_desc_bg.jpg"
 image: "/images/programs/main_desc_bg.jpg"

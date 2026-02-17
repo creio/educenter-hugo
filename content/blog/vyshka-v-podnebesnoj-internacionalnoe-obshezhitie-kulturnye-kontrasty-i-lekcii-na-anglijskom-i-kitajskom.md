@@ -1,7 +1,7 @@
 ---
 title: "«Вышка» в Поднебесной"
 h1: "«Вышка» в Поднебесной"
-date: 2019-07-27T10:32:48
+date: 2025-01-07T08:48:12
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: «Вышка» в Поднебесной"

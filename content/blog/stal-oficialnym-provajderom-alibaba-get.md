@@ -1,7 +1,7 @@
 ---
 title: " стал официальным провайдером Alibaba GET"
 h1: "PandaIQ.ru стал официальным провайдером Alibaba GET"
-date: 2019-10-01T11:35:13
+date: 2025-11-10T18:55:53
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: PandaIQ.ru стал официальным провайдером Alibaba GET"

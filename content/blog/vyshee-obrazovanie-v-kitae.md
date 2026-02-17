@@ -1,7 +1,7 @@
 ---
 title: "Высшее образование в Китае"
 h1: "Высшее образование в Китае"
-date: 2019-07-27T10:44:46
+date: 2025-11-08T23:05:11
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Высшее образование в Китае"

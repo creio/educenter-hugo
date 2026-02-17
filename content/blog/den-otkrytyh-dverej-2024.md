@@ -1,7 +1,7 @@
 ---
 title: "День открытых дверей 2024"
 h1: "День открытых дверей 2024"
-date: 2024-04-22T23:31:12
+date: 2025-05-06T21:22:42
 draft: false
 bg_image: "/images/blog/cover-6.png"
 description: "Статья с сайта ChinaCampus: День открытых дверей 2024"

@@ -1,7 +1,7 @@
 ---
 title: "Стипендии в Китае в 2019 2020 году"
 h1: "Стипендии в Китае в 2019 2020 году"
-date: 2019-07-27T10:31:56
+date: 2025-08-03T05:30:58
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Стипендии в Китае в 2019 2020 году"

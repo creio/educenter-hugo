@@ -2,7 +2,7 @@
 title: "Тяньцзинь достопримечательности - что посмотреть"
 h1: "Тяньцзинь"
 description: "Цены в городе, еда, куда сходить, соседние города - вся информация о Тяньцзинь - Tianjing город порт."
-date: 2026-02-06T10:13:46.420875
+date: 2025-06-17T22:33:35
 draft: false
 bg_image: "/images/cities/Tianjin.original.4557-2-1-e1553261194929_1.jpg"
 image: "/images/cities/Tianjin.original.4557-2-1-e1553261194929_1.jpg"

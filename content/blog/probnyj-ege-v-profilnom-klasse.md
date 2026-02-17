@@ -1,7 +1,7 @@
 ---
 title: "Пробный ЕГЭ в профильном классе "
 h1: "Пробный ЕГЭ в профильном классе PandaIQ.ru"
-date: 2021-05-26T09:43:16
+date: 2025-10-17T22:25:07
 draft: false
 bg_image: "/images/blog/smalltitle1.jpg"
 description: "Статья с сайта ChinaCampus: Пробный ЕГЭ в профильном классе PandaIQ.ru"

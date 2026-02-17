@@ -2,7 +2,7 @@
 title: "Учеба в Китае для россиян - обучение в Китае для русских"
 h1: "Обучение в Китае"
 description: "Обучение в лучших ВУЗах Китая для российских студентов вместе с PandaIQ.ru. Предвузовская подготовка и языковые курсы!"
-date: 2026-02-06T19:08:46.733768
+date: 2025-03-06T23:22:14
 draft: false
 bg_image: "/images/programs/whychina-main-bg1.jpg"
 image: "/images/programs/whychina-main-bg1.jpg"

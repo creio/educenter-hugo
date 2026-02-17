@@ -1,7 +1,7 @@
 ---
 title: "Университеты Пекина"
 h1: "Университеты Пекина"
-date: 2024-06-14T17:37:10
+date: 2025-07-03T14:10:11
 draft: false
 bg_image: "/images/blog/9.png"
 description: "Статья с сайта ChinaCampus: Университеты Пекина"

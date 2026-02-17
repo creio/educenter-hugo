@@ -1,7 +1,7 @@
 ---
 title: "Не родись красивой, а родись…умной!"
 h1: "Не родись красивой, а родись…умной!"
-date: 2019-10-01T13:43:21
+date: 2025-02-06T18:08:41
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Не родись красивой, а родись…умной!"

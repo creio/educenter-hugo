@@ -1,7 +1,7 @@
 ---
 title: "Где лучше учиться в Китае"
 h1: "Где лучше учиться в Китае"
-date: 2019-07-27T10:44:40
+date: 2025-10-23T03:17:51
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Где лучше учиться в Китае"

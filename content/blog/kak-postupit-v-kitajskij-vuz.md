@@ -1,7 +1,7 @@
 ---
 title: "Как поступить в китайский вуз"
 h1: "Как поступить в китайский вуз"
-date: 2019-07-27T10:26:18
+date: 2025-03-12T09:33:03
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Как поступить в китайский вуз"

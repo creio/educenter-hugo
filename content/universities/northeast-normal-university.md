@@ -2,7 +2,7 @@
 title: "Северо-восточный педагогический университет - Northeast Normal University"
 h1: "Северо-восточный педагогический университет"
 description: "Северо-восточный педагогический университет - узнайте, как поступить в университеты Китая с PandaIQ.ru"
-date: 2026-01-30T14:47:35.188171
+date: 2025-07-09T23:41:11
 draft: false
 bg_image: "/images/universities/Northeast_normal_university-1-e1703542401728.jpg"
 image: "/images/universities/Northeast_normal_university-1-e1703542401728.jpg"

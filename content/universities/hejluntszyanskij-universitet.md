@@ -2,7 +2,7 @@
 title: "Heilongjiang International University - Хэйлунцзянский университет иностранных языков в Харбине"
 h1: "Хэйлунцзянский университет"
 description: "Хэйлунцзянский университет традиционной китайской медицины был основан в 1941 году. Это многопрофильный ВУЗ с уклоном на гуманитарные науки."
-date: 2026-01-30T14:49:13.544134
+date: 2025-06-09T09:22:07
 draft: false
 bg_image: "/images/universities/73J_6hrwFIg.jpg"
 image: "/images/universities/73J_6hrwFIg.jpg"

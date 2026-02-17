@@ -1,7 +1,7 @@
 ---
 title: "Курсы китайского языка для детей"
 h1: "Курсы китайского языка для детей"
-date: 2019-07-27T10:35:58
+date: 2026-01-25T10:19:09
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Курсы китайского языка для детей"

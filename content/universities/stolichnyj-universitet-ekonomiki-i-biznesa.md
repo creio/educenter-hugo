@@ -2,7 +2,7 @@
 title: "Capital University Of Economics And Business - Столичный Университет Экономики и Бизнеса обучение в Пекине"
 h1: "Столичный университет экономики и бизнеса"
 description: "Один из лучших пекинских вузов, Столичный Университет экономики и бизнеса в Китае лидирует в своей области. Станьте студентом престижного ВУЗа вместе с PandaIQ.ru!"
-date: 2026-01-30T14:48:31.844675
+date: 2025-10-04T11:52:08
 draft: false
 bg_image: "/images/universities/Screenshot_2-1-1.jpg"
 image: "/images/universities/Screenshot_2-1-1.jpg"

@@ -1,7 +1,7 @@
 ---
 title: "Как отправить ребёнка учиться в Китай"
 h1: "Как отправить ребёнка учиться в Китай"
-date: 2019-07-27T10:53:19
+date: 2025-12-20T14:30:14
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Как отправить ребёнка учиться в Китай"

@@ -1,7 +1,7 @@
 ---
 title: "Как стать суперменом? Учи китайский!"
 h1: "Как стать суперменом? Учи китайский!"
-date: 2019-07-27T10:45:31
+date: 2025-05-12T16:08:53
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Как стать суперменом? Учи китайский!"

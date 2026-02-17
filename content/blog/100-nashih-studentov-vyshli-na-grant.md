@@ -1,7 +1,7 @@
 ---
 title: "100% наших студентов вышли на грант"
 h1: "100% наших студентов вышли на грант"
-date: 2019-07-27T10:32:44
+date: 2025-04-10T08:31:06
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: 100% наших студентов вышли на грант"

@@ -1,7 +1,7 @@
 ---
 title: "ЕГЭ по китайскому языку 2025"
 h1: "ЕГЭ по китайскому языку 2025"
-date: 2025-06-15T12:25:13
+date: 2025-05-28T15:06:07
 draft: false
 bg_image: "/images/blog/Nanjing-University-of-Science-and-Technolog-e1750143826903.jpeg"
 description: "Статья с сайта ChinaCampus: ЕГЭ по китайскому языку 2025"

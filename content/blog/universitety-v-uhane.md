@@ -1,7 +1,7 @@
 ---
 title: "Университеты в Ухане"
 h1: "Университеты в Ухане"
-date: 2024-04-23T22:54:01
+date: 2025-04-08T06:14:06
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Университеты в Ухане"

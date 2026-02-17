@@ -1,7 +1,7 @@
 ---
 title: "Никогда не оставляйте китайцам чаевые"
 h1: "Никогда не оставляйте китайцам чаевые"
-date: 2019-07-27T10:53:15
+date: 2025-11-14T13:17:15
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Никогда не оставляйте китайцам чаевые"

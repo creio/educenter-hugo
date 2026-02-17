@@ -1,7 +1,7 @@
 ---
 title: "Чтобы купить дёшево в Китае, торгуйтесь!"
 h1: "Чтобы купить дёшево в Китае, торгуйтесь!"
-date: 2019-07-27T10:53:49
+date: 2026-01-19T02:28:40
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Чтобы купить дёшево в Китае, торгуйтесь!"

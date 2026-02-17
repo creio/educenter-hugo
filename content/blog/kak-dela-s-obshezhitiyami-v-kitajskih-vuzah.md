@@ -1,7 +1,7 @@
 ---
 title: "Общежития в китайских университетах"
 h1: "Общежития в китайских университетах"
-date: 2019-10-01T12:40:16
+date: 2025-07-02T22:28:15
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Общежития в китайских университетах"

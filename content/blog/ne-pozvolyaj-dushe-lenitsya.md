@@ -1,7 +1,7 @@
 ---
 title: "Не позволяй душе лениться…"
 h1: "Не позволяй душе лениться…"
-date: 2019-11-07T15:16:10
+date: 2025-02-24T03:14:26
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Не позволяй душе лениться…"

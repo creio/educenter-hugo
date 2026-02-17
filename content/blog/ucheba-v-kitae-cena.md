@@ -1,7 +1,7 @@
 ---
 title: "Учеба в Китае"
 h1: "Учеба в Китае"
-date: 2024-04-10T14:59:19
+date: 2025-04-28T06:19:33
 draft: false
 bg_image: "/images/blog/study_1.jpg"
 description: "Статья с сайта ChinaCampus: Учеба в Китае"

@@ -1,7 +1,7 @@
 ---
 title: "Как отдыхают студенты в Китае"
 h1: "Как отдыхают студенты в Китае"
-date: 2019-10-01T12:58:58
+date: 2025-10-30T11:11:47
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Как отдыхают студенты в Китае"

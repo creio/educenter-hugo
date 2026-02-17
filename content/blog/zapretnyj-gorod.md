@@ -1,7 +1,7 @@
 ---
 title: "Запретный город"
 h1: "Запретный город"
-date: 2020-09-14T11:50:45
+date: 2025-01-27T09:29:11
 draft: false
 bg_image: "/images/blog/fobcity5.jpg"
 description: "Статья с сайта ChinaCampus: Запретный город"

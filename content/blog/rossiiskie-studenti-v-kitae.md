@@ -1,7 +1,7 @@
 ---
 title: "Российские студенты в Китае"
 h1: "Российские студенты в Китае"
-date: 2025-04-11T18:54:48
+date: 2025-08-18T18:55:22
 draft: false
 bg_image: "/images/blog/qaxQzXjDbWc.jpg"
 description: "Статья с сайта ChinaCampus: Российские студенты в Китае"

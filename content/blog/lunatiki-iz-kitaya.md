@@ -1,7 +1,7 @@
 ---
 title: "Лунатики из Китая"
 h1: "Лунатики из Китая"
-date: 2019-07-27T10:31:26
+date: 2025-11-15T23:52:57
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Лунатики из Китая"

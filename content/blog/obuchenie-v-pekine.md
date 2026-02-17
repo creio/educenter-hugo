@@ -1,7 +1,7 @@
 ---
 title: "Обучение в Пекине"
 h1: "Обучение в Пекине"
-date: 2023-08-29T12:37:53
+date: 2025-10-22T13:18:49
 draft: false
 bg_image: "/images/blog/Pekin_new-e1693302011804.jpg"
 description: "Статья с сайта ChinaCampus: Обучение в Пекине"

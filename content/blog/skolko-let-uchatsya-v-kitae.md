@@ -1,7 +1,7 @@
 ---
 title: "Сколько лет учатся в Китае"
 h1: "Сколько лет учатся в Китае"
-date: 2019-07-27T10:52:57
+date: 2025-06-04T08:22:01
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Сколько лет учатся в Китае"

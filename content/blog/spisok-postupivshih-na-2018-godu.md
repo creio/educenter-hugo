@@ -1,7 +1,7 @@
 ---
 title: "Список поступивших на 2018 год"
 h1: "Список поступивших на 2018 год"
-date: 2019-07-27T10:32:58
+date: 2025-04-23T13:39:14
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Список поступивших на 2018 год"

@@ -1,7 +1,7 @@
 ---
 title: "CSCA — новый обязательный экзамен для поступления в Китай"
 h1: "CSCA — новый обязательный экзамен для поступления в Китай"
-date: 2025-11-21T16:13:22
+date: 2025-05-07T09:41:44
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: CSCA — новый обязательный экзамен для поступления в Китай"

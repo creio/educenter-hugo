@@ -1,7 +1,7 @@
 ---
 title: "Гуманитарные университеты Китая"
 h1: "Гуманитарные университеты Китая"
-date: 2019-07-27T10:25:50
+date: 2025-11-24T16:22:01
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Гуманитарные университеты Китая"

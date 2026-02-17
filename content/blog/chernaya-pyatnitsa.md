@@ -1,7 +1,7 @@
 ---
 title: "Черная пятница в !"
 h1: "Черная пятница в PandaIQ.ru!"
-date: 2019-11-27T21:51:44
+date: 2025-12-03T08:28:57
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Черная пятница в PandaIQ.ru!"

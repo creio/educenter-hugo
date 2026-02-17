@@ -1,7 +1,7 @@
 ---
 title: "GOODBYE PARTY для будущих студентов !"
 h1: "GOODBYE PARTY для будущих студентов PandaIQ.ru!"
-date: 2019-07-27T10:31:25
+date: 2025-05-19T10:56:48
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: GOODBYE PARTY для будущих студентов PandaIQ.ru!"

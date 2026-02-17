@@ -1,7 +1,7 @@
 ---
 title: "Подработка в Китае: совершенно секретно"
 h1: "Подработка в Китае: совершенно секретно"
-date: 2019-07-27T10:24:25
+date: 2025-05-27T10:03:06
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Подработка в Китае: совершенно секретно"

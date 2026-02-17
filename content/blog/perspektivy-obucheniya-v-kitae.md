@@ -1,7 +1,7 @@
 ---
 title: "Перспективы обучения в Китае"
 h1: "Перспективы обучения в Китае"
-date: 2019-07-27T10:24:20
+date: 2025-09-29T07:25:03
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Перспективы обучения в Китае"

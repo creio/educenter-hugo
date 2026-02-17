@@ -1,7 +1,7 @@
 ---
 title: "Зачем ребенку учить китайский язык"
 h1: "Зачем ребенку учить китайский язык"
-date: 2024-12-27T12:13:39
+date: 2025-11-21T15:12:24
 draft: false
 bg_image: "/images/blog/Screenshot_4.jpg"
 description: "Статья с сайта ChinaCampus: Зачем ребенку учить китайский язык"

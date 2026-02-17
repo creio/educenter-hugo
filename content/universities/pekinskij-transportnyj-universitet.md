@@ -2,7 +2,7 @@
 title: "Beijing Jiaotong University - Пекинский транспортный университет в Китае"
 h1: "Пекинский транспортный университет"
 description: "Пекинский транспортный университет Вэйхай основан в 1896 году. Сильнейший инженерный вуз, особенно в сфере транспорта. Станьте его студентом вместе с PandaIQ.ru!"
-date: 2026-01-30T14:49:38.681903
+date: 2025-07-23T15:33:59
 draft: false
 bg_image: "/images/universities/Pekinskij-Transportnyj-oblozhka-2.jpg"
 image: "/images/universities/Pekinskij-Transportnyj-oblozhka-2.jpg"

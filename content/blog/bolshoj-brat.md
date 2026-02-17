@@ -1,7 +1,7 @@
 ---
 title: "Большой брат"
 h1: "Большой брат"
-date: 2019-12-26T23:54:11
+date: 2025-07-07T14:43:25
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Большой брат"

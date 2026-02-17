@@ -1,7 +1,7 @@
 ---
 title: "Профильное образование в школе"
 h1: "Профильное образование в школе"
-date: 2019-11-25T00:17:39
+date: 2025-12-07T03:15:54
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Профильное образование в школе"

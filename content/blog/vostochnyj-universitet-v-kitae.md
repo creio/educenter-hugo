@@ -1,7 +1,7 @@
 ---
 title: "Восточный университет в Китае"
 h1: "Восточный университет в Китае"
-date: 2024-03-27T18:50:59
+date: 2025-10-30T17:52:52
 draft: false
 bg_image: "/images/blog/825_585_1d00dfcdcc67c900cb84e7f23a7fa2d2.jpeg"
 description: "Статья с сайта ChinaCampus: Восточный университет в Китае"

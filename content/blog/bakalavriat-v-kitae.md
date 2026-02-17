@@ -1,7 +1,7 @@
 ---
 title: "Бакалавриат в Китае"
 h1: "Бакалавриат в Китае"
-date: 2019-07-27T10:34:09
+date: 2025-10-07T06:52:47
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Бакалавриат в Китае"

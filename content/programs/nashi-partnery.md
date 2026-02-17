@@ -2,7 +2,7 @@
 title: "Партнеры "
 h1: "Наши партнеры"
 description: "PandaIQ.ru имеет надежных представителей во многих городах. Контакты наших партнеров, которые помогут Вам подобрать программу обучения."
-date: 2026-02-06T19:08:46.733768
+date: 2025-04-22T11:51:12
 draft: false
 bg_image: "/images/programs/title-page-image5.jpg"
 image: "/images/programs/bg-long2.jpg"

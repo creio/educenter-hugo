@@ -1,7 +1,7 @@
 ---
 title: "Учитель с Новым Годом!"
 h1: "Учитель с Новым Годом!"
-date: 2019-12-27T00:06:56
+date: 2025-04-03T20:34:51
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Учитель с Новым Годом!"

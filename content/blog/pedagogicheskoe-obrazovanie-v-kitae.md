@@ -1,7 +1,7 @@
 ---
 title: "Педагогическое образование в Китае"
 h1: "Педагогическое образование в Китае"
-date: 2019-12-08T20:25:23
+date: 2026-01-19T08:12:13
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Педагогическое образование в Китае"

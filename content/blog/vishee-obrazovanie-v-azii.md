@@ -1,7 +1,7 @@
 ---
 title: "Высшее образование в Азии"
 h1: "Высшее образование в Азии"
-date: 2020-11-18T15:22:36
+date: 2025-01-22T02:14:23
 draft: false
 bg_image: "/images/blog/study_2.jpg"
 description: "Статья с сайта ChinaCampus: Высшее образование в Азии"

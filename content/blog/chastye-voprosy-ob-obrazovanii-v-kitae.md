@@ -1,7 +1,7 @@
 ---
 title: "Частые вопросы об образовании в Китае"
 h1: "Частые вопросы об образовании в Китае"
-date: 2019-07-27T10:24:12
+date: 2025-08-26T09:38:40
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Частые вопросы об образовании в Китае"

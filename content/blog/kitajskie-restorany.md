@@ -1,7 +1,7 @@
 ---
 title: "Студенты в китайском ресторане"
 h1: "Студенты в китайском ресторане"
-date: 2019-10-01T11:16:04
+date: 2025-09-24T06:05:56
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Студенты в китайском ресторане"

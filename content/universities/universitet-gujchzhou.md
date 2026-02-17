@@ -2,7 +2,7 @@
 title: "Guizhou University - Университет Гуйчжоу"
 h1: "Университет Гуйчжоу"
 description: "Университет был основан в 1902 году. Вуз предлагает широкий спектр курсов по 12 основным дисциплинам"
-date: 2026-01-30T14:48:21.168915
+date: 2025-03-20T04:52:40
 draft: false
 bg_image: "/images/universities/Screenshot_5-2.jpg"
 image: "/images/universities/Screenshot_5-2.jpg"

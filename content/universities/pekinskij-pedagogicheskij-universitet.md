@@ -2,7 +2,7 @@
 title: "Пекинский педагогический университет - Beijing Normal University"
 h1: "Пекинский педагогический университет"
 description: "BNU является одним из старейших государственных вузов Китая"
-date: 2026-01-30T14:48:28.823684
+date: 2026-01-10T21:41:12
 draft: false
 bg_image: "/images/universities/Beijing_Normal_University_Library-1-1-e1558014847673.jpg"
 image: "/images/universities/Beijing_Normal_University_Library-1-1-e1558014847673.jpg"

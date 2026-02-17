@@ -1,7 +1,7 @@
 ---
 title: "Лагерь для детей в Шанхае "
 h1: "Лагерь для детей в Шанхае PandaIQ.ru"
-date: 2019-07-27T10:31:40
+date: 2025-09-13T10:35:54
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Лагерь для детей в Шанхае PandaIQ.ru"

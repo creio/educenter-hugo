@@ -1,7 +1,7 @@
 ---
 title: "Требования к поступающим"
 h1: "Требования к поступающим"
-date: 2019-10-01T12:38:07
+date: 2025-10-17T07:29:14
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Требования к поступающим"

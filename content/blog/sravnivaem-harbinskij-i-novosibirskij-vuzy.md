@@ -1,7 +1,7 @@
 ---
 title: "Куда поступить технарю?"
 h1: "Куда поступить технарю?"
-date: 2019-07-27T10:53:54
+date: 2025-06-11T04:29:47
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Куда поступить технарю?"

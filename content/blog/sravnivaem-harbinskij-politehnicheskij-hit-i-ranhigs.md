@@ -1,7 +1,7 @@
 ---
 title: "Куда поступить на бизнес направление?"
 h1: "Куда поступить на бизнес направление?"
-date: 2019-07-27T10:54:09
+date: 2025-11-12T00:44:44
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Куда поступить на бизнес направление?"

@@ -1,7 +1,7 @@
 ---
 title: "Чтобы быть стильным, будь собой"
 h1: "Чтобы быть стильным, будь собой"
-date: 2019-07-27T10:45:30
+date: 2025-07-20T06:30:57
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Чтобы быть стильным, будь собой"

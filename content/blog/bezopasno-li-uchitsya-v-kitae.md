@@ -1,7 +1,7 @@
 ---
 title: "Безопасно ли учиться в Китае?"
 h1: "Безопасно ли учиться в Китае?"
-date: 2019-10-01T12:54:16
+date: 2025-01-25T02:46:04
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Безопасно ли учиться в Китае?"

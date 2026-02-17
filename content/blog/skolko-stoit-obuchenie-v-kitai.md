@@ -1,7 +1,7 @@
 ---
 title: "Стоимость обучения в Китае"
 h1: "Стоимость обучения в Китае"
-date: 2019-10-01T13:08:46
+date: 2025-05-11T00:41:21
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Стоимость обучения в Китае"

@@ -1,7 +1,7 @@
 ---
 title: "Питание в Китае"
 h1: "Питание в Китае"
-date: 2019-10-01T12:56:27
+date: 2025-03-04T12:04:57
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Питание в Китае"

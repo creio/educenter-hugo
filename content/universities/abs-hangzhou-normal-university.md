@@ -2,7 +2,7 @@
 title: "Бизнес-школа Alibaba(ABS) Ханчжоу педагогический университет - Alibaba Business School (ABS) Hangzhou Normal University"
 h1: "Бизнес-школа Alibaba(ABS) Ханчжоу педагогический университет"
 description: "Основанная в 2008 году, школа бизнеса Alibaba (далее именуемая «ABS») построена совместно Педагогическим университетом Ханчжоу"
-date: 2026-01-30T14:47:46.890071
+date: 2025-07-03T16:43:50
 draft: false
 bg_image: "/images/universities/Hanchzhou-4.jpg"
 image: "/images/universities/Hanchzhou-4.jpg"

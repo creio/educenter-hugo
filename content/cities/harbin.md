@@ -2,7 +2,7 @@
 title: "Университеты Харбина для русских - Harbin university обучение в Китае"
 h1: "Харбин"
 description: "Куда сходить в городе Харбин, цены, еда, о студентах - перспективы в городе. Обучение в Китае вместе с PandaIQ.ru. Практика английского и Китайского языка для студентов."
-date: 2026-02-06T10:12:02.475466
+date: 2025-05-07T14:20:36
 draft: false
 bg_image: "/images/cities/MAD_Harbin_Opera_House_001_-Hufton_Crow_1.jpg"
 image: "/images/cities/MAD_Harbin_Opera_House_001_-Hufton_Crow_1.jpg"

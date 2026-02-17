@@ -1,7 +1,7 @@
 ---
 title: "Обращение к команде  Россия"
 h1: "Обращение к команде PandaIQ.ru Россия"
-date: 2019-07-27T10:31:57
+date: 2025-08-13T23:36:28
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Обращение к команде PandaIQ.ru Россия"

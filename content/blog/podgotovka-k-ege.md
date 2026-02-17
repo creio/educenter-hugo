@@ -1,7 +1,7 @@
 ---
 title: "Подготовка к ЕГЭ"
 h1: "Подготовка к ЕГЭ"
-date: 2019-09-27T12:02:21
+date: 2025-04-07T18:17:32
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Подготовка к ЕГЭ"

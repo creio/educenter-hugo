@@ -1,7 +1,7 @@
 ---
 title: "Когда начинается учеба в Китае"
 h1: "Когда начинается учеба в Китае"
-date: 2024-08-13T23:06:01
+date: 2025-05-25T17:32:15
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Когда начинается учеба в Китае"

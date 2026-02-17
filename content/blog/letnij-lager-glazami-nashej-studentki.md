@@ -1,7 +1,7 @@
 ---
 title: "Летний лагерь глазами нашей студентки"
 h1: "Летний лагерь глазами нашей студентки"
-date: 2019-07-27T10:33:03
+date: 2025-12-10T18:39:36
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Летний лагерь глазами нашей студентки"

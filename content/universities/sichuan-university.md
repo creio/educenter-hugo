@@ -2,7 +2,7 @@
 title: "Сычуаньский университет - Сычуаньский университет"
 h1: "Сычуаньский университет"
 description: "Сычуаньский университет принимает иностранных студентов и предлагает множество программ бакалавриата."
-date: 2026-01-30T14:47:33.170873
+date: 2025-09-02T03:10:12
 draft: false
 bg_image: "/images/universities/1686922351_happylove-top-p-luchshie-universiteti-kitaya-pinterest-56-e1703542381749.jpg"
 image: "/images/universities/1686922351_happylove-top-p-luchshie-universiteti-kitaya-pinterest-56-e1703542381749.jpg"

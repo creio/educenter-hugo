@@ -1,7 +1,7 @@
 ---
 title: "День открытых дверей в офисе консорциума "
 h1: "День открытых дверей в офисе консорциума PandaIQ.ru"
-date: 2019-07-27T10:25:01
+date: 2025-05-01T23:07:44
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: День открытых дверей в офисе консорциума PandaIQ.ru"

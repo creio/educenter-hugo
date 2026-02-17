@@ -2,7 +2,7 @@
 title: "Педагогический университет Гуанси - Guangxi Normal University"
 h1: "Педагогический университет Гуанси"
 description: "Педагогический университет Гуанси (GXNU) —  Рассказываем про процесс поступления, стоимость обучения и стипендии."
-date: 2026-01-30T14:47:36.991627
+date: 2025-07-12T05:11:57
 draft: false
 bg_image: "/images/universities/Guangxi_Normal_University_Hall-2-e1703542447678.jpg"
 image: "/images/universities/Guangxi_Normal_University_Hall-2-e1703542447678.jpg"

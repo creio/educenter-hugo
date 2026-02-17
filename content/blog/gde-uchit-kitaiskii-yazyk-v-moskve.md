@@ -1,7 +1,7 @@
 ---
 title: "Где учить китайский язык в Москве"
 h1: "Где учить китайский язык в Москве"
-date: 2019-12-04T19:34:51
+date: 2025-05-12T09:35:01
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Где учить китайский язык в Москве"

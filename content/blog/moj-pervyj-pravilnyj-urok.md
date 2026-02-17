@@ -1,7 +1,7 @@
 ---
 title: "Мой первый правильный урок"
 h1: "Мой первый правильный урок"
-date: 2019-11-25T12:57:09
+date: 2025-08-23T00:11:47
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Мой первый правильный урок"

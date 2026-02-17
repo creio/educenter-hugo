@@ -1,7 +1,7 @@
 ---
 title: "Деловой китайский язык курс"
 h1: "Деловой китайский язык курс"
-date: 2023-08-15T11:20:20
+date: 2025-08-16T15:58:15
 draft: false
 bg_image: "/images/blog/meeting.jpg"
 description: "Статья с сайта ChinaCampus: Деловой китайский язык курс"

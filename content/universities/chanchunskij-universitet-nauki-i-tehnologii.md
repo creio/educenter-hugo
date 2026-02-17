@@ -2,7 +2,7 @@
 title: "Changchun University of Science and Technology - Северо восточный университет в Чанчуне науки и технологии"
 h1: "Чанчуньский университет науки и технологии"
 description: "Чанчуньскийнаучно технический университет китая - основан в 1958 году. ВУЗ широко известен как"
-date: 2026-01-30T14:48:26.539744
+date: 2025-10-18T23:52:19
 draft: false
 bg_image: "/images/universities/Screenshot_1-3.jpg"
 image: "/images/universities/Screenshot_1-3.jpg"

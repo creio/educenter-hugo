@@ -2,7 +2,7 @@
 title: "Zhejiang Universit of science and technology - Чжэцзянский университет научно технический в Ханчжоу"
 h1: "Чжэцзянский университет"
 description: "Университет ханчжоу в Китае основан в 1897 году, он входит в тройку вузов-лидеров страны. Университет входит в консорциум PandaIQ.ru, а потому очень удобен для Российских студентов!"
-date: 2026-01-30T14:48:02.275662
+date: 2025-06-25T23:55:50
 draft: false
 bg_image: "/images/universities/campus-in-autumn-e1559114553520.jpg"
 image: "/images/universities/campus-in-autumn-e1559114553520.jpg"

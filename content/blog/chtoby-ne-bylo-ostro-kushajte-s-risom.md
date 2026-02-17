@@ -1,7 +1,7 @@
 ---
 title: "Чтобы не было остро, кушайте с рисом"
 h1: "Чтобы не было остро, кушайте с рисом"
-date: 2019-07-27T10:45:33
+date: 2026-01-20T10:13:04
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Чтобы не было остро, кушайте с рисом"

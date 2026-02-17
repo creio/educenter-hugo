@@ -2,7 +2,7 @@
 title: "Southeast University - Юго-восточный университет"
 h1: "Юго-восточный университет"
 description: "Всесторонний исследовательский университет, специализирующийся на инженерных науках. Главный кампус SEU расположен в центре города Нанкин"
-date: 2026-01-30T14:48:11.639287
+date: 2025-04-30T15:06:51
 draft: false
 bg_image: "/images/universities/Screenshot_2-5-e1558937195102.jpg"
 image: "/images/universities/Screenshot_2-5-e1558937195102.jpg"

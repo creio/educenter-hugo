@@ -1,7 +1,7 @@
 ---
 title: "О вирусе в Китае"
 h1: "О вирусе в Китае"
-date: 2020-01-23T17:58:11
+date: 2025-09-28T16:25:39
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: О вирусе в Китае"

@@ -1,7 +1,7 @@
 ---
 title: "«Надо просто пережить первые 21 день»: история Лизы, студентки Xi’an Jiaotong University"
 h1: "«Надо просто пережить первые 21 день»: история Лизы, студентки Xi’an Jiaotong University"
-date: 2025-06-17T09:03:17
+date: 2025-05-29T01:47:58
 draft: false
 bg_image: "/images/blog/ice-73916-72515828_3XL-745723.jpg"
 description: "Статья с сайта ChinaCampus: «Надо просто пережить первые 21 день»: история Лизы, студентки Xi’an Jiaotong University"

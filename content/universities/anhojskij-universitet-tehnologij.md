@@ -2,7 +2,7 @@
 title: "Anhui University Of Technology - Аньхойский университет технологий в Китае"
 h1: "Аньхойский университет технологий"
 description: "Аньхойский технологический университет основан в 1958 году. Факультеты - металлургия, материаловедение, химическая, электрическая и механическая промышленность, компьютерные науки."
-date: 2026-01-30T14:48:37.619796
+date: 2025-07-24T17:31:10
 draft: false
 bg_image: "/images/universities/WtGkjFkLhwo.jpg"
 image: "/images/universities/WtGkjFkLhwo.jpg"

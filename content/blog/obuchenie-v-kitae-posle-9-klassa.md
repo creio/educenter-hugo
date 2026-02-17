@@ -1,7 +1,7 @@
 ---
 title: "Учеба в Китае после 9 класса"
 h1: "Учеба в Китае после 9 класса"
-date: 2019-07-27T10:34:19
+date: 2025-06-08T11:28:01
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Учеба в Китае после 9 класса"

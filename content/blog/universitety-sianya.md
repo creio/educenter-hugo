@@ -1,7 +1,7 @@
 ---
 title: "Обучение и университеты в Сиане"
 h1: "Обучение и университеты в Сиане"
-date: 2024-11-01T14:29:02
+date: 2025-10-25T02:38:53
 draft: false
 bg_image: "/images/blog/Northwestern-Polytechnical-University-China-Xian-55-e1730460285763.jpg"
 description: "Статья с сайта ChinaCampus: Обучение и университеты в Сиане"

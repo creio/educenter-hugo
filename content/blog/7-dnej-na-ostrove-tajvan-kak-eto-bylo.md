@@ -1,7 +1,7 @@
 ---
 title: "7 дней на острове Тайвань: как это было"
 h1: "7 дней на острове Тайвань: как это было"
-date: 2019-07-27T10:34:02
+date: 2025-08-11T16:50:23
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: 7 дней на острове Тайвань: как это было"

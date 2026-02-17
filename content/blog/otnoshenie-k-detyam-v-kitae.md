@@ -1,7 +1,7 @@
 ---
 title: "Отношение к детям в Китае"
 h1: "Отношение к детям в Китае"
-date: 2024-06-26T16:47:54
+date: 2025-08-15T18:55:52
 draft: false
 bg_image: "/images/blog/1.png"
 description: "Статья с сайта ChinaCampus: Отношение к детям в Китае"

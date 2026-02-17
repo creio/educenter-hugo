@@ -1,7 +1,7 @@
 ---
 title: "Будьте внимательны на дорогах Китая"
 h1: "Будьте внимательны на дорогах Китая"
-date: 2019-07-27T10:54:15
+date: 2025-03-26T01:40:49
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Будьте внимательны на дорогах Китая"

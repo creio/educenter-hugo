@@ -1,7 +1,7 @@
 ---
 title: "Что брать с собой в Китай?"
 h1: "Что брать с собой в Китай?"
-date: 2019-07-27T10:31:35
+date: 2025-07-10T10:13:35
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Что брать с собой в Китай?"

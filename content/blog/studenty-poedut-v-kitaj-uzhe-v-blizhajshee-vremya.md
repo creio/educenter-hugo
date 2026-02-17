@@ -1,7 +1,7 @@
 ---
 title: "Студенты  поедут в Китай уже в ближайшее время"
 h1: "Студенты PandaIQ.ru поедут в Китай уже в ближайшее время"
-date: 2023-01-27T16:25:50
+date: 2025-01-24T19:02:46
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Студенты PandaIQ.ru поедут в Китай уже в ближайшее время"

@@ -1,7 +1,7 @@
 ---
 title: "С какого возраста учат китайский язык"
 h1: "С какого возраста учат китайский язык"
-date: 2025-07-20T20:58:56
+date: 2025-05-14T02:05:41
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: С какого возраста учат китайский язык"

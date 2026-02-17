@@ -1,7 +1,7 @@
 ---
 title: "Разбор &#8220;Обучение в Китае&#8221;"
 h1: "Разбор &#8220;Обучение в Китае&#8221;"
-date: 2019-07-27T10:44:38
+date: 2025-06-18T19:09:13
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Разбор &#8220;Обучение в Китае&#8221;"

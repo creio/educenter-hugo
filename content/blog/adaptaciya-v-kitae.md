@@ -1,7 +1,7 @@
 ---
 title: "Адаптация в Китае"
 h1: "Адаптация в Китае"
-date: 2025-02-18T12:40:45
+date: 2025-11-01T22:16:34
 draft: false
 bg_image: "/images/blog/photo_2025-01-28_11-06-47.jpg"
 description: "Статья с сайта ChinaCampus: Адаптация в Китае"

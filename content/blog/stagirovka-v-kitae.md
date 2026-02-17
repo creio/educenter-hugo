@@ -1,7 +1,7 @@
 ---
 title: "Стажировка в Китае для студентов"
 h1: "Стажировка в Китае для студентов"
-date: 2019-10-01T10:03:40
+date: 2025-08-13T21:23:06
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Стажировка в Китае для студентов"

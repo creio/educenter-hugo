@@ -1,7 +1,7 @@
 ---
 title: "Границы Китая открыты для студентов"
 h1: "Границы Китая открыты для студентов"
-date: 2023-07-12T08:43:30
+date: 2026-01-12T16:42:42
 draft: false
 bg_image: "/images/blog/3fz8x9fxsq02os6p529tvh48qacklfqa-e1689140804847.jpg"
 description: "Статья с сайта ChinaCampus: Границы Китая открыты для студентов"

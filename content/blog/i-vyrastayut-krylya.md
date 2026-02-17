@@ -1,7 +1,7 @@
 ---
 title: "И вырастают крылья!"
 h1: "И вырастают крылья!"
-date: 2019-07-27T10:26:20
+date: 2025-07-09T18:52:14
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: И вырастают крылья!"

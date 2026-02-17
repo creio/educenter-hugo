@@ -1,7 +1,7 @@
 ---
 title: "Результаты зачисления потока 2018-2019 "
 h1: "Результаты зачисления потока 2018-2019 PandaIQ.ru"
-date: 2019-10-01T11:13:01
+date: 2025-01-16T09:25:07
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Результаты зачисления потока 2018-2019 PandaIQ.ru"

@@ -2,7 +2,7 @@
 title: "Сотрудничество с работодателями"
 h1: "Сотрудничество с работодателями"
 description: "Приглашаем российских работодателей к сотрудничеству с PandaIQ.ru Russia."
-date: 2026-02-06T19:08:46.733768
+date: 2025-03-05T15:18:54
 draft: false
 bg_image: "/images/programs/sotrud-bg.jpg"
 image: "/images/programs/main_desc_bg.jpg"

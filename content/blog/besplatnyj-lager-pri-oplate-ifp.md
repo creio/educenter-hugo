@@ -1,7 +1,7 @@
 ---
 title: "Летний лагерь в Шанхае бесплатно?"
 h1: "Летний лагерь в Шанхае бесплатно?"
-date: 2019-07-27T10:32:53
+date: 2025-09-20T14:18:15
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Летний лагерь в Шанхае бесплатно?"

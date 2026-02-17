@@ -2,7 +2,7 @@
 title: "Shandong University of science and technology - Шаньдунский университет обучение в Китае"
 h1: "Шаньдунский университет"
 description: "Шаньдунский университет, основанный в 1901 году, является одним из старейших и престижнейших вузов в Китае. Станьте его студентов вместе в china campus network!"
-date: 2026-01-30T14:48:16.447674
+date: 2025-04-27T12:47:07
 draft: false
 bg_image: "/images/universities/rTeQ1xpzCwI-2.jpg"
 image: "/images/universities/rTeQ1xpzCwI-2.jpg"

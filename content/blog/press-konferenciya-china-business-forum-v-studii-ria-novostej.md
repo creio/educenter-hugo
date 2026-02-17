@@ -1,7 +1,7 @@
 ---
 title: "Пресс-конференция China Business Forum в студии РИА Новостей"
 h1: "Пресс-конференция China Business Forum в студии РИА Новостей"
-date: 2019-07-27T10:35:56
+date: 2025-03-05T21:20:26
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Пресс-конференция China Business Forum в студии РИА Новостей"

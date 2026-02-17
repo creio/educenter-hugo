@@ -1,7 +1,7 @@
 ---
 title: "Технологические университеты Китая"
 h1: "Технологические университеты Китая"
-date: 2019-07-27T10:25:51
+date: 2025-12-11T09:33:25
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Технологические университеты Китая"

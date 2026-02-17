@@ -1,7 +1,7 @@
 ---
 title: "Языковая школа для студентов"
 h1: "Языковая школа для студентов"
-date: 2020-01-09T14:29:07
+date: 2025-03-16T22:27:27
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Языковая школа для студентов"

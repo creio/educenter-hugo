@@ -1,7 +1,7 @@
 ---
 title: "100 и 1 учебное заведение сотрудничают с  Russia"
 h1: "100 и 1 учебное заведение сотрудничают с PandaIQ.ru Russia"
-date: 2019-07-27T10:33:24
+date: 2025-08-08T07:56:48
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: 100 и 1 учебное заведение сотрудничают с PandaIQ.ru Russia"

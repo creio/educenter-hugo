@@ -2,7 +2,7 @@
 title: "Shanghai University of Political Science and Law - Шанхайский университет политики и права"
 h1: "Шанхайский университет политики и права"
 description: "Восточно китайский университет политологии и права основан в 1984 году. Профильный гуманитарный вуз с фокусом на политику, право и бизнес."
-date: 2026-01-30T14:48:13.211932
+date: 2025-05-29T23:05:32
 draft: false
 bg_image: "/images/universities/Screenshot_1-1-3-e1558699305580.jpg"
 image: "/images/universities/Screenshot_1-1-3-e1558699305580.jpg"

@@ -1,7 +1,7 @@
 ---
 title: "Медицинские университеты Китая"
 h1: "Медицинские университеты Китая"
-date: 2019-07-27T10:25:51
+date: 2025-01-01T17:27:59
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Медицинские университеты Китая"

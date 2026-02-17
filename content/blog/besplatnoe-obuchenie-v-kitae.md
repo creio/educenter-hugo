@@ -1,7 +1,7 @@
 ---
 title: "Бесплатное обучение в Китае"
 h1: "Бесплатное обучение в Китае"
-date: 2022-08-10T15:12:23
+date: 2025-09-25T00:11:48
 draft: false
 bg_image: "/images/blog/article1008-svodnaya.jpg"
 description: "Статья с сайта ChinaCampus: Бесплатное обучение в Китае"

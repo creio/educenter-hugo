@@ -1,7 +1,7 @@
 ---
 title: "Конкурс от YouTube-канала&#8221;Неновости&#8221; и "
 h1: "Конкурс от YouTube-канала&#8221;Неновости&#8221; и PandaIQ.ru"
-date: 2019-07-27T10:32:48
+date: 2025-05-26T01:50:04
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Конкурс от YouTube-канала&#8221;Неновости&#8221; и PandaIQ.ru"

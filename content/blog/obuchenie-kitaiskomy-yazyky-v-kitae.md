@@ -1,7 +1,7 @@
 ---
 title: "Обучение китайскому языку в Китае"
 h1: "Обучение китайскому языку в Китае"
-date: 2019-07-27T10:34:13
+date: 2025-09-24T22:58:17
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Обучение китайскому языку в Китае"

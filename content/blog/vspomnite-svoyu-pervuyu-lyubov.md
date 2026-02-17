@@ -1,7 +1,7 @@
 ---
 title: "Вспомните свою первую любовь&#8230;"
 h1: "Вспомните свою первую любовь&#8230;"
-date: 2019-07-27T10:45:26
+date: 2025-01-19T19:16:44
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Вспомните свою первую любовь&#8230;"

@@ -1,7 +1,7 @@
 ---
 title: "Обучение в Китае без знания языка"
 h1: "Обучение в Китае без знания языка"
-date: 2019-07-27T10:44:42
+date: 2025-12-22T13:51:25
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Обучение в Китае без знания языка"

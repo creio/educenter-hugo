@@ -1,7 +1,7 @@
 ---
 title: "День Мэй Нюй в Китае"
 h1: "День Мэй Нюй в Китае"
-date: 2019-07-27T10:52:54
+date: 2025-11-27T20:56:20
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: День Мэй Нюй в Китае"

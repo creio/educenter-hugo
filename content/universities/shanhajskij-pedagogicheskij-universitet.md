@@ -2,7 +2,7 @@
 title: "Шанхайский Педагогический Университет - Shanghai Normal University"
 h1: "Шанхайский педагогический университет"
 description: "Шанхайский Педагогический Университет — это государственный вуз КНР, один из трех ключевых университетов Шанхая"
-date: 2026-01-30T14:47:41.750231
+date: 2026-01-25T17:14:22
 draft: false
 bg_image: "/images/universities/Shanghai-Normal-University.jpg"
 image: "/images/universities/Shanghai-Normal-University.jpg"

@@ -1,7 +1,7 @@
 ---
 title: "АКЦИЯ! Раздели лето в Китае с другом"
 h1: "АКЦИЯ! Раздели лето в Китае с другом"
-date: 2019-07-27T10:53:09
+date: 2025-08-04T03:09:22
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: АКЦИЯ! Раздели лето в Китае с другом"

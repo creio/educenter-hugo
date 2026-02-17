@@ -1,7 +1,7 @@
 ---
 title: "Куда поступить на бизнес и экономику?"
 h1: "Куда поступить на бизнес и экономику?"
-date: 2019-07-27T10:53:57
+date: 2025-04-22T10:51:46
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Куда поступить на бизнес и экономику?"

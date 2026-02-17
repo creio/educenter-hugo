@@ -1,7 +1,7 @@
 ---
 title: "Международная торговля в Китае"
 h1: "Международная торговля в Китае"
-date: 2019-10-10T17:23:35
+date: 2025-07-24T13:33:26
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Международная торговля в Китае"

@@ -1,7 +1,7 @@
 ---
 title: "Родительское собрание с "
 h1: "Родительское собрание с PandaIQ.ru"
-date: 2019-07-27T10:32:43
+date: 2025-12-15T13:06:49
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Родительское собрание с PandaIQ.ru"

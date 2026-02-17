@@ -42,7 +42,7 @@
             {{ partial "image.html" (dict "Src" .Params.image "Alt" "thumb" "Class" "mr-3 post-thumb-sm") }}
           {{ end }}
         {{ else }}
-          <img src="/images/blog/post-placeholder.jpg" alt="{{ with .Params.h1 }}{{ . }}{{ else }}{{ .Title }}{{ end }}" class="mr-3 post-thumb-sm">
+          <img src="/images/backgrounds/post-placeholder.jpg" alt="{{ with .Params.h1 }}{{ . }}{{ else }}{{ .Title }}{{ end }}" class="mr-3 post-thumb-sm">
         {{ end}}
       </a>
       <div class="media-body">

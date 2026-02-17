@@ -1,7 +1,7 @@
 ---
 title: "Интервью с экспертом "
 h1: "Интервью с экспертом PandaIQ.ru"
-date: 2025-05-21T12:21:50
+date: 2025-12-07T23:33:46
 draft: false
 bg_image: "/images/blog/Screenshot_4.jpg"
 description: "Статья с сайта ChinaCampus: Интервью с экспертом PandaIQ.ru"

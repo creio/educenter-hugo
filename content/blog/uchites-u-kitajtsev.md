@@ -1,7 +1,7 @@
 ---
 title: "Как дожить до 100 лет в Китае"
 h1: "Как дожить до 100 лет в Китае"
-date: 2019-12-06T20:22:18
+date: 2025-06-07T15:58:46
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Как дожить до 100 лет в Китае"

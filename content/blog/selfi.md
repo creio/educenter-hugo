@@ -1,7 +1,7 @@
 ---
 title: "Селфи"
 h1: "Селфи"
-date: 2019-07-27T10:45:23
+date: 2025-11-07T01:12:10
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Селфи"

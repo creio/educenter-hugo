@@ -1,7 +1,7 @@
 ---
 title: "Магистратура в Китае 2024"
 h1: "Магистратура в Китае 2024"
-date: 2024-02-18T21:31:03
+date: 2025-02-04T21:33:32
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Магистратура в Китае 2024"

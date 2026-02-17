@@ -2,7 +2,7 @@
 title: "Northwestern Polytechnical University China - Северо-западный политехнический университет Сиань"
 h1: "Северо-западный политехнический Университет"
 description: "Северо - западный политехнический университет основан в 1938 году. Ключевой профиль вуза - образование и исследования в области авиационной, космической и морской инженерии."
-date: 2026-01-30T14:49:00.596343
+date: 2025-01-26T20:19:07
 draft: false
 bg_image: "/images/universities/3qqsjgnra7.jpg"
 image: "/images/universities/3qqsjgnra7.jpg"

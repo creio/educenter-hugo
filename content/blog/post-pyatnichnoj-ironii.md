@@ -1,7 +1,7 @@
 ---
 title: "Родительская гордость и пелена с глаз"
 h1: "Родительская гордость и пелена с глаз"
-date: 2019-07-27T10:34:05
+date: 2025-01-06T13:06:08
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Родительская гордость и пелена с глаз"

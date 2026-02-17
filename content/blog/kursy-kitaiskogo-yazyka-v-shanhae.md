@@ -1,7 +1,7 @@
 ---
 title: "Курсы китайского языка в Шанхае"
 h1: "Курсы китайского языка в Шанхае"
-date: 2019-07-27T10:44:31
+date: 2025-09-01T23:31:41
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Курсы китайского языка в Шанхае"

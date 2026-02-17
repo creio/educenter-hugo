@@ -1,7 +1,7 @@
 ---
 title: "E-Commerce. Что такое электронная коммерция?"
 h1: "E-Commerce. Что такое электронная коммерция?"
-date: 2021-04-21T11:09:49
+date: 2025-06-29T19:32:29
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: E-Commerce. Что такое электронная коммерция?"

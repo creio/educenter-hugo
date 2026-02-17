@@ -1,7 +1,7 @@
 ---
 title: "Продлеваем акцию “В Китай с друзьями!”"
 h1: "Продлеваем акцию “В Китай с друзьями!”"
-date: 2020-02-02T22:21:32
+date: 2025-02-14T05:54:57
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Продлеваем акцию “В Китай с друзьями!”"

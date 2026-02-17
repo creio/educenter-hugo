@@ -1,7 +1,7 @@
 ---
 title: "Рейтинг лучших университетов Китая"
 h1: "Рейтинг лучших университетов Китая"
-date: 2019-07-27T10:26:13
+date: 2025-07-31T22:14:47
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Рейтинг лучших университетов Китая"

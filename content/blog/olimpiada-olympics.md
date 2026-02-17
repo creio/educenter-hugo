@@ -1,7 +1,7 @@
 ---
 title: "Олимпиада  Olympics"
 h1: "Олимпиада PandaIQ.ru Olympics"
-date: 2019-07-27T10:45:28
+date: 2025-03-09T18:53:13
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Олимпиада PandaIQ.ru Olympics"

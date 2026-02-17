@@ -1,7 +1,7 @@
 ---
 title: "Условия жизни в Китае"
 h1: "Условия жизни в Китае"
-date: 2024-02-27T19:47:21
+date: 2025-04-21T21:47:36
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Условия жизни в Китае"

@@ -1,7 +1,7 @@
 ---
 title: "Если Вам дают шанс, используйте его"
 h1: "Если Вам дают шанс, используйте его"
-date: 2019-10-01T13:47:04
+date: 2025-08-28T08:14:45
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Если Вам дают шанс, используйте его"

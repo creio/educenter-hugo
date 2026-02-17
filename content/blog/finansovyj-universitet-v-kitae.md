@@ -1,7 +1,7 @@
 ---
 title: "Финансовый университет в Китае"
 h1: "Финансовый университет в Китае"
-date: 2024-03-27T19:45:58
+date: 2025-06-24T23:23:34
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Финансовый университет в Китае"

@@ -1,7 +1,7 @@
 ---
 title: "GOODBYE PARTY клуба "
 h1: "GOODBYE PARTY клуба PandaIQ.ru"
-date: 2019-07-27T10:31:28
+date: 2025-05-27T21:32:45
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: GOODBYE PARTY клуба PandaIQ.ru"

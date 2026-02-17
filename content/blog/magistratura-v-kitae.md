@@ -1,7 +1,7 @@
 ---
 title: "Магистратура в Китае для русских"
 h1: "Магистратура в Китае для русских"
-date: 2019-07-27T10:34:11
+date: 2025-03-16T14:58:21
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Магистратура в Китае для русских"

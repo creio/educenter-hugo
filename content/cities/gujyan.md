@@ -2,7 +2,7 @@
 title: "Гуйян достопримечательности и погода - Guiyang город в Китае"
 h1: "Гуйян"
 description: "Куда сходить в городе Гуйян, цены, еда, о студентах - перспективы в городе. Обучение в Китае вместе с PandaIQ.ru. Практика английского и Китайского языка для студентов."
-date: 2026-02-06T10:11:00.091306
+date: 2025-11-05T12:50:28
 draft: false
 bg_image: "/images/cities/maxresdefault-2_1.jpg"
 image: "/images/cities/maxresdefault-2_1.jpg"

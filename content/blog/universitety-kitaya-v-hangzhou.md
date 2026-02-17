@@ -1,7 +1,7 @@
 ---
 title: "Университеты Китая в Ханчжоу"
 h1: "Университеты Китая в Ханчжоу"
-date: 2024-09-10T12:19:30
+date: 2025-04-27T04:27:29
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Университеты Китая в Ханчжоу"

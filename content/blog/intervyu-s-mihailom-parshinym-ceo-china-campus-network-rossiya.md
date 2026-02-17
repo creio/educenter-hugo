@@ -1,7 +1,7 @@
 ---
 title: "Интервью с Михаилом Паршиным, CEO  Россия"
 h1: "Интервью с Михаилом Паршиным, CEO PandaIQ.ru Россия"
-date: 2025-02-19T17:09:09
+date: 2025-02-14T03:05:12
 draft: false
 bg_image: "/images/blog/oYXsi26Cyck.jpg"
 description: "Статья с сайта ChinaCampus: Интервью с Михаилом Паршиным, CEO PandaIQ.ru Россия"

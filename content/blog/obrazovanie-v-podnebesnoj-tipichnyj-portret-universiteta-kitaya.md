@@ -1,7 +1,7 @@
 ---
 title: "Типичный портрет университета в Китае"
 h1: "Типичный портрет университета в Китае"
-date: 2019-07-27T10:24:47
+date: 2025-10-13T16:24:50
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Типичный портрет университета в Китае"

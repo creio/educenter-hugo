@@ -1,7 +1,7 @@
 ---
 title: "Кто платит, тот и музыку заказывает!"
 h1: "Кто платит, тот и музыку заказывает!"
-date: 2019-07-27T10:31:25
+date: 2025-01-29T03:41:34
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Кто платит, тот и музыку заказывает!"

@@ -1,7 +1,7 @@
 ---
 title: "Юридическое образование в Китае"
 h1: "Юридическое образование в Китае"
-date: 2024-04-25T20:33:07
+date: 2025-11-05T10:08:42
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Юридическое образование в Китае"

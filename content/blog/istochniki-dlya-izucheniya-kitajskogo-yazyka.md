@@ -1,7 +1,7 @@
 ---
 title: "Источники для изучения китайского языка"
 h1: "Источники для изучения китайского языка"
-date: 2019-07-27T10:24:59
+date: 2025-01-22T06:45:34
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Источники для изучения китайского языка"

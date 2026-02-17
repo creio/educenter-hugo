@@ -1,7 +1,7 @@
 ---
 title: "Первый профильный класс  начал свое обучение"
 h1: "Первый профильный класс PandaIQ.ru начал свое обучение"
-date: 2019-10-09T10:09:38
+date: 2026-01-20T21:42:25
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Первый профильный класс PandaIQ.ru начал свое обучение"

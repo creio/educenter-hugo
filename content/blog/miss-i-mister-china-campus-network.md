@@ -1,7 +1,7 @@
 ---
 title: "Мисс и Мистер "
 h1: "Мисс и Мистер PandaIQ.ru"
-date: 2019-07-27T10:26:35
+date: 2025-09-24T17:24:32
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Мисс и Мистер PandaIQ.ru"

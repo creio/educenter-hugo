@@ -1,7 +1,7 @@
 ---
 title: "На каком языке преподают язык в Китае?"
 h1: "На каком языке преподают язык в Китае?"
-date: 2019-07-27T10:24:24
+date: 2025-08-25T01:16:59
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: На каком языке преподают язык в Китае?"

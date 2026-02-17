@@ -2,7 +2,7 @@
 title: "Nankai University Tianjin - Нанькайский университет Тяньцзинь обучение"
 h1: "Нанькайский университет"
 description: "Нанькайский университет в Китае считается одним из самых лучших классических вузов. Национальный многопрофильный вуз, ориентированный на научные исследования."
-date: 2026-01-30T14:48:18.525705
+date: 2025-11-07T16:36:37
 draft: false
 bg_image: "/images/universities/Screenshot_11-1.jpg"
 image: "/images/universities/Screenshot_11-1.jpg"

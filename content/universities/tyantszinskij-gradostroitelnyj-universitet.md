@@ -2,7 +2,7 @@
 title: "Tianjin Chengjian University — обучение в Китае с , рейтинги, программы"
 h1: "Тяньцзиньский градостроительный университет"
 description: "Tianjin Chengjian University — государственный технический вуз Китая. Специализируется на архитектуре, строительстве и урбанистике. Рейтинги, условия поступления, обучение для иностранных студентов."
-date: 2026-01-30T14:47:24.251948
+date: 2025-08-26T19:51:26
 draft: false
 bg_image: "/images/universities/TCU-baner.jpg"
 image: "/images/universities/TCU-baner.jpg"

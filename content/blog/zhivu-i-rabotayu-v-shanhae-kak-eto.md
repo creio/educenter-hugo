@@ -1,7 +1,7 @@
 ---
 title: "Живу и работаю в Шанхае: как это"
 h1: "Живу и работаю в Шанхае: как это"
-date: 2019-07-27T10:33:04
+date: 2025-05-21T11:26:09
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Живу и работаю в Шанхае: как это"

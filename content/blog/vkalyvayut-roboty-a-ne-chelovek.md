@@ -1,7 +1,7 @@
 ---
 title: "Вкалывают роботы, а не человек!"
 h1: "Вкалывают роботы, а не человек!"
-date: 2019-07-27T10:26:30
+date: 2025-06-16T03:18:30
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Вкалывают роботы, а не человек!"

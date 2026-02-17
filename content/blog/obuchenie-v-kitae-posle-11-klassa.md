@@ -1,7 +1,7 @@
 ---
 title: "Учеба в Китае после 11 класса"
 h1: "Учеба в Китае после 11 класса"
-date: 2019-07-27T10:35:54
+date: 2025-12-06T09:14:34
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Учеба в Китае после 11 класса"

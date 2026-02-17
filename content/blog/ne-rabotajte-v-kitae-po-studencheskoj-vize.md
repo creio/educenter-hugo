@@ -1,7 +1,7 @@
 ---
 title: "Не работайте в Китае по студенческой визе"
 h1: "Не работайте в Китае по студенческой визе"
-date: 2019-10-01T13:38:43
+date: 2025-07-26T05:54:01
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Не работайте в Китае по студенческой визе"

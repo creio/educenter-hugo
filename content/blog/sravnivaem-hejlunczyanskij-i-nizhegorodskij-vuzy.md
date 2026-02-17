@@ -1,7 +1,7 @@
 ---
 title: "Куда поступить гуманитарию?"
 h1: "Куда поступить гуманитарию?"
-date: 2019-07-27T10:54:00
+date: 2025-05-12T22:11:50
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Куда поступить гуманитарию?"

@@ -1,7 +1,7 @@
 ---
 title: "Китайский язык в школе"
 h1: "Китайский язык в школе"
-date: 2019-07-27T10:36:01
+date: 2025-03-29T03:30:01
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Китайский язык в школе"

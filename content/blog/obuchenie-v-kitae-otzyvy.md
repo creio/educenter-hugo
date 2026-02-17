@@ -1,7 +1,7 @@
 ---
 title: "Учеба в Китае отзывы"
 h1: "Учеба в Китае отзывы"
-date: 2022-11-21T10:39:48
+date: 2025-05-04T18:55:05
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Учеба в Китае отзывы"

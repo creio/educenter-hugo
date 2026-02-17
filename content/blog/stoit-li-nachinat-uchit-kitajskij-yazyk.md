@@ -1,7 +1,7 @@
 ---
 title: "Стоит ли учить китайский язык"
 h1: "Стоит ли учить китайский язык"
-date: 2025-05-20T21:10:49
+date: 2025-12-10T21:29:12
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Стоит ли учить китайский язык"

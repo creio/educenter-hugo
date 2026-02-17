@@ -1,7 +1,7 @@
 ---
 title: "Вы еще выбираете ВУЗ мечты?"
 h1: "Вы еще выбираете ВУЗ мечты?"
-date: 2019-07-27T10:24:50
+date: 2025-07-09T17:38:51
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Вы еще выбираете ВУЗ мечты?"

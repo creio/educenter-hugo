@@ -1,7 +1,7 @@
 ---
 title: "Первые &#8220;ласточки&#8221;  в Шанхае!"
 h1: "Первые &#8220;ласточки&#8221; PandaIQ.ru в Шанхае!"
-date: 2019-07-27T10:26:06
+date: 2025-05-23T05:19:08
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Первые &#8220;ласточки&#8221; PandaIQ.ru в Шанхае!"

@@ -1,7 +1,7 @@
 ---
 title: "Востребованные специальности"
 h1: "Востребованные специальности"
-date: 2019-07-27T10:24:58
+date: 2025-09-13T02:38:19
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Востребованные специальности"

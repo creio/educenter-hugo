@@ -1,7 +1,7 @@
 ---
 title: "Набран первый класс предвузовской подготовки  в Москве"
 h1: "Набран первый класс предвузовской подготовки PandaIQ.ru в Москве"
-date: 2019-07-27T10:54:03
+date: 2025-12-11T10:38:50
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Набран первый класс предвузовской подготовки PandaIQ.ru в Москве"

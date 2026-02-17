@@ -1,7 +1,7 @@
 ---
 title: "Как выбрать китайский вуз"
 h1: "Как выбрать китайский вуз"
-date: 2019-07-27T10:24:18
+date: 2025-07-15T09:05:13
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Как выбрать китайский вуз"

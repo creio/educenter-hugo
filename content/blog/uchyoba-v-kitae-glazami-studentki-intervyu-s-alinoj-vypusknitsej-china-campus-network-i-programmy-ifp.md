@@ -1,7 +1,7 @@
 ---
 title: "Учёба в Китае глазами студентки: интервью с Алиной — выпускницей  и программы IFP"
 h1: "Учёба в Китае глазами студентки: интервью с Алиной — выпускницей PandaIQ.ru и программы IFP"
-date: 2025-06-17T10:03:52
+date: 2025-08-11T19:53:16
 draft: false
 bg_image: "/images/blog/Nanjing-University-of-Science-and-Technolog-e1750143826903.jpeg"
 description: "Статья с сайта ChinaCampus: Учёба в Китае глазами студентки: интервью с Алиной — выпускницей PandaIQ.ru и программы IFP"

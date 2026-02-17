@@ -1,7 +1,7 @@
 ---
 title: "Магистратура в Шанхае"
 h1: "Магистратура в Шанхае"
-date: 2024-06-10T15:23:06
+date: 2025-11-25T20:07:57
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Магистратура в Шанхае"

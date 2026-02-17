@@ -1,7 +1,7 @@
 ---
 title: "Как выбрать языковую школу?"
 h1: "Как выбрать языковую школу?"
-date: 2019-10-16T16:47:20
+date: 2025-07-07T02:49:28
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Как выбрать языковую школу?"

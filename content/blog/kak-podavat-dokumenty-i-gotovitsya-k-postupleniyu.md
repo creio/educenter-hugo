@@ -1,7 +1,7 @@
 ---
 title: "Как готовиться к поступлению?"
 h1: "Как готовиться к поступлению?"
-date: 2019-10-01T13:18:47
+date: 2025-06-22T01:12:52
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Как готовиться к поступлению?"

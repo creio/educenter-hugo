@@ -1,7 +1,7 @@
 ---
 title: "Как студенты IFP сдали первый экзамен"
 h1: "Как студенты IFP сдали первый экзамен"
-date: 2019-07-27T10:33:11
+date: 2025-11-10T12:13:37
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Как студенты IFP сдали первый экзамен"

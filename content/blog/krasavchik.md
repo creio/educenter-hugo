@@ -1,7 +1,7 @@
 ---
 title: "Красавчик"
 h1: "Красавчик"
-date: 2019-07-27T10:52:59
+date: 2025-07-02T00:29:43
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Красавчик"

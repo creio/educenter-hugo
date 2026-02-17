@@ -1,7 +1,7 @@
 ---
 title: "Какой он самый русский город в Китае?"
 h1: "Какой он самый русский город в Китае?"
-date: 2019-07-27T10:33:00
+date: 2025-08-09T17:21:22
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Какой он самый русский город в Китае?"

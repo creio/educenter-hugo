@@ -1,7 +1,7 @@
 ---
 title: "Университеты Шанхая"
 h1: "Университеты Шанхая"
-date: 2019-07-27T10:26:19
+date: 2025-11-04T00:55:50
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Университеты Шанхая"

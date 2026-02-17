@@ -1,7 +1,7 @@
 ---
 title: "День Открытых Дверей Консорциума вузов  30 сентября 2017"
 h1: "День Открытых Дверей Консорциума вузов PandaIQ.ru 30 сентября 2017"
-date: 2019-07-27T10:31:50
+date: 2025-03-17T19:16:42
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: День Открытых Дверей Консорциума вузов PandaIQ.ru 30 сентября 2017"

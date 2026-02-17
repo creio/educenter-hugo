@@ -1,7 +1,7 @@
 ---
 title: "Уже 4 Московские школы официальные партнеры  Россия"
 h1: "Уже 4 Московские школы официальные партнеры PandaIQ.ru Россия"
-date: 2019-07-27T10:24:56
+date: 2025-10-22T04:50:41
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Уже 4 Московские школы официальные партнеры PandaIQ.ru Россия"

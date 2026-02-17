@@ -1,7 +1,7 @@
 ---
 title: "В Китай с друзьями!"
 h1: "В Китай с друзьями!"
-date: 2019-10-01T11:09:39
+date: 2025-04-11T02:57:32
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: В Китай с друзьями!"

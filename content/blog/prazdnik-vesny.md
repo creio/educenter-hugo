@@ -1,7 +1,7 @@
 ---
 title: "Праздник весны"
 h1: "Праздник весны"
-date: 2019-07-27T10:45:29
+date: 2025-11-07T21:17:38
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Праздник весны"

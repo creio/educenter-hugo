@@ -1,7 +1,7 @@
 ---
 title: "Можно ли выучить китайский язык за год?"
 h1: "Можно ли выучить китайский язык за год?"
-date: 2019-07-27T10:25:01
+date: 2025-09-22T10:32:28
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Можно ли выучить китайский язык за год?"

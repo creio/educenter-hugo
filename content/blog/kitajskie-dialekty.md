@@ -1,7 +1,7 @@
 ---
 title: "Китайские диалекты"
 h1: "Китайские диалекты"
-date: 2019-07-27T10:45:24
+date: 2025-09-26T05:32:08
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Китайские диалекты"

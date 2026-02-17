@@ -1,7 +1,7 @@
 ---
 title: "Дистанционное образование в Китае"
 h1: "Дистанционное образование в Китае"
-date: 2019-07-27T10:34:21
+date: 2025-10-20T08:04:52
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Дистанционное образование в Китае"

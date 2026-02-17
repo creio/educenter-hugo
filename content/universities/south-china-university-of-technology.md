@@ -2,7 +2,7 @@
 title: "Южно-китайский технологический университет - South China University of Technology"
 h1: "Южно-китайский технологический университет"
 description: "Южно-китайский технологический университет (SCUT) входит в список ведущих университетов Китая. В 2000 году вуз занял 34-ю строчку в рейтинге самых сильных высших школ по всей Азии"
-date: 2026-01-30T14:47:39.952120
+date: 2026-01-13T11:49:20
 draft: false
 bg_image: "/images/universities/guangzhou-1.jpeg"
 image: "/images/universities/guangzhou-1.jpeg"

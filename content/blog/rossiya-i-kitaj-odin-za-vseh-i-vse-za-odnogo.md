@@ -1,7 +1,7 @@
 ---
 title: "Россия и Китай один за всех и все за одного!"
 h1: "Россия и Китай один за всех и все за одного!"
-date: 2019-07-27T10:26:20
+date: 2026-01-12T02:29:51
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Россия и Китай один за всех и все за одного!"

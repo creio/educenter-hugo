@@ -1,7 +1,7 @@
 ---
 title: "Успех. Истории вчерашних студентов."
 h1: "Успех. Истории вчерашних студентов."
-date: 2019-07-27T10:33:26
+date: 2025-06-05T21:14:28
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Успех. Истории вчерашних студентов."

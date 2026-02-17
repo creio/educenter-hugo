@@ -1,7 +1,7 @@
 ---
 title: "Визит представителей китайских вузов в московский офис "
 h1: "Визит представителей китайских вузов в московский офис PandaIQ.ru"
-date: 2019-07-27T10:33:02
+date: 2025-02-07T09:51:32
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: Визит представителей китайских вузов в московский офис PandaIQ.ru"

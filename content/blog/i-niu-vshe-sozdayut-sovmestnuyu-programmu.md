@@ -1,7 +1,7 @@
 ---
 title: " и НИУ ВШЭ создают совместную программу"
 h1: "PandaIQ.ru и НИУ ВШЭ создают совместную программу"
-date: 2019-07-27T10:34:24
+date: 2026-01-03T02:47:41
 draft: false
 bg_image: "images/backgrounds/blog-title.jpg"
 description: "Статья с сайта ChinaCampus: PandaIQ.ru и НИУ ВШЭ создают совместную программу"

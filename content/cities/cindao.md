@@ -2,7 +2,7 @@
 title: "Университеты Циндао в Китае - обучение в вузе Qingdao"
 h1: "Циндао"
 description: "Куда сходить в городе Циндао - Qingdao, цены, еда, о студентах - перспективы в городе. Обучение в Китае вместе с PandaIQ.ru. Практика английского и Китайского языка для студентов."
-date: 2026-02-06T10:11:14.567874
+date: 2025-07-24T04:44:55
 draft: false
 bg_image: "/images/cities/jimmy-chang-Fl0Q1bGBKt8-unsplash_1.jpg"
 image: "/images/cities/jimmy-chang-Fl0Q1bGBKt8-unsplash_1.jpg"
